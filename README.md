@@ -23,8 +23,8 @@ My favourite video games of all time are:
 - Magenta / Purple 💜
 
 ### 📬 You can reach me on:
-- **Discord**: `@doctor-versum` 🔵
-- **Reddit**: [u/doctor-versum](https://reddit.com/u/doctor_versum) 🟠
+- **Discord**: `@doctor_versum` 🔵
+- **Reddit**: [u/doctor_versum](https://reddit.com/u/doctor_versum) 🟠
 
 ### 🪢 My tech:
 - **Main laptop** 💻: Lenovo Ideapad 3
