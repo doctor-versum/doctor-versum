@@ -65,6 +65,8 @@ My favourite video games of all time are:
 - **C++** _C_
 - A little bit of **Java** ☕️
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-versum&layout=compact&theme=github_dark)
+
 ### 🏳️ IRL languages:
 - **German** 🇩🇪
 - **English** 🇬🇧
