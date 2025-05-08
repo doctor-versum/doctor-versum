@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum)
+
 ## Hi there 👋
 
 I’m **Tobias**, a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning **Kotlin** and **Assembly**.
