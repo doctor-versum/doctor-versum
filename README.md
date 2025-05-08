@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum)
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)
-![trophies](https://github-profile-trophy.vercel.app/?username=doctor-versum)
+![Metrics](github-metrics.svg)
 
 ## Hi there 👋
 
@@ -82,4 +82,4 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark)
 ![Streak](https://streak-stats.demolab.com?user=doctor-versum&theme=dark)
 ![Followers](https://img.shields.io/github/followers/doctor-versum?label=Followers&style=default)
-![Metrics](github-metrics.svg)
+![trophies](https://github-profile-trophy.vercel.app/?username=doctor-versum)
