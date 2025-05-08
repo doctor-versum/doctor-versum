@@ -73,3 +73,6 @@ My pronouns are **he/him**.
 
 ### ⚡ Fun fact:
 My first experience with programming was with a **Fischertechnik Robotics LT controller**.
+
+### 📉 current stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark)
