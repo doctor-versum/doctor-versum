@@ -78,3 +78,4 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
 
 ### 📉 current stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark)
+![Streak](https://streak-stats.demolab.com?user=doctor-versum&theme=dark)
