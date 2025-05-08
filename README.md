@@ -55,7 +55,7 @@ My favourite video games of all time are:
 ### ⌨️ Programming languages:
 - **Python** 🐍
 - **HTML & CSS** (I know, it's technically not "programming" – Sue me!📖)
-- **JavaScript** _<span styles="background-color: magenta">JS</span>_
+- **JavaScript** _JS_
 - **Kotlin** _Kt_
 - **MCFunction** ⛏️
 - **Verilog** (god, I hate Verilog!) _v_
