@@ -26,8 +26,8 @@ My favourite video games of all time are:
 - Magenta / Purple 💜
 
 ### 📬 You can reach me on:
-- **Discord**: `@doctor_versum` 🔵
-- **Reddit**: [![Reddit](https://img.shields.io/badge/reddit-u%2Fdoctor--versum-FF4500?logo=reddit)](https://www.reddit.com/user/doctor-versum) 🟠
+- **Discord**: ![Discord](https://img.shields.io/badge/Discord-doctor%23versum-7289DA?logo=discord&logoColor=white&style=for-the-badge)
+- **Reddit**: [![Reddit](https://img.shields.io/badge/reddit-u%2Fdoctor_versum-FF4500?logo=reddit)](https://www.reddit.com/user/doctor_versum)
 
 ### 🪢 My tech:
 - **Main laptop** 💻: Lenovo Ideapad 3
