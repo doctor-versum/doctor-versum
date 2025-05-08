@@ -61,7 +61,7 @@ My favourite video games of all time are:
 - **Verilog** (god, I hate Verilog!) v
 - **Assembly** 💽
 - **C++** C
-- A little bit of **Java** ![java logo](https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg)
+- A little bit of **Java** <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" styles="height: 5%; width=auto"/>
 
 ### 🏳️ IRL languages:
 - **German** 🇩🇪
