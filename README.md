@@ -26,7 +26,7 @@ My favourite video games of all time are:
 - Magenta / Purple 💜
 
 ### 📬 You can reach me on:
-- **Discord**: ![Discord](https://img.shields.io/badge/Discord-doctor%23versum-7289DA?logo=discord&logoColor=white&style=for-the-badge)
+- **Discord**: ![Discord](https://img.shields.io/badge/Discord-doctor%23versum-7289DA?logo=discord&logoColor=white&style=social)
 - **Reddit**: [![Reddit](https://img.shields.io/badge/reddit-u%2Fdoctor_versum-FF4500?logo=reddit)](https://www.reddit.com/user/doctor_versum)
 
 ### 🪢 My tech:
@@ -80,3 +80,4 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
 ### 📉 current stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark)
 ![Streak](https://streak-stats.demolab.com?user=doctor-versum&theme=dark)
+![Followers](https://img.shields.io/github/followers/doctor-versum?label=Followers&style=social)
