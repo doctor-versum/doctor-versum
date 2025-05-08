@@ -1,4 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)
 
 ## Hi there 👋
 
