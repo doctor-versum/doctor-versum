@@ -46,11 +46,11 @@ My favourite video games of all time are:
   - 4 GB RAM
 
 ### 🛠️ Other tools I use:
-- GitHub Pages
-- Firebase
-- ChatGPT
-- GitHub Copilot
-- Flask
+- GitHub Pages ⚫️
+- Firebase 🔥
+- ChatGPT 🌼
+- GitHub Copilot 🤖
+- Flask 🌐
 
 ### ⌨️ Programming languages:
 - **Python** 🐍
