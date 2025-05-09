@@ -4,14 +4,14 @@
 
 ## Hi there 👋
 
-I’m **Tobias**, a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning **Kotlin** and **Assembly**.
+I’m **Tobias** (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning **Kotlin** and **Assembly**.
 
 ### 🛠️ Projects:
 I’m developing a **web app for TTRPG DMs and players** to store and manage character information, with integration support for custom projects.  
 Links 🔗:
 - [**dnd5eexplorer**](https://doctor-versum.github.io/dnd5eexplorer)
 - [**Dicebase (main website - WIP)**](https://dicebase.web.app)  
-Other projects can be found on my [about page](https://doctor-versum.github.io).
+- Other projects can be found on my [about page](https://doctor-versum.github.io).
 
 ### 🎮 Stuff I like:
 I’m a big fan 𖣘 of **video games** 🎮 and **TTRPGs** 🧝.  
@@ -31,7 +31,7 @@ My favourite video games of all time are:
 - **Reddit**: [![Reddit](https://img.shields.io/badge/reddit-u%2Fdoctor__versum-FF4500?logo=reddit)](https://www.reddit.com/user/doctor_versum)
 
 ### 🪢 My tech:
-- **Main laptop** 💻: Lenovo Ideapad 3
+- **Primary laptop** 💻: Lenovo Ideapad 3
   - Intel Core i5
   - Intel Iris Xe Graphics
   - 8 GB RAM
@@ -72,8 +72,6 @@ My favourite video games of all time are:
 ### 🏳️ IRL languages:
 - **German** 🇩🇪
 - **English** 🇬🇧
-
-My pronouns are **he/him**.
 
 ### ⚡ Fun fact:
 My first experience with programming was with a **Fischertechnik Robotics LT controller**.
