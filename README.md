@@ -78,5 +78,5 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
 
 ### 📉 current stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark)
-![GitHub Streak{web:fillpagew}](https://streak-stats.demolab.com?user=Doctor-versum&theme=transparent&hide_border=true&ring=EB00BA&stroke=9500EB&fire=EB00BA&currStreakNum=6B52EB&sideNums=00E1EB&currStreakLabel=00E1EB&sideLabels=EB00BA&dates=DC80EB)
+![GitHub Streak](https://streak-stats.demolab.com?user=Doctor-versum&theme=transparent&hide_border=true&ring=EB00BA&stroke=9500EB&fire=EB00BA&currStreakNum=6B52EB&sideNums=00E1EB&currStreakLabel=00E1EB&sideLabels=EB00BA&dates=DC80EB)
 ![trophies{web:fillpagew}](https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=discord&margin-w=15&no-frame=true)
