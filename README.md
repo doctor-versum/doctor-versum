@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum) ![Followers](https://img.shields.io/github/followers/doctor-versum?label=Followers&style=default)
-![activity graph{web:fillpagew}](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)
+![activity graph{web:fillpagew}](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true&radius=10)
 ![Metrics](github-metrics.svg)
 
 ## Hi there 👋
