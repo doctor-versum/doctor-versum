@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum) ![Followers](https://img.shields.io/github/followers/doctor-versum?label=Followers&style=default)
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)
+![activity graph{web:fillpagew}](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)
 ![Metrics](github-metrics.svg)
 
 ## Hi there 👋
@@ -78,5 +78,5 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
 
 ### 📉 current stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Doctor-versum&theme=transparent&hide_border=true&ring=EB00BA&stroke=9500EB&fire=EB00BA&currStreakNum=6B52EB&sideNums=00E1EB&currStreakLabel=00E1EB&sideLabels=EB00BA&dates=DC80EB)
-![trophies](https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=discord&margin-w=15&no-frame=true)
+![GitHub Streak{web:fillpagew}](https://streak-stats.demolab.com?user=Doctor-versum&theme=transparent&hide_border=true&ring=EB00BA&stroke=9500EB&fire=EB00BA&currStreakNum=6B52EB&sideNums=00E1EB&currStreakLabel=00E1EB&sideLabels=EB00BA&dates=DC80EB)
+![trophies{web:fillpagew}](https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=discord&margin-w=15&no-frame=true)
