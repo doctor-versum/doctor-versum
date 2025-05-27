@@ -36,6 +36,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add generated/widgets/*.svg
+          git add generated/*/*.svg
           git commit -m "chore: update external GitHub widgets" || echo "No changes"
           git push
