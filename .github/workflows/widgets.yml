@@ -1,0 +1,37 @@
+name: Fetch External GitHub Widgets
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Jede Stunde
+  workflow_dispatch:
+
+jobs:
+  fetch-widgets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Download GitHub Widgets
+        run: |
+          mkdir -p generated/widgets
+
+          # Contribution Graph (hell/dunkel)
+          curl -sL "https://github-readme-stats.vercel.app/api?username=doctor-versum&bg_color=ffffff&theme=default" -o generated/readme-stats/contributions-light.svg
+          curl -sL "https://github-readme-stats.vercel.app/api?username=doctor-versum&bg_color=0d1117&theme=dark" -o generated/readme-stats/contributions-dark.svg
+
+          # Top Languages
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs?username=doctor-versum&layout=compact&theme=default" -o generated/langs/langs-light.svg
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs?username=doctor-versum&layout=compact&theme=dark" -o generated/langs/langs-dark.svg
+
+          # GitHub Streaks (optional)
+          curl -sL "https://github-readme-streak-stats.herokuapp.com/?user=doctor-versum&theme=default" -o generated/streaks/streaks-light.svg
+          curl -sL "https://github-readme-streak-stats.herokuapp.com/?user=doctor-versum&theme=dark" -o generated/streaks/streaks-dark.svg
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/widgets/*.svg
+          git commit -m "chore: update external GitHub widgets" || echo "No changes"
+          git push
