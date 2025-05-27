@@ -1,6 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum) ![Followers](https://img.shields.io/github/followers/doctor-versum?label=Followers&style=default)
 ![activity graph{web:fillpagew}](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true&radius=30)
 ![Metrics](github-metrics.svg)
+![GitHub Snake Light](generated/snake/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](generated/snake/github-snake-dark.svg#gh-dark-mode-only)
 
 ## Hi there 👋
 
