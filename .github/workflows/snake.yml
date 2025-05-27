@@ -1,0 +1,24 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # jede Stunde
+  workflow_dispatch:       # manueller Button in GitHub
+  push:
+    branches:
+      - main               # bei jedem Commit auf main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            generated/snake/github-snake.svg
+            generated/snake/github-snake-dark.svg?palette=github-dark
+      - uses: actions/upload-artifact@v2
+        with:
+          name: github-snake
+          path: generated/snake
