@@ -3,22 +3,34 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 * * * *"   # jede Stunde
-  workflow_dispatch:       # manueller Button in GitHub
+  workflow_dispatch:
   push:
     branches:
-      - main               # bei jedem Commit auf main
+      - main
+    paths-ignore:
+      - 'generated/snake/**'  # Änderungen in diesem Ordner nicht neu auslösen
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # erlaubt Pushes ins Repo
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             generated/snake/github-snake.svg
             generated/snake/github-snake-dark.svg?palette=github-dark
-      - uses: actions/upload-artifact@v4
-        with:
-          name: github-snake
-          path: generated/snake
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add generated/snake/
+          git commit -m "chore: update snake animation [skip ci]" || echo "No changes to commit"
+          git push
