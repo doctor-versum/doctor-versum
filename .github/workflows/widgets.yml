@@ -8,6 +8,8 @@ on:
 jobs:
   fetch-widgets:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # erlaubt Pushes ins Repo
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
