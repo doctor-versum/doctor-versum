@@ -54,3 +54,4 @@ jobs:
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_user: 76561199180013672
+          filename: generated/metrics/metrics.svg
