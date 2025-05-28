@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum) ![Followers](https://img.shields.io/github/followers/doctor-versum?label=Followers&style=default) ![Last updated](generated/data/updated.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum&color=9e4c98) ![Followers](https://img.shields.io/github/followers/doctor-versum?label=Followers&style=default&color=9e4c98) ![Last updated](generated/data/updated.svg)
 ![activity graph light{web:fillpagew}](generated/contr-graph/contributions-graph-light.svg#gh-light-mode-only)
 ![activity graph dark{web:fillpagew}](generated/contr-graph/contributions-graph-dark.svg#gh-dark-mode-only)
 ![GitHub Snake Light](generated/snake/github-snake.svg#gh-light-mode-only)
