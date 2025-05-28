@@ -44,6 +44,8 @@ jobs:
           curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=flat&margin-w=15&no-frame=true" -o generated/trophies/trophies-light.svg
           curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=onedark&margin-w=15&no-frame=true" -o generated/trophies/trophies-dark.svg
 
+          curl -o generated/data/updated.svg "https://img.shields.io/badge/Last_updated:-$(TZ=Europe/Berlin date +'%H:%M_%d--%m--%Y')-magenta"
+
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
