@@ -38,6 +38,8 @@ jobs:
           # GitHub Streaks (optional)
           curl -sL "https://streak-stats.demolab.com?user=Doctor-versum&theme=transparent&hide_border=true&ring=EB00BA&stroke=9500EB&fire=EB00BA&currStreakNum=6B52EB&sideNums=00E1EB&currStreakLabel=00E1EB&sideLabels=EB00BA&dates=DC80EB" -o generated/streaks/streaks.svg
 
+          mkdir -p generated/trophies
+
           # Trophies
           curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=light&margin-w=15&no-frame=true" -o generated/trophies/trophies-light.svg
           curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=dark&margin-w=15&no-frame=true" -o generated/trophies/trophies-dark.svg
