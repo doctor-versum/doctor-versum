@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum) ![Followers](https://img.shields.io/github/followers/doctor-versum?label=Followers&style=default)
-![activity graph light{web:fillpagew}](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=ffffff. &color=ffffff&line=9e4c98&point=000000&area=true&hide_border=true&radius=30#gh-light-mode-only)
-![activity graph dark{web:fillpagew}](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true&radius=30#gh-dark-mode-only)
+![activity graph light{web:fillpagew}](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=ffffff00&color=ffffff&line=9e4c98&point=000000&area=true&hide_border=true&radius=30#gh-light-mode-only)
+![activity graph dark{web:fillpagew}](https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=00000000&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true&radius=30#gh-dark-mode-only)
 ![Metrics](generated/metrics/metrics.svg)
 ![GitHub Snake Light](generated/snake/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](generated/snake/github-snake-dark.svg#gh-dark-mode-only)
