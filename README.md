@@ -6,18 +6,18 @@
 
 <p align="center" style="text-decoration: none;"><strong>🏳️Languages: 🇬🇧English - <s><a href="readme-de-de.md">🇩🇪Deutsch</a></s></strong></p>
 
-## Hi there 👋
+# Hi there 👋
 
 I’m **Tobias** (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning **Kotlin** and **Assembly**.
 
-### 🛠️ Projects:
+## 🛠️ Projects:
 I’m developing a **web app for TTRPG DMs and players** to store and manage character information, with integration support for custom projects.  
 Links 🔗:
 - [**dnd5eexplorer**](https://doctor-versum.github.io/dnd5eexplorer)
 - [**Dicebase (main website - WIP)**](https://dicebase.web.app)  
 - Other projects can be found on my [about page](https://doctor-versum.github.io).
 
-### 🎮 Stuff I like:
+## 🎮 Stuff I like:
 I’m a big fan 𖣘 of **video games** 🎮 and **TTRPGs** 🧝.  
 My favourite video games of all time are:
 - *Satisfactory* 🏭
@@ -25,16 +25,16 @@ My favourite video games of all time are:
 - *Portal (1 & 2)* 🌀
 - *Minecraft* ⛏️
 
-### 🎨 My favourite colors:
+## 🎨 My favourite colors:
 - Cyan / Light blue 🩵
 - Blue 💙
 - Magenta / Purple 💜
 
-### 📬 You can reach me on:
+## 📬 You can reach me on:
 - **Discord**: [![Discord](https://img.shields.io/badge/Discord-@doctor__versum-5865F2?logo=discord&logoColor=white)](https://discord.com/users/739625061337530418)
 - **Reddit**: [![Reddit](https://img.shields.io/badge/reddit-u%2Fdoctor__versum-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/doctor_versum)
 
-### 🪢 My tech:
+## 🪢 My tech:
 - **Primary laptop** 💻: Lenovo Ideapad 3
   - Intel Core i5
   - Intel Iris Xe Graphics
@@ -53,14 +53,14 @@ My favourite video games of all time are:
   - AMD Radeon Graphics
   - 4 GB RAM
 
-### 🛠️ Other tools I use:
+## 🛠️ Other tools I use:
 - GitHub Pages ⚫️
 - Firebase 🔥
 - ChatGPT 🌼
 - GitHub Copilot 🤖
 - Flask 🌐
 
-### ⌨️ Programming languages:
+## ⌨️ Programming languages:
 - **Python** 🐍
 - **HTML & CSS** (I know, it's technically not "programming" – Sue me!📖)
 - **JavaScript** _JS_
@@ -74,14 +74,14 @@ My favourite video games of all time are:
 ![Top Langs](generated/langs/langs-light.svg#gh-light-mode-only)
 ![Top Langs](generated/langs/langs-dark.svg#gh-dark-mode-only)
 
-### 🏳️ IRL languages:
+## 🏳️ IRL languages:
 - **German** 🇩🇪
 - **English** 🇬🇧
 
-### ⚡ Fun fact:
+## ⚡ Fun fact:
 My first experience with programming was with a **Fischertechnik Robotics LT controller**.
 
-### 📉 current stats:
+## 📉 current stats:
 ![GitHub Stats](generated/readme-stats/stats-light.svg#gh-light-mode-only)
 ![GitHub Stats](generated/readme-stats/stats-dark.svg#gh-dark-mode-only)
 ![GitHub Streak](generated/streaks/streaks.svg)
