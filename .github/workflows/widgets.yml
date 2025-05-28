@@ -46,7 +46,7 @@ jobs:
 
           mkdir -p generated/data
 
-          curl -o generated/data/updated.svg "https://img.shields.io/badge/Last_updated:-$(TZ=Europe/Berlin date +'%H:%M_%d--%m--%Y')-magenta"
+          curl -o generated/data/updated.svg "https://img.shields.io/badge/Last_updated:-$(TZ=Europe/Berlin date +'%H:%M_%d--%m--%Y')-9e4c98"
 
       - name: Commit and Push
         run: |
