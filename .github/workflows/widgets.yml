@@ -41,8 +41,8 @@ jobs:
           mkdir -p generated/trophies
 
           # Trophies
-          curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=light&margin-w=15&no-frame=true" -o generated/trophies/trophies-light.svg
-          curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=dark&margin-w=15&no-frame=true" -o generated/trophies/trophies-dark.svg
+          curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=flat&margin-w=15&no-frame=true" -o generated/trophies/trophies-light.svg
+          curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=flat-dark&margin-w=15&no-frame=true" -o generated/trophies/trophies-dark.svg
 
       - name: Commit and Push
         run: |
