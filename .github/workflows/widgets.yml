@@ -1,58 +1,57 @@
-name: Fetch External GitHub Widgets
+name: Update README Assets (Snake + Widgets)
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Jede Stunde
+    - cron: "0 * * * *"  # jede Stunde
   workflow_dispatch:
 
 jobs:
-  fetch-widgets:
+  update-readme-assets:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # erlaubt Pushes ins Repo
+
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            generated/snake/github-snake.svg
+            generated/snake/github-snake-dark.svg?palette=github-dark
 
       - name: Download GitHub Widgets
         run: |
           mkdir -p generated/readme-stats
-
           curl -sL "https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_light" -o generated/readme-stats/stats-light.svg
           curl -sL "https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark" -o generated/readme-stats/stats-dark.svg
 
           mkdir -p generated/contr-graph
-
-          # Contribution Graph (hell/dunkel)
           curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=ffffff00&color=000000&line=9e4c98&point=000000&area=true&hide_border=true&radius=30" -o generated/contr-graph/contributions-graph-light.svg
           curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=ffffff00&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true&radius=30" -o generated/contr-graph/contributions-graph-dark.svg
 
           mkdir -p generated/langs
-
-          # Top Languages
           curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-versum&layout=compact&theme=github_light" -o generated/langs/top-langs-light.svg
           curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-versum&layout=compact&theme=github_dark" -o generated/langs/top-langs-dark.svg
 
           mkdir -p generated/streaks
-
-          # GitHub Streaks (optional)
           curl -sL "https://streak-stats.demolab.com?user=Doctor-versum&theme=transparent&hide_border=true&ring=EB00BA&stroke=9500EB&fire=EB00BA&currStreakNum=6B52EB&sideNums=00E1EB&currStreakLabel=00E1EB&sideLabels=EB00BA&dates=DC80EB" -o generated/streaks/streaks.svg
 
           mkdir -p generated/trophies
-
-          # Trophies
           curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=flat&margin-w=15&no-frame=true" -o generated/trophies/trophies-light.svg
           curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=onedark&margin-w=15&no-frame=true" -o generated/trophies/trophies-dark.svg
 
           mkdir -p generated/data
-
           curl -o generated/data/updated.svg "https://img.shields.io/badge/Last_updated:-$(TZ=Europe/Berlin date +'%H:%M_%d--%m--%Y')-9e4c98"
 
       - name: Commit and Push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git pull
-          git add generated/*/*
-          git commit -m "chore: update external GitHub widgets" || echo "No changes"
+          git add generated/
+          git commit -m "chore: update README assets (snake + widgets)" || echo "No changes to commit"
           git push
