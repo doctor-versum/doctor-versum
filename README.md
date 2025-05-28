@@ -2,7 +2,7 @@
 ![activity graph light{web:fillpagew}](generated/contr-graph/contributions-graph-light.svg#gh-light-mode-only)
 ![activity graph dark{web:fillpagew}](generated/contr-graph/contributions-graph-dark.svg#gh-dark-mode-only)
 ![GitHub Snake Light](generated/snake/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](generated/snake/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Dark](generated/snake/github-snake-dark.svg#gh-dark-mode-only) 
 
 <p align="center" style="text-decoration: none;"><strong>🏳️Languages: 🇬🇧English - <s><a href="readme-de-de.md">🇩🇪Deutsch</a></s></strong></p>
 
