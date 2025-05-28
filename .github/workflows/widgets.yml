@@ -19,8 +19,8 @@ jobs:
           mkdir -p generated/readme-stats
 
           # Contribution Graph (hell/dunkel)
-          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=ffffff00&color=000000&line=9e4c98&point=000000&area=true&hide_border=true&radius=30" -o generated/readme-stats/contributions-graph-light.svg
-          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=ffffff00&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true&radius=30" -o generated/readme-stats/contributions-graph-dark.svg
+          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=ffffff00&color=000000&line=9e4c98&point=000000&area=true&hide_border=true&radius=30" -o generated/contr-graph/contributions-graph-light.svg
+          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=ffffff00&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true&radius=30" -o generated/contr-graph/contributions-graph-dark.svg
 
           mkdir -p generated/langs
 
