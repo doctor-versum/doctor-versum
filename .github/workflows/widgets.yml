@@ -21,9 +21,6 @@ jobs:
           curl -sL "https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_light" -o generated/readme-stats/stats-light.svg
           curl -sL "https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark" -o generated/readme-stats/stats-dark.svg
 
-          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-versum&layout=compact&theme=github_light" -o generated/readme-stats/top-langs-light.svg
-          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-versum&layout=compact&theme=github_dark" -o generated/readme-stats/top-langs-dark.svg
-
           mkdir -p generated/contr-graph
 
           # Contribution Graph (hell/dunkel)
@@ -33,14 +30,13 @@ jobs:
           mkdir -p generated/langs
 
           # Top Languages
-          curl -sL "https://github-readme-stats.vercel.app/api/top-langs?username=doctor-versum&layout=compact&theme=default" -o generated/langs/langs-light.svg
-          curl -sL "https://github-readme-stats.vercel.app/api/top-langs?username=doctor-versum&layout=compact&theme=dark" -o generated/langs/langs-dark.svg
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-versum&layout=compact&theme=github_light" -o generated/langs/top-langs-light.svg
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-versum&layout=compact&theme=github_dark" -o generated/langs/top-langs-dark.svg
 
           mkdir -p generated/streaks
 
           # GitHub Streaks (optional)
-          curl -sL "https://github-readme-streak-stats.herokuapp.com/?user=doctor-versum&theme=default" -o generated/streaks/streaks-light.svg
-          curl -sL "https://github-readme-streak-stats.herokuapp.com/?user=doctor-versum&theme=dark" -o generated/streaks/streaks-dark.svg
+          curl -sL "https://streak-stats.demolab.com?user=Doctor-versum&theme=transparent&hide_border=true&ring=EB00BA&stroke=9500EB&fire=EB00BA&currStreakNum=6B52EB&sideNums=00E1EB&currStreakLabel=00E1EB&sideLabels=EB00BA&dates=DC80EB" -o generated/streaks/streaks.svg
 
       - name: Commit and Push
         run: |
