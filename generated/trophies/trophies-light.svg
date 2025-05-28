@@ -56,7 +56,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     
     <stop offset="0%" stop-color="#B0B0B0"/>
     <stop offset="70%" stop-color="#B0B0B0"/>
-    <stop offset="100%" stop-color="#9090C0"/>
+    <stop offset="100%" stop-color="#B0B0B0"/>
     
     </linearGradient>
   </defs>
@@ -136,7 +136,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     
       <stop offset="0%" stop-color="#777"/>
       <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="100%" stop-color="#777"/>
   
     </linearGradient>
   </defs>
@@ -216,7 +216,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     
       <stop offset="0%" stop-color="#777"/>
       <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="100%" stop-color="#777"/>
   
     </linearGradient>
   </defs>
@@ -296,7 +296,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     
       <stop offset="0%" stop-color="#777"/>
       <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="100%" stop-color="#777"/>
   
     </linearGradient>
   </defs>
@@ -376,7 +376,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     
       <stop offset="0%" stop-color="#777"/>
       <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="100%" stop-color="#777"/>
   
     </linearGradient>
   </defs>
@@ -456,7 +456,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     
       <stop offset="0%" stop-color="#777"/>
       <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="100%" stop-color="#777"/>
   
     </linearGradient>
   </defs>
@@ -536,7 +536,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     
       <stop offset="0%" stop-color="#777"/>
       <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="100%" stop-color="#777"/>
   
     </linearGradient>
   </defs>
@@ -616,7 +616,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     
       <stop offset="0%" stop-color="#777"/>
       <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="100%" stop-color="#777"/>
   
     </linearGradient>
   </defs>
