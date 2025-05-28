@@ -31,8 +31,8 @@ My favourite video games of all time are:
 ### 📬 You can reach me on:
 - **Discord**: [![Discord](https://img.shields.io/badge/Discord-@doctor__versum-5865F2?logo=discord&logoColor=white)](https://discord.com/users/739625061337530418)
 - **Reddit**: [![Reddit](https://img.shields.io/badge/reddit-u%2Fdoctor__versum-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/doctor_versum)
-
-### 🪢 My tech:
+<details>
+<summary>### 🪢 My tech:</summary>
 - **Primary laptop** 💻: Lenovo Ideapad 3
   - Intel Core i5
   - Intel Iris Xe Graphics
