@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'generated/snake/**'  # Änderungen in diesem Ordner nicht neu auslösen
+      - 'generated/**'  # Änderungen in diesem Ordner nicht neu auslösen
 
 jobs:
   generate:
