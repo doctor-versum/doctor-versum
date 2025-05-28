@@ -4,6 +4,8 @@
 ![GitHub Snake Light](generated/snake/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](generated/snake/github-snake-dark.svg#gh-dark-mode-only)
 
+<p style="text-align: center">test</p>
+
 ## Hi there 👋
 
 I’m **Tobias** (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning **Kotlin** and **Assembly**.
@@ -34,11 +36,9 @@ My favourite video games of all time are:
 
 ### 🪢 My tech:
 - **Primary laptop** 💻: Lenovo Ideapad 3
-<details>
   - Intel Core i5
   - Intel Iris Xe Graphics
   - 8 GB RAM
-  </details>
 - **Secondary monitor** 📺: ThinkVision (portrait orientation)
 - **Mouse** 🖱️: Cheap mouse (don’t remember the model)
 - **Speakers** 🔈: Teufel Kombo 11
