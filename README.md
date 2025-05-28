@@ -4,7 +4,7 @@
 ![GitHub Snake Light](generated/snake/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](generated/snake/github-snake-dark.svg#gh-dark-mode-only)
 
-<p style="text-align: center">test</p>
+<p align="center">test</p>
 
 ## Hi there 👋
 
