@@ -1,7 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum) ![Followers](https://img.shields.io/github/followers/doctor-versum?label=Followers&style=default)
 ![activity graph light{web:fillpagew}](generated/contr-graph/contributions-graph-light.svg#gh-light-mode-only)
 ![activity graph dark{web:fillpagew}](generated/contr-graph/contributions-graph-dark.svg#gh-dark-mode-only)
-![Metrics](generated/metrics/metrics.svg)
 ![GitHub Snake Light](generated/snake/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](generated/snake/github-snake-dark.svg#gh-dark-mode-only)
 
@@ -86,3 +85,6 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
 ![GitHub Streak](generated/streaks/streaks.svg)
 ![trophies{web:fillpagew}](generated/trophies/trophies-light.svg#gh-light-mode-only)
 ![trophies{web:fillpagew}](generated/trophies/trophies-dark.svg#gh-dark-mode-only)
+
+
+![Metrics](generated/metrics/metrics.svg)
