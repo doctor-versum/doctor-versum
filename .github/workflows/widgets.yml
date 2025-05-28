@@ -18,6 +18,11 @@ jobs:
         run: |
           mkdir -p generated/readme-stats
 
+          curl -sL "https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_light" -o generated/readme-stats/stats-light.svg
+          curl -sL "https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark" -o generated/readme-stats/stats-dark.svg
+
+          mkdir -p generated/contr-graph
+
           # Contribution Graph (hell/dunkel)
           curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=ffffff00&color=000000&line=9e4c98&point=000000&area=true&hide_border=true&radius=30" -o generated/contr-graph/contributions-graph-light.svg
           curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=doctor-versum&bg_color=ffffff00&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true&radius=30" -o generated/contr-graph/contributions-graph-dark.svg
