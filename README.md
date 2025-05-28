@@ -90,3 +90,5 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
 
 
 ![Metrics](generated/metrics/metrics.svg)
+
+# Thanks for reading my Readme ;)
