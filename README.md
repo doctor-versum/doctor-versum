@@ -5,7 +5,7 @@
 ![GitHub Snake Light](generated/snake/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](generated/snake/github-snake-dark.svg#gh-dark-mode-only)
 
-## Hi there 👋 
+## Hi there 👋
 
 I’m **Tobias** (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning **Kotlin** and **Assembly**.
 
