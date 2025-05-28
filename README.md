@@ -70,7 +70,8 @@ My favourite video games of all time are:
 - **C++** _C_
 - A little bit of **Java** ☕️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-versum&layout=compact&theme=github_dark)
+![Top Langs](generated/langs/langs-light.svg#gh-light-mode-only)
+![Top Langs](generated/langs/langs-dark.svg#gh-dark-mode-only)
 
 ### 🏳️ IRL languages:
 - **German** 🇩🇪
@@ -80,6 +81,9 @@ My favourite video games of all time are:
 My first experience with programming was with a **Fischertechnik Robotics LT controller**.
 
 ### 📉 current stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Doctor-versum&theme=transparent&hide_border=true&ring=EB00BA&stroke=9500EB&fire=EB00BA&currStreakNum=6B52EB&sideNums=00E1EB&currStreakLabel=00E1EB&sideLabels=EB00BA&dates=DC80EB)
-![trophies{web:fillpagew}](https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=discord&margin-w=15&no-frame=true)
+![GitHub Stats](generated/readme-stats/stats-light.svg#gh-light-mode-only)
+![GitHub Stats](generated/readme-stats/stats-dark#gh-dark-mode-only)
+![GitHub Streak](generated/streaks/streaks-light.svg#gh-light-mode-only)
+![GitHub Streak](generated/streaks/streaks-dark.svg#gh-dark-mode-only)
+![trophies{web:fillpagew}](generated/trophies/trophies-light#gh-light-mode-only)
+![trophies{web:fillpagew}](generated/trophies/trophies-dark#gh-dark-mode-only)
