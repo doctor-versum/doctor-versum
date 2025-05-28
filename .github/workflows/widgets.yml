@@ -21,6 +21,9 @@ jobs:
           curl -sL "https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_light" -o generated/readme-stats/stats-light.svg
           curl -sL "https://github-readme-stats.vercel.app/api?username=doctor-versum&show_icons=true&theme=github_dark" -o generated/readme-stats/stats-dark.svg
 
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-versum&layout=compact&theme=github_light" -o generated/readme-stats/top-langs-light.svg
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-versum&layout=compact&theme=github_dark" -o generated/readme-stats/top-langs-dark.svg
+
           mkdir -p generated/contr-graph
 
           # Contribution Graph (hell/dunkel)
