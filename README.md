@@ -85,5 +85,5 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
 ![GitHub Stats](generated/readme-stats/stats-dark#gh-dark-mode-only)
 ![GitHub Streak](generated/streaks/streaks-light.svg#gh-light-mode-only)
 ![GitHub Streak](generated/streaks/streaks-dark.svg#gh-dark-mode-only)
-![trophies{web:fillpagew}](generated/trophies/trophies-light#gh-light-mode-only)
-![trophies{web:fillpagew}](generated/trophies/trophies-dark#gh-dark-mode-only)
+![trophies{web:fillpagew}](generated/trophies/trophies-light.svg#gh-light-mode-only)
+![trophies{web:fillpagew}](generated/trophies/trophies-dark.svg#gh-dark-mode-only)
