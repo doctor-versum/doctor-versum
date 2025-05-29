@@ -102,16 +102,16 @@ My favourite video games of all time are:
 ## ⚡ Fun fact:
 My first experience with programming was with a **Fischertechnik Robotics LT controller**.
 
-## 📉 current stats:
 <details open>
-<!-- GitHub Stats -->
-<img src="generated/readme-stats/stats-light.svg#gh-light-mode-only" width=45% alt="GitHub Stats" />
-<img src="generated/readme-stats/stats-dark.svg#gh-dark-mode-only" width=45% alt="GitHub Stats" />
-<!-- GitHub Streak -->
-<img src="generated/streaks/streaks.svg" width=45% alt="GitHub Streak" />
-<!-- Trophies -->
-<img src="generated/trophies/trophies-light.svg#gh-light-mode-only" width=100% alt="GitHub Trophies Light" />
-<img src="generated/trophies/trophies-dark.svg#gh-dark-mode-only" width=100% alt="GitHub Trophies Dark" />
+  <summary><h2>📉 current stats:</h2></summary>
+  <!-- GitHub Stats -->
+  <img src="generated/readme-stats/stats-light.svg#gh-light-mode-only" width=100% alt="GitHub Stats" />
+  <img src="generated/readme-stats/stats-dark.svg#gh-dark-mode-only" width=100%% alt="GitHub Stats" />
+  <!-- GitHub Streak -->
+  <img src="generated/streaks/streaks.svg" width=100% alt="GitHub Streak" />
+  <!-- Trophies -->
+  <img src="generated/trophies/trophies-light.svg#gh-light-mode-only" width=100% alt="GitHub Trophies Light" />
+  <img src="generated/trophies/trophies-dark.svg#gh-dark-mode-only" width=100% alt="GitHub Trophies Dark" />
 </details>
 
 
