@@ -112,9 +112,7 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
   <!-- Trophies -->
   <img src="generated/trophies/trophies-light.svg#gh-light-mode-only" width=100% alt="GitHub Trophies Light" />
   <img src="generated/trophies/trophies-dark.svg#gh-dark-mode-only" width=100% alt="GitHub Trophies Dark" />
+  <img src="generated/metrics/metrics.svg" width=100% alt="Metrics" />
 </details>
-
-
-![Metrics](generated/metrics/metrics.svg)
 
 # Thanks for reading my Readme ;)
