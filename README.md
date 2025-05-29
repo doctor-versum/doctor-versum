@@ -18,7 +18,7 @@ Links 🔗:
 - Other projects can be found on my [about page](https://doctor-versum.github.io).
 
 <details>
-  <summary><h4>📋Important Projects</h4></summary>
+  <summary><strong>📋Important Projects</strong></summary>
   <img src="generated/projects/project1.svg" width=49% alt="repo card 1" />
   <img src="generated/projects/project2.svg" width=49% alt="repo card 2" />
   <img src="generated/projects/project3.svg" width=49% alt="repo card 3" />
