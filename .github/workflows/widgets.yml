@@ -45,7 +45,7 @@ jobs:
           curl -sL "https://github-profile-trophy.vercel.app/?username=doctor-versum&theme=onedark&margin-w=15&no-frame=true" -o generated/trophies/trophies-dark.svg
 
           mkdir -p generated/data
-          curl -o generated/data/updated.svg "https://img.shields.io/badge/Last_updated:-$(TZ=Europe/Berlin date +'%H:%M_%d--%m--%Y')-9e4c98"
+          curl -o generated/data/updated.svg "https://img.shields.io/badge/Last_updated_(Europe/Berlin):-$(TZ=Europe/Berlin date +'%H:%M_%d--%m--%Y')-9e4c98"
 
       - name: Commit and Push
         run: |
