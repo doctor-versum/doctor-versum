@@ -103,11 +103,16 @@ My favourite video games of all time are:
 My first experience with programming was with a **Fischertechnik Robotics LT controller**.
 
 ## 📉 current stats:
-![GitHub Stats](generated/readme-stats/stats-light.svg#gh-light-mode-only)
-![GitHub Stats](generated/readme-stats/stats-dark.svg#gh-dark-mode-only)
-![GitHub Streak](generated/streaks/streaks.svg)
-![trophies{web:fillpagew}](generated/trophies/trophies-light.svg#gh-light-mode-only)
-![trophies{web:fillpagew}](generated/trophies/trophies-dark.svg#gh-dark-mode-only)
+<details open>
+<!-- GitHub Stats -->
+<img src="generated/readme-stats/stats-light.svg#gh-light-mode-only" width=45% alt="GitHub Stats" />
+<img src="generated/readme-stats/stats-dark.svg#gh-dark-mode-only" width=45% alt="GitHub Stats" />
+<!-- GitHub Streak -->
+<img src="generated/streaks/streaks.svg" width=45% alt="GitHub Streak" />
+<!-- Trophies -->
+<img src="generated/trophies/trophies-light.svg#gh-light-mode-only" width=100% alt="GitHub Trophies Light" />
+<img src="generated/trophies/trophies-dark.svg#gh-dark-mode-only" width=100% alt="GitHub Trophies Dark" />
+</details>
 
 
 ![Metrics](generated/metrics/metrics.svg)
