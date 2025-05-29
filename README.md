@@ -36,7 +36,7 @@ My favourite video games of all time are:
 
 ## 🪢 My tech:
 <details open>
-  <summary><strong>💻 Computer & Monitore</strong></summary>
+  <summary><strong>💻 Computers & Monitors</strong></summary>
   <ul>
     <li><strong>💻 Primary laptop</strong>: Lenovo Ideapad 3
       <ul>
@@ -56,7 +56,7 @@ My favourite video games of all time are:
   </ul>
 </details>
 <details>
-  <summary><strong>🖱️ Peripheriegeräte</strong></summary>
+  <summary><strong>🖱️ Peripherals</strong></summary>
   <ul>
     <li><strong>🖱️ Mouse</strong>: Cheap mouse (don’t remember the model)</li>
     <li><strong>🔈 Speakers</strong>: Teufel Kombo 11</li>
@@ -65,17 +65,12 @@ My favourite video games of all time are:
   </ul>
 </details>
 <details>
-  <summary><strong>📱 Mobile & Tablets</strong></summary>
+  <summary><strong>📱 Other devices</strong></summary>
   <ul>
     <li><strong>📱 Phone</strong>: Pixel 6 Pro</li>
     <li><strong>🖥️ Tablet</strong>: iPad 10th Gen (for school)</li>
     <li><strong>🖥️ Tablet</strong>: Samsung Galaxy Tab A7</li>
-  </ul>
-</details>
-<details>
-  <summary><strong>🕶️ Extras</strong></summary>
-  <ul>
-    <li><strong>🕶️ VR</strong>: Meta Quest 3</li>
+    <li><strong>🥽 VR</strong>: Meta Quest 3</li>
   </ul>
 </details>
 
