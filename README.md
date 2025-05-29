@@ -17,6 +17,16 @@ Links 🔗:
 - [**Dicebase (main website - WIP)**](https://dicebase.web.app)  
 - Other projects can be found on my [about page](https://doctor-versum.github.io).
 
+<details>
+  <summary><h4>📋Important Projects</h4></summary>
+  <img src="generated/projects/project1.svg" width=49% alt="repo card 1" />
+  <img src="generated/projects/project2.svg" width=49% alt="repo card 2" />
+  <img src="generated/projects/project3.svg" width=49% alt="repo card 3" />
+  <img src="generated/projects/project4.svg" width=49% alt="repo card 4" />
+  <img src="generated/projects/project5.svg" width=49% alt="repo card 5" />
+  <img src="generated/projects/project6.svg" width=49% alt="repo card 6" />
+</details>
+
 ## 🎮 Stuff I like:
 I’m a big fan 𖣘 of **video games** 🎮 and **TTRPGs** 🧝.  
 My favourite video games of all time are:
