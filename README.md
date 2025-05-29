@@ -35,23 +35,49 @@ My favourite video games of all time are:
 - **Reddit**: [![Reddit](https://img.shields.io/badge/reddit-u%2Fdoctor__versum-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/doctor_versum)
 
 ## 🪢 My tech:
-- **Primary laptop** 💻: Lenovo Ideapad 3
-  - Intel Core i5
-  - Intel Iris Xe Graphics
-  - 8 GB RAM
-- **Secondary monitor** 📺: ThinkVision (portrait orientation)
-- **Mouse** 🖱️: Cheap mouse (don’t remember the model)
-- **Speakers** 🔈: Teufel Kombo 11
-- **Microphone** 🎤: DJI Mic Mini (2 transmitters)
-- **VR**: Meta Quest 3
-- **Tablet** 🖥️: iPad 10th Gen (for school)
-- **Tablet** 🖥️: Samsung Galaxy Tab A7
-- **Phone** 📱: Pixel 6 Pro
-- **Launchpad** 🎆: Novation Launchpad Mini MK3
-- **Lab rat** 🧪: Lenovo B580 (4 GB)
-  - Intel Pentium
-  - AMD Radeon Graphics
-  - 4 GB RAM
+<details open>
+  <summary><strong>💻 Computer & Monitore</strong></summary>
+  <ul>
+    <li><strong>💻 Primary laptop</strong>: Lenovo Ideapad 3
+      <ul>
+        <li>🔧 Intel Core i5</li>
+        <li>🎨 Intel Iris Xe Graphics</li>
+        <li>🧠 8 GB RAM</li>
+      </ul>
+    </li>
+    <li><strong>🧪 Lab rat</strong>: Lenovo B580
+      <ul>
+        <li>🔧 Intel Pentium</li>
+        <li>🎮 AMD Radeon Graphics</li>
+        <li>🧠 4 GB RAM</li>
+      </ul>
+    </li>
+    <li><strong>📺 Secondary monitor</strong>: ThinkVision (portrait orientation)</li>
+  </ul>
+</details>
+<details>
+  <summary><strong>🖱️ Peripheriegeräte</strong></summary>
+  <ul>
+    <li><strong>🖱️ Mouse</strong>: Cheap mouse (don’t remember the model)</li>
+    <li><strong>🔈 Speakers</strong>: Teufel Kombo 11</li>
+    <li><strong>🎤 Microphone</strong>: DJI Mic Mini (2 transmitters)</li>
+    <li><strong>🎆 Launchpad</strong>: Novation Launchpad Mini MK3</li>
+  </ul>
+</details>
+<details>
+  <summary><strong>📱 Mobile & Tablets</strong></summary>
+  <ul>
+    <li><strong>📱 Phone</strong>: Pixel 6 Pro</li>
+    <li><strong>🖥️ Tablet</strong>: iPad 10th Gen (for school)</li>
+    <li><strong>🖥️ Tablet</strong>: Samsung Galaxy Tab A7</li>
+  </ul>
+</details>
+<details>
+  <summary><strong>🕶️ Extras</strong></summary>
+  <ul>
+    <li><strong>🕶️ VR</strong>: Meta Quest 3</li>
+  </ul>
+</details>
 
 ## 🛠️ Other tools I use:
 - GitHub Pages ⚫️
