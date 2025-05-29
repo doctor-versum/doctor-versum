@@ -103,7 +103,7 @@ My favourite video games of all time are:
 My first experience with programming was with a **Fischertechnik Robotics LT controller**.
 
 <details open>
-  <summary><h2>📉 current stats:</h2></summary>
+  <summary><h3>📉 current stats:</h3></summary>
   <!-- GitHub Stats -->
   <img src="generated/readme-stats/stats-light.svg#gh-light-mode-only" width=100% alt="GitHub Stats" />
   <img src="generated/readme-stats/stats-dark.svg#gh-dark-mode-only" width=100%% alt="GitHub Stats" />
