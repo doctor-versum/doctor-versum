@@ -6,30 +6,40 @@
       <stop offset="100%" stop-color="#00ffff"/>
     </linearGradient>
 
-    <!-- Pfad um das Rechteck -->
+    <!-- Pfad um den Rahmen -->
     <path id="roundedPath" d="M10,5 H210 A5,5 0 0 1 215,10 V50 A5,5 0 0 1 210,55 H10 A5,5 0 0 1 5,50 V10 A5,5 0 0 1 10,5 Z"/>
   </defs>
 
-  <!-- Glow-Effekt-Pfad -->
+  <!-- Glow-Effekt -->
   <use href="#roundedPath"
         fill="none"
         stroke="url(#glowGradient)"
         stroke-width="3"
         stroke-dasharray="60, 380"
         stroke-dashoffset="440">
-    <!-- Der Effekt bewegt sich in 3s und pausiert 3s -->
-    <animate attributeName="stroke-dashoffset"
-             values="440;0;0"
-             keyTimes="0;0.5;1"
-             dur="6s"
-             repeatCount="indefinite" />
-
-    <!-- Glow sichtbar nur in Bewegung -->
-    <animate attributeName="opacity"
-             values="1;1;0;0"
-             keyTimes="0;0.499;0.5;1"
-             dur="6s"
-             repeatCount="indefinite" />
+    
+    <!-- Bewegung: 3s Animation, startet alle 6s -->
+    <animate
+      id="glowAnim"
+      attributeName="stroke-dashoffset"
+      values="440;0"
+      dur="3s"
+      begin="0s;glowAnim.end+3s"
+      fill="freeze" />
+    
+    <!-- Sichtbarkeit nur während der Bewegung -->
+    <animate
+      attributeName="opacity"
+      values="1;0"
+      dur="0.01s"
+      begin="glowAnim.end"
+      fill="freeze" />
+    <animate
+      attributeName="opacity"
+      values="0;1"
+      dur="0.01s"
+      begin="glowAnim.begin"
+      fill="freeze" />
   </use>
 
   <!-- Text -->
