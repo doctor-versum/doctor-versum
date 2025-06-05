@@ -19,12 +19,11 @@ Links 🔗:
 
 <details>
   <summary><strong>📋Important Projects</strong></summary>
-  <img src="generated/projects/project1.svg" width=49% alt="repo card 1" />
-  <img src="generated/projects/project2.svg" width=49% alt="repo card 2" />
-  <img src="generated/projects/project3.svg" width=49% alt="repo card 3" />
-  <img src="generated/projects/project4.svg" width=49% alt="repo card 4" />
-  <img src="generated/projects/project5.svg" width=49% alt="repo card 5" />
-  <img src="generated/projects/project6.svg" width=49% alt="repo card 6" />
+  <a href="<!--link-repo-1-->"><img src="generated/cards/repo-card-1.svg" width=100% alt="repo card 1" /></a>
+  <a href="<!--link-repo-2-->"><img src="generated/cards/repo-card-2.svg" width=49% alt="repo card 2" /></a>
+  <a href="<!--link-repo-3-->"><img src="generated/cards/repo-card-3.svg" width=49% alt="repo card 3" /></a>
+  <a href="<!--link-repo-4-->"><img src="generated/cards/repo-card-4.svg" width=49% alt="repo card 4" /></a>
+  <a href="<!--link-repo-5-->"><img src="generated/cards/repo-card-5.svg" width=49% alt="repo card 5" /></a>
 </details>
 
 ## 🎮 Stuff I like:
