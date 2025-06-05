@@ -66,8 +66,12 @@ def score_repos(repos):
 def save_card(repo_name, rank):
     url = (
         f"https://github-readme-stats.vercel.app/api/pin/"
-        f"?username={USER}&repo={repo_name}"
-        f"&theme=jolly&bg_color=00000000&text_color=aa00ff"
+        f"?username={USER}"
+        f"&repo={repo_name}"
+        f"&theme=jolly"
+        f"&bg_color=00000000"
+        f"&text_color=aa00ff"
+        f"&description_lines_count=2"
     )
     path = f"generated/cards/repo-card-{rank}.svg"
     os.makedirs(os.path.dirname(path), exist_ok=True)
