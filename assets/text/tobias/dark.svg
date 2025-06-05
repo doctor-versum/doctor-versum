@@ -1,24 +1,21 @@
 <svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Farbverlauf für Glow -->
     <linearGradient id="glowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff00ff"/>
       <stop offset="100%" stop-color="#00ffff"/>
     </linearGradient>
-
-    <!-- Rahmenpfad -->
     <path id="roundedPath" d="M10,5 H210 A5,5 0 0 1 215,10 V50 A5,5 0 0 1 210,55 H10 A5,5 0 0 1 5,50 V10 A5,5 0 0 1 10,5 Z"/>
   </defs>
 
   <!-- Hintergrundrahmen -->
   <use href="#roundedPath" fill="none" stroke="#222" stroke-width="1"/>
 
-  <!-- Leuchtender Effekt -->
+  <!-- Glow-Effekt -->
   <use href="#roundedPath" fill="none" stroke="url(#glowGradient)" stroke-width="3"
-        stroke-dasharray="100,480" stroke-dashoffset="480" opacity="0">
-    <!-- Dash bewegt sich einmal über die komplette Länge -->
-    <animate attributeName="stroke-dashoffset" values="480;0" dur="1s" begin="0s" repeatCount="indefinite"/>
-    <!-- Glow wird ein- und ausgeblendet -->
+        stroke-dasharray="100,1000" stroke-dashoffset="1000" opacity="0">
+    <!-- Bewegung entlang des Pfads -->
+    <animate attributeName="stroke-dashoffset" values="1000;0" dur="1s" begin="0s" repeatCount="indefinite"/>
+    <!-- Sichtbarkeit synchron zur Bewegung -->
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.9;0.95;1" dur="3s" begin="0s" repeatCount="indefinite"/>
   </use>
 
