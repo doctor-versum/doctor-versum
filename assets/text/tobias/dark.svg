@@ -21,19 +21,14 @@
        stroke-dashoffset="440"
        opacity="1">
 
+    <!-- Dashoffset von 440 auf 0 in 3s, dann wieder 440 (Start) für 3s Pause -->
     <animate attributeName="stroke-dashoffset"
-             from="440" to="0"
-             dur="3s"
-             begin="0s;animGlow.end+3s"
-             fill="freeze"
-             id="animGlow" />
-             
-    <animate attributeName="opacity"
-             values="1;1;0;0;1"
-             keyTimes="0;0.95;0.96;0.99;1"
+             values="440;0;440"
+             keyTimes="0;0.5;1"
              dur="6s"
-             begin="0s;animGlow.end+3s"
-             fill="freeze" />
+             repeatCount="indefinite" />
+             
+    <!-- Opacity bleibt komplett sichtbar -->
   </use>
 
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
