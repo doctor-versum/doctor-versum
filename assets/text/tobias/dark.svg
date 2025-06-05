@@ -1,36 +1,36 @@
-<svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
+<svg width="105" height="60" viewBox="0 0 110 60" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Farbverlauf -->
     <linearGradient id="glowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff00ff"/>
       <stop offset="100%" stop-color="#00ffff"/>
     </linearGradient>
 
-    <path id="roundedPath" pathLength="440"
-      d="M10,5 H210 A5,5 0 0 1 215,10 V50 A5,5 0 0 1 210,55 H10 A5,5 0 0 1 5,50 V10 A5,5 0 0 1 10,5 Z"/>
+    <!-- Pfad mit Pfadlänge fixiert -->
+    <path id="roundedPath"
+          d="M10,5
+          H100
+          A5,5 0 0 1 105,10
+          V50
+          A5,5 0 0 1 100,55
+          H10
+          A5,5 0 0 1 5,50
+          V10
+          A5,5 0 0 1 10,5
+          Z"
+          pathLength="1000"/>
   </defs>
 
-  <!-- Hintergrundrahmen auskommentiert -->
-  <!-- <use href="#roundedPath" fill="none" stroke="#222" stroke-width="1"/> -->
-
-  <!-- Glow-Umrandung -->
-  <use href="#roundedPath"
-       fill="none"
-       stroke="url(#glowGradient)"
-       stroke-width="3"
-       stroke-dasharray="60 440"
-       stroke-dashoffset="440"
-       opacity="1">
-
-    <!-- Dashoffset von 440 auf 0 in 3s, dann wieder 440 (Start) für 3s Pause -->
+  <!-- Leuchtende Umrandung ohne Pause -->
+  <use href="#roundedPath" fill="none" stroke="url(#glowGradient)" stroke-width="3"
+        stroke-dasharray="100 900" stroke-dashoffset="1000" opacity="1">
     <animate attributeName="stroke-dashoffset"
-             values="440;0;440"
-             keyTimes="0;0.5;1"
-             dur="6s"
-             repeatCount="indefinite" />
-             
-    <!-- Opacity bleibt komplett sichtbar -->
+             values="1000;0"
+             dur="3s"
+             repeatCount="indefinite"/>
   </use>
 
+  <!-- Text -->
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
         font-size="24" font-family="Verdana" fill="#ffffff">
     Tobias
