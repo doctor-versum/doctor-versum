@@ -92,6 +92,7 @@ My favourite video games of all time are:
 - GitHub Copilot 🤖
 - Flask 🌐
 
+<br><br>
 <img src="assets/text/programming_languages/dark.svg#gh-dark-mode-only" height=27em/>
 <img src="assets/text/programming_languages/light.svg#gh-light-mode-only" height=27em/>
 
