@@ -1,27 +1,24 @@
-<svg width="105" height="40" viewBox="0 0 110 40" xmlns="http://www.w3.org/2000/svg">
+<svg width="105" height="30" viewBox="0 0 110 30" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Farbverlauf -->
     <linearGradient id="glowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff00ff"/>
       <stop offset="100%" stop-color="#00ffff"/>
     </linearGradient>
 
-    <!-- Pfad mit Pfadlänge fixiert -->
     <path id="roundedPath"
-          d="M20,5
+          d="M20,1
           H90
-          A5,5 0 0 1 95,10
-          V25
-          A5,5 0 0 1 90,30
+          A5,5 0 0 1 95,6
+          V21
+          A5,5 0 0 1 90,26
           H20
-          A5,5 0 0 1 15,25
-          V10
-          A5,5 0 0 1 20,5
+          A5,5 0 0 1 15,21
+          V6
+          A5,5 0 0 1 20,1
           Z"
           pathLength="1000"/>
   </defs>
 
-  <!-- Leuchtende Umrandung ohne Pause -->
   <use href="#roundedPath" fill="none" stroke="url(#glowGradient)" stroke-width="3"
         stroke-dasharray="100 900" stroke-dashoffset="1000" opacity="1">
     <animate attributeName="stroke-dashoffset"
@@ -30,7 +27,6 @@
              repeatCount="indefinite"/>
   </use>
 
-  <!-- Text -->
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
         font-size="24" font-family="Verdana" fill="#ffffff">
     Tobias
