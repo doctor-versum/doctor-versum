@@ -1,4 +1,4 @@
-<svg width="105" height="60" viewBox="0 0 110 60" xmlns="http://www.w3.org/2000/svg">
+<svg width="105" height="40" viewBox="0 0 110 40" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Farbverlauf -->
     <linearGradient id="glowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -8,15 +8,15 @@
 
     <!-- Pfad mit Pfadlänge fixiert -->
     <path id="roundedPath"
-          d="M10,5
-          H100
-          A5,5 0 0 1 105,10
-          V50
-          A5,5 0 0 1 100,55
-          H10
-          A5,5 0 0 1 5,50
+          d="M20,5
+          H90
+          A5,5 0 0 1 95,10
+          V25
+          A5,5 0 0 1 90,30
+          H20
+          A5,5 0 0 1 15,25
           V10
-          A5,5 0 0 1 10,5
+          A5,5 0 0 1 20,5
           Z"
           pathLength="1000"/>
   </defs>
