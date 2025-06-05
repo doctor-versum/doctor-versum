@@ -47,6 +47,20 @@ jobs:
           mkdir -p generated/data
           curl -o generated/data/updated.svg "https://img.shields.io/badge/Last_updated_(Europe/Berlin):-$(TZ=Europe/Berlin date +'%H:%M_%d--%m--%Y')-9e4c98"
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate repo cards and update README
+        env:
+          GH_USERNAME: doctor-versum
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python scripts/repo-cards.py
+
       - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
