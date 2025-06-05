@@ -12,13 +12,20 @@
 
   <!-- Animierter Glow-Effekt -->
   <path fill="none" stroke="url(#glowGradient)" stroke-width="3"
-        stroke-dasharray="60,380" stroke-dashoffset="0">
-    <animate attributeName="stroke-dashoffset" values="440;0" dur="3s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.9;0.95;1" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="d" values="
-      M10,5 H210 A5,5 0 0 1 215,10 V50 A5,5 0 0 1 210,55 H10 A5,5 0 0 1 5,50 V10 A5,5 0 0 1 10,5 Z;
-      M10,5 H210 A5,5 0 0 1 215,10 V50 A5,5 0 0 1 210,55 H10 A5,5 0 0 1 5,50 V10 A5,5 0 0 1 10,5 Z"
-      dur="0.001s" begin="0s" repeatCount="indefinite" />
+        stroke-dasharray="60,380" stroke-dashoffset="440">
+    <!-- Bewegung + 3s Pause -->
+    <animate attributeName="stroke-dashoffset"
+             values="440;0;0"
+             keyTimes="0;0.5;1"
+             dur="6s"
+             repeatCount="indefinite" />
+
+    <!-- Sichtbarkeit nur während Bewegung -->
+    <animate attributeName="opacity"
+             values="1;1;0;0"
+             keyTimes="0;0.499;0.5;1"
+             dur="6s"
+             repeatCount="indefinite" />
   </path>
 
   <!-- Text -->
