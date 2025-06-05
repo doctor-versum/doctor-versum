@@ -123,10 +123,10 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
   <summary><strong>📉 current stats:</strong></summary>
   <br>
   <!-- GitHub Stats -->
-  <img src="generated/readme-stats/stats-light.svg#gh-light-mode-only" width=100% alt="GitHub Stats" />
-  <img src="generated/readme-stats/stats-dark.svg#gh-dark-mode-only" width=100%% alt="GitHub Stats" />
+  <img src="generated/readme-stats/stats-light.svg#gh-light-mode-only" width=49% alt="GitHub Stats" />
+  <img src="generated/readme-stats/stats-dark.svg#gh-dark-mode-only" width=49% alt="GitHub Stats" />
   <!-- GitHub Streak -->
-  <img src="generated/streaks/streaks.svg" width=100% alt="GitHub Streak" />
+  <img src="generated/streaks/streaks.svg" width=50% alt="GitHub Streak" />
   <!-- Trophies -->
   <img src="generated/trophies/trophies-light.svg#gh-light-mode-only" width=100% alt="GitHub Trophies Light" />
   <img src="generated/trophies/trophies-dark.svg#gh-dark-mode-only" width=100% alt="GitHub Trophies Dark" />
