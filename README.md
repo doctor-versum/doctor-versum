@@ -8,6 +8,8 @@
 
 # Hi there 👋
 
+<img src="assets/text/tobias/dark.svg" alt="Tobias"/>
+
 I’m **Tobias** (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning **Kotlin** and **Assembly**.
 
 ## 🛠️ Projects:
