@@ -6,18 +6,20 @@
       <stop offset="100%" stop-color="#00ffff"/>
     </linearGradient>
 
-    <!-- Rahmenpfad mit abgerundeten Ecken -->
+    <!-- Abgerundeter Rahmenpfad -->
     <path id="roundedPath" d="M10,5 H210 A5,5 0 0 1 215,10 V50 A5,5 0 0 1 210,55 H10 A5,5 0 0 1 5,50 V10 A5,5 0 0 1 10,5 Z"/>
   </defs>
 
-  <!-- Leuchtende animierte Umrandung -->
-  <use href="#roundedPath" fill="none" stroke="url(#glowGradient)" stroke-width="3"
-        stroke-dasharray="100,1000" stroke-dashoffset="1000" opacity="0">
-    <!-- Verlangsamte Bewegung -->
-    <animate attributeName="stroke-dashoffset" values="1000;0" dur="2s" begin="0s" repeatCount="indefinite"/>
-    <!-- Sichtbarkeit passend zur Bewegung -->
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.9;0.95;1" dur="3s" begin="0s" repeatCount="indefinite"/>
-  </use>
+  <!-- Animierter Glow-Effekt -->
+  <path fill="none" stroke="url(#glowGradient)" stroke-width="3"
+        stroke-dasharray="60,380" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" values="440;0" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.9;0.95;1" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="d" values="
+      M10,5 H210 A5,5 0 0 1 215,10 V50 A5,5 0 0 1 210,55 H10 A5,5 0 0 1 5,50 V10 A5,5 0 0 1 10,5 Z;
+      M10,5 H210 A5,5 0 0 1 215,10 V50 A5,5 0 0 1 210,55 H10 A5,5 0 0 1 5,50 V10 A5,5 0 0 1 10,5 Z"
+      dur="0.001s" begin="0s" repeatCount="indefinite" />
+  </path>
 
   <!-- Text -->
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
