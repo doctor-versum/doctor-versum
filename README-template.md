@@ -6,6 +6,8 @@
 
 <p align="center" style="text-decoration: none;"><strong>🏳️Languages: 🇬🇧English - <s><a href="readme-de-de.md">🇩🇪Deutsch</a></s></strong></p>
 
+<img src="assets/text/tobias/dark.svg" alt="Tobias"/>
+
 # Hi there 👋
 
 I’m **Tobias** (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning **Kotlin** and **Assembly**.
