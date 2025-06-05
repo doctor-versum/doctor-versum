@@ -10,7 +10,7 @@
 
 # Hi there 👋
 
-<div>I’m <img src="assets/text/tobias/dark.svg" alt="Tobias" width=10% style="vertical-align:middle"/> (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning <strong>Kotlin</strong> and <strong>Assembly</strong>.</div>
+<div>I’m <img src="assets/text/tobias/dark.svg" alt="Tobias" height=15em/> (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning <strong>Kotlin</strong> and <strong>Assembly</strong>.</div>
 
 ## 🛠️ Projects:
 I’m developing a **web app for TTRPG DMs and players** to store and manage character information, with integration support for custom projects.  
