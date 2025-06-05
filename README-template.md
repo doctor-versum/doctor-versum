@@ -92,7 +92,10 @@ My favourite video games of all time are:
 - GitHub Copilot 🤖
 - Flask 🌐
 
-## ⌨️ Programming languages:
+<img src="assets/text/programming_languages/dark.svg#gh-dark-mode-only" height=27em/>
+<img src="assets/text/programming_languages/light.svg#gh-light-mode-only" height=27em/>
+
+---
 - **Python** 🐍
 - **HTML & CSS** (I know, it's technically not "programming" – Sue me!📖)
 - **JavaScript** _JS_
@@ -113,8 +116,11 @@ My favourite video games of all time are:
 ## ⚡ Fun fact:
 My first experience with programming was with a **Fischertechnik Robotics LT controller**.
 
+# Thanks for reading my Readme ;)
+
 <details open>
-  <summary><h3>📉 current stats:</h3></summary>
+  <summary><strong>📉 current stats:</strong></summary>
+  <br>
   <!-- GitHub Stats -->
   <img src="generated/readme-stats/stats-light.svg#gh-light-mode-only" width=100% alt="GitHub Stats" />
   <img src="generated/readme-stats/stats-dark.svg#gh-dark-mode-only" width=100%% alt="GitHub Stats" />
@@ -125,5 +131,3 @@ My first experience with programming was with a **Fischertechnik Robotics LT con
   <img src="generated/trophies/trophies-dark.svg#gh-dark-mode-only" width=100% alt="GitHub Trophies Dark" />
   <img src="generated/metrics/metrics.svg" width=100% alt="Metrics" />
 </details>
-
-# Thanks for reading my Readme ;)
