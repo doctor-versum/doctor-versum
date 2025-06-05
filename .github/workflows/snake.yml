@@ -2,13 +2,13 @@ name: Generate Snake Animation (outdated)
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - 'generated/**'  # Änderungen in diesem Ordner nicht neu auslösen
-      - 'README.md'
-      - '.github/workflows/**'
+  #push:
+    #branches:
+      #- main
+    #paths-ignore:
+      #- 'generated/**'  # Änderungen in diesem Ordner nicht neu auslösen
+      #- 'README.md'
+      #- '.github/workflows/**'
 
 jobs:
   generate:
