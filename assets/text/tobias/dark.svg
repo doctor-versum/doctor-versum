@@ -1,4 +1,4 @@
-<svg width="105" height="30" viewBox="0 0 110 30" xmlns="http://www.w3.org/2000/svg">
+<svg width="85" height="29" viewBox="0 0 85 29" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="glowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff00ff"/>
@@ -6,15 +6,15 @@
     </linearGradient>
 
     <path id="roundedPath"
-          d="M20,1
-          H90
-          A5,5 0 0 1 95,6
+          d="M7.5,2
+          H77.5
+          A5,5 0 0 1 82.5,7
           V21
-          A5,5 0 0 1 90,26
-          H20
-          A5,5 0 0 1 15,21
+          A5,5 0 0 1 77.5,27
+          H7.5
+          A5,5 0 0 1 2.5,22
           V6
-          A5,5 0 0 1 20,1
+          A5,5 0 0 1 7.5,2
           Z"
           pathLength="1000"/>
   </defs>
@@ -27,7 +27,7 @@
              repeatCount="indefinite"/>
   </use>
 
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
         font-size="24" font-family="Verdana" fill="#ffffff">
     Tobias
   </text>
