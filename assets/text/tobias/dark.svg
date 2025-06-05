@@ -27,7 +27,7 @@
              repeatCount="indefinite"/>
   </use>
 
-  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+  <text x="50%" y="56%" text-anchor="middle" dominant-baseline="middle"
         font-size="24" font-family="Verdana" fill="#ffffff">
     Tobias
   </text>
