@@ -9,7 +9,7 @@
       d="M10,5 H210 A5,5 0 0 1 215,10 V50 A5,5 0 0 1 210,55 H10 A5,5 0 0 1 5,50 V10 A5,5 0 0 1 10,5 Z"/>
   </defs>
 
-  <!-- Hintergrundrahmen ist komplett auskommentiert / nicht sichtbar -->
+  <!-- Hintergrundrahmen auskommentiert -->
   <!-- <use href="#roundedPath" fill="none" stroke="#222" stroke-width="1"/> -->
 
   <!-- Glow-Umrandung -->
@@ -18,7 +18,8 @@
        stroke="url(#glowGradient)"
        stroke-width="3"
        stroke-dasharray="60 440"
-       stroke-dashoffset="440">
+       stroke-dashoffset="440"
+       opacity="1">
 
     <animate attributeName="stroke-dashoffset"
              from="440" to="0"
@@ -26,6 +27,13 @@
              begin="0s;animGlow.end+3s"
              fill="freeze"
              id="animGlow" />
+             
+    <animate attributeName="opacity"
+             values="1;1;0;0;1"
+             keyTimes="0;0.95;0.96;0.99;1"
+             dur="6s"
+             begin="0s;animGlow.end+3s"
+             fill="freeze" />
   </use>
 
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
