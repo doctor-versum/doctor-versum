@@ -15,9 +15,11 @@
 
   <!-- Leuchtender Effekt -->
   <use href="#roundedPath" fill="none" stroke="url(#glowGradient)" stroke-width="3"
-        stroke-dasharray="100,480" stroke-dashoffset="0">
-    <animate attributeName="stroke-dashoffset" from="480" to="0" dur="1s" begin="0s;glow.end+2s" id="glow" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0" dur="0.5s" begin="glow.end" fill="freeze"/>
+        stroke-dasharray="100,480" stroke-dashoffset="480" opacity="0">
+    <!-- Dash bewegt sich einmal über die komplette Länge -->
+    <animate attributeName="stroke-dashoffset" values="480;0" dur="1s" begin="0s" repeatCount="indefinite"/>
+    <!-- Glow wird ein- und ausgeblendet -->
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.9;0.95;1" dur="3s" begin="0s" repeatCount="indefinite"/>
   </use>
 
   <!-- Text -->
