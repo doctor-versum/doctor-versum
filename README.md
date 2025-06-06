@@ -10,7 +10,7 @@
 
 # Hi there 👋
 
-<div>I’m <img src="assets/text/tobias/dark.svg" alt="Tobias" width=10% style="vertical-align:middle"/> (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning <strong>Kotlin</strong> and <strong>Assembly</strong>.</div>
+<div>I’m <img src="assets/text/tobias/dark.svg#gh-dark-mode-only" alt="Tobias" height=15em/><img src="assets/text/tobias/light.svg#gh-light-mode-only" alt="Tobias" height=15em/> (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning <strong>Kotlin</strong> and <strong>Assembly</strong>.</div>
 
 ## 🛠️ Projects:
 I’m developing a **web app for TTRPG DMs and players** to store and manage character information, with integration support for custom projects.  
@@ -92,7 +92,11 @@ My favourite video games of all time are:
 - GitHub Copilot 🤖
 - Flask 🌐
 
-## ⌨️ Programming languages:
+<br><br>
+<img src="assets/text/programming_languages/dark.svg#gh-dark-mode-only" height=30em/>
+<img src="assets/text/programming_languages/light.svg#gh-light-mode-only" height=30em/>
+
+---
 - **Python** 🐍
 - **HTML & CSS** (I know, it's technically not "programming" – Sue me!📖)
 - **JavaScript** _JS_
@@ -113,17 +117,18 @@ My favourite video games of all time are:
 ## ⚡ Fun fact:
 My first experience with programming was with a **Fischertechnik Robotics LT controller**.
 
+# Thanks for reading my Readme ;)
+
 <details open>
-  <summary><h3>📉 current stats:</h3></summary>
+  <summary><strong>📉 current stats:</strong></summary>
+  <br>
   <!-- GitHub Stats -->
-  <img src="generated/readme-stats/stats-light.svg#gh-light-mode-only" width=100% alt="GitHub Stats" />
-  <img src="generated/readme-stats/stats-dark.svg#gh-dark-mode-only" width=100%% alt="GitHub Stats" />
+  <img src="generated/readme-stats/stats-light.svg#gh-light-mode-only" width=49% alt="GitHub Stats" />
+  <img src="generated/readme-stats/stats-dark.svg#gh-dark-mode-only" width=49% alt="GitHub Stats" />
   <!-- GitHub Streak -->
-  <img src="generated/streaks/streaks.svg" width=100% alt="GitHub Streak" />
+  <img src="generated/streaks/streaks.svg" width=50% alt="GitHub Streak" />
   <!-- Trophies -->
   <img src="generated/trophies/trophies-light.svg#gh-light-mode-only" width=100% alt="GitHub Trophies Light" />
   <img src="generated/trophies/trophies-dark.svg#gh-dark-mode-only" width=100% alt="GitHub Trophies Dark" />
   <img src="generated/metrics/metrics.svg" width=100% alt="Metrics" />
 </details>
-
-# Thanks for reading my Readme ;)
