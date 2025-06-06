@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            generated/snake/github-snake.svg?color_snake=#00ccff&color_dots=#ebedf0,#ffccff,#ff99ff,#ff66ff,#ff00ff
-            generated/snake/github-snake-dark.svg?color_snake=#00ccff&color_dots=#161b22,#330033,#660066,#990099,#ff00ff
+            generated/snake/github-snake.svg?color_snake=#00ccff&color_dots=#ebedf0,#ff00ff,#990099,#660066,#4b004b
+            generated/snake/github-snake-dark.svg?color_snake=#00ccff&color_dots=#161b22,#4b004b,#660066,#990099,#ff00ff
 
       - name: Download GitHub Widgets
         run: |
