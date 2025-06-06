@@ -1,14 +1,22 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctor-versum&color=9e4c98) ![Followers](https://img.shields.io/github/followers/doctor-versum?label=Followers&style=default&color=9e4c98) ![Last updated](generated/data/updated.svg)
 ![activity graph light{web:fillpagew}](generated/contr-graph/contributions-graph-light.svg#gh-light-mode-only)
 ![activity graph dark{web:fillpagew}](generated/contr-graph/contributions-graph-dark.svg#gh-dark-mode-only)
-![GitHub Snake Light](generated/snake/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](generated/snake/github-snake-dark.svg#gh-dark-mode-only) 
 
-<p align="center" style="text-decoration: none;"><strong>🏳️Languages: 🇬🇧English - <s><a href="readme-de-de.md">🇩🇪Deutsch</a></s></strong></p>
+---
 
+<h3>🏳️Languages: </h3>
+<p align="center" style="text-decoration: none;"><strong>🇬🇧English -
+<s><a href="readme-de-de.md">🇩🇪Deutsch</a></s> -
+<a href="contribute.md">more coming... maby...</a></strong></p>
 
+---
 
-# Hi there 👋
+<br>
+<img src="assets/text/hi_there/text.svg"/>
+
+---
+
+<br>
 
 <div>I’m <img src="assets/text/tobias/dark.svg#gh-dark-mode-only" alt="Tobias" height=15em/><img src="assets/text/tobias/light.svg#gh-light-mode-only" alt="Tobias" height=15em/> (he/him), a tech enthusiast from Germany 🇩🇪. I attend a school focused on technology, where I’m currently learning <strong>Kotlin</strong> and <strong>Assembly</strong>.</div>
 
@@ -116,6 +124,9 @@ My favourite video games of all time are:
 
 ## ⚡ Fun fact:
 My first experience with programming was with a **Fischertechnik Robotics LT controller**.
+
+![GitHub Snake Light](generated/snake/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](generated/snake/github-snake-dark.svg#gh-dark-mode-only) 
 
 # Thanks for reading my Readme ;)
 

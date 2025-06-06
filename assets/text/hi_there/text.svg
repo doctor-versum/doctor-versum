@@ -1,0 +1,37 @@
+<svg width="380" height="60" viewBox="0 0 380 60" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" font-weight="bold">
+  <text y="0" font-size="50" dominant-baseline="text-before-edge">
+    <tspan x="0" fill="#ff00ff" opacity="0">
+      H
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="6.3s" begin="0s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan dx="2" fill="#cc33ee" opacity="0">
+      i
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="6.3s" begin="0.7s" repeatCount="indefinite"/>
+    </tspan>
+    <!-- Hier kein Leerzeichen, sondern Abstand via dx -->
+    <tspan dx="20" fill="#9933dd" opacity="0">
+      t
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="6.3s" begin="1.4s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan dx="2" fill="#6633cc" opacity="0">
+      h
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="6.3s" begin="2.1s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan dx="2" fill="#3399cc" opacity="0">
+      e
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="6.3s" begin="2.8s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan dx="2" fill="#33bbdd" opacity="0">
+      r
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="6.3s" begin="3.5s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan dx="2" fill="#00ccff" opacity="0">
+      e
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="6.3s" begin="4.2s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan dx="10" fill="#00ccff" opacity="0" font-size="55">
+      👋
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="6.3s" begin="4.9s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+</svg>
