@@ -162,7 +162,7 @@
           y="0"
           width="11.27"
           height="8"
-          fill="#f1e05a"
+          fill="#fedf5b"
         />
       
         <rect
@@ -172,7 +172,7 @@
           y="0"
           width="11.27"
           height="8"
-          fill="#fedf5b"
+          fill="#f1e05a"
         />
       
         <rect
@@ -210,16 +210,16 @@
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#fedf5b" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 0.51%
+        Cython 0.51%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#fedf5b" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Cython 0.51%
+        JavaScript 0.51%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
