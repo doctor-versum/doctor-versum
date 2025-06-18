@@ -78,7 +78,7 @@ My favourite video games of all time are:
         <li>🧠 4 GB RAM</li>
       </ul>
     </li>
-    <li><strong>📺 Secondary monitor</strong>: ThinkVision (portrait orientation)</li>
+    <li><strong>📺 Monitor</strong>: ThinkVision (portrait orientation)</li>
   </ul>
 </details>
 <details>
