@@ -57,6 +57,13 @@ My favourite video games of all time are:
 <details open>
   <summary><strong>💻 Computers & Monitors</strong></summary>
   <ul>
+    <li><strong>👾 Primary PC</strong>
+      <ul>
+        <li>🔧 Intel Core i5 6400</li>
+        <li>🎮 GeForce GTX 750 Ti</li>
+        <li>🧠 2x16GB Crucial DDR4 RAM</li>
+      </ul>
+    </li>
     <li><strong>💻 Primary laptop</strong>: Lenovo Ideapad 3
       <ul>
         <li>🔧 Intel Core i5</li>
