@@ -87,7 +87,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >pyduino</text>
+      >dnd5eexplorer</text>
     </g>
       </g>
     
@@ -100,16 +100,16 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">This is a work-in-progress python library to control a</tspan><tspan dy="1.2em" x="25">connected arduino over serial.</tspan>
+      <tspan dy="1.2em" x="25">A text explorer for dnd5eapi.co</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3572A5" />
-      <text data-testid="lang-name" class="gray" x="15">Python</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f1e05a" />
+      <text data-testid="lang-name" class="gray" x="15">JavaScript</text>
     </g>
-    </g><g transform="translate(62.275000000000006, 0)"><g transform="translate(0, 0)">
+    </g><g transform="translate(80.93125, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"

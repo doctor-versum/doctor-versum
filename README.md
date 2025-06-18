@@ -29,9 +29,9 @@ Links 🔗:
 
 <details>
   <summary><strong>📋Important Projects</strong></summary>
-  <a href="https://github.com/doctor-versum/dnd5eexplorer"><img src="generated/cards/repo-card-1.svg" width=100% alt="repo card 1" /></a>
-  <a href="https://github.com/doctor-versum/pyduino"><img src="generated/cards/repo-card-2.svg" width=49% alt="repo card 2" /></a>
-  <a href="https://github.com/doctor-versum/lp_cover"><img src="generated/cards/repo-card-3.svg" width=50% alt="repo card 3" /></a>
+  <a href="https://github.com/doctor-versum/lp_cover"><img src="generated/cards/repo-card-1.svg" width=100% alt="repo card 1" /></a>
+  <a href="https://github.com/doctor-versum/dnd5eexplorer"><img src="generated/cards/repo-card-2.svg" width=49% alt="repo card 2" /></a>
+  <a href="https://github.com/doctor-versum/pyduino"><img src="generated/cards/repo-card-3.svg" width=50% alt="repo card 3" /></a>
   <a href="https://github.com/doctor-versum/DnDbase"><img src="generated/cards/repo-card-4.svg" width=49% alt="repo card 4" /></a>
   <a href="https://github.com/doctor-versum/InsectorWiki"><img src="generated/cards/repo-card-5.svg" width=50% alt="repo card 5" /></a>
 </details>
@@ -57,6 +57,13 @@ My favourite video games of all time are:
 <details open>
   <summary><strong>💻 Computers & Monitors</strong></summary>
   <ul>
+    <li><strong>👾 Primary PC</strong>
+      <ul>
+        <li>🔧 Intel Core i5 6400</li>
+        <li>🎮 GeForce GTX 750 Ti</li>
+        <li>🧠 2x16GB Crucial DDR4 RAM</li>
+      </ul>
+    </li>
     <li><strong>💻 Primary laptop</strong>: Lenovo Ideapad 3
       <ul>
         <li>🔧 Intel Core i5</li>
@@ -71,7 +78,7 @@ My favourite video games of all time are:
         <li>🧠 4 GB RAM</li>
       </ul>
     </li>
-    <li><strong>📺 Secondary monitor</strong>: ThinkVision (portrait orientation)</li>
+    <li><strong>📺 Monitor</strong>: ThinkVision (portrait orientation)</li>
   </ul>
 </details>
 <details>
