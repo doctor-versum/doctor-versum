@@ -1,0 +1,28 @@
+name: Run SteamMD Generator
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-steammd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run SteamMD Action
+        uses: doctor-versum/SteamMD@v1
+        with:
+          steam_api_key: ${{ secrets.STEAM_TOKEN }}
+          file_path: ./subPages/
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Auto-update: SteamMD output" || echo "No changes to commit"
+          git push
