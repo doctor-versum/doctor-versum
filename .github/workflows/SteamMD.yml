@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run SteamMD Action
-        uses: doctor-versum/SteamMD@v1
+        uses: doctor-versum/SteamMD@v0.1.1
         with:
           steam_api_key: ${{ secrets.STEAM_TOKEN }}
           file_path: ./subPages/
