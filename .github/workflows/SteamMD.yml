@@ -18,7 +18,6 @@ jobs:
         with:
           steam_api_key: ${{ secrets.STEAM_TOKEN }}
           steam_vanity_url: doctor-versum
-          file_path: ./
 
       - name: Configure Git
         run: |
