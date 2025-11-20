@@ -104,7 +104,12 @@
     </text>
 
     <g transform="translate(30, 65)">
-      
+      <g transform="translate(0, 0)">
+    <g data-testid="primary-lang">
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f1e05a" />
+      <text data-testid="lang-name" class="gray" x="15">JavaScript</text>
+    </g>
+    </g>
     </g>
   
         </g>
