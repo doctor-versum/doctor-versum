@@ -33,7 +33,7 @@ Links 🔗:
   <a href="https://github.com/doctor-versum/dnd5eexplorer"><img src="generated/cards/repo-card-2.svg" width=49% alt="repo card 2" /></a>
   <a href="https://github.com/doctor-versum/pyduino"><img src="generated/cards/repo-card-3.svg" width=50% alt="repo card 3" /></a>
   <a href="https://github.com/doctor-versum/modpacklist"><img src="generated/cards/repo-card-4.svg" width=49% alt="repo card 4" /></a>
-  <a href="https://github.com/doctor-versum/lp_cover"><img src="generated/cards/repo-card-5.svg" width=50% alt="repo card 5" /></a>
+  <a href="https://github.com/doctor-versum/factorioBP-javascript"><img src="generated/cards/repo-card-5.svg" width=50% alt="repo card 5" /></a>
 </details>
 
 ## 🎮 Stuff I like:
