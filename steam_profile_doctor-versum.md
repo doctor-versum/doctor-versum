@@ -3,10 +3,10 @@
 ![](./generated/SteamMD/covers/avatar_76561199180013672.jpg)
 
 - **SteamID64:** 76561199180013672
-- **Last online:** 2025-11-09 || 21:19
+- **Last online:** 2026-01-21 || 20:33
 - **Community level:** 7
-- **Friends:** 7
-- **Total playtime:** 755 hours
+- **Friends:** 11
+- **Total playtime:** 801 hours
 - **Profile description:**
 
 Tobias
@@ -65,112 +65,134 @@ Tobias
  --- 
 <a href="#24-subnautica-"><img src="./generated/SteamMD/covers/264710_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 24. Subnautica 🪟 🍏</a>
  --- 
-<a href="#25-beamngdrive-"><img src="./generated/SteamMD/covers/284160_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 25. BeamNG.drive 🪟</a>
+<a href="#25-100-orange-juice-"><img src="./generated/SteamMD/covers/282800_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 25. 100% Orange Juice 🪟 🍏 🐧</a>
  --- 
-<a href="#26-dont-starve-together-"><img src="./generated/SteamMD/covers/322330_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 26. Don't Starve Together 🪟 🍏 🐧</a>
+<a href="#26-beamngdrive-"><img src="./generated/SteamMD/covers/284160_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 26. BeamNG.drive 🪟</a>
  --- 
-<a href="#27-keep-talking-and-nobody-explodes-"><img src="./generated/SteamMD/covers/341800_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 27. Keep Talking and Nobody Explodes 🪟 🍏 🐧</a>
+<a href="#27-dont-starve-together-"><img src="./generated/SteamMD/covers/322330_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 27. Don't Starve Together 🪟 🍏 🐧</a>
  --- 
-<a href="#28-scrap-mechanic-"><img src="./generated/SteamMD/covers/387990_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 28. Scrap Mechanic 🪟</a>
+<a href="#28-keep-talking-and-nobody-explodes-"><img src="./generated/SteamMD/covers/341800_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 28. Keep Talking and Nobody Explodes 🪟 🍏 🐧</a>
  --- 
-<a href="#29-factorio-"><img src="./generated/SteamMD/covers/427520_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 29. Factorio 🪟 🍏 🐧</a>
+<a href="#29-astroneer-"><img src="./generated/SteamMD/covers/361420_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 29. ASTRONEER 🪟</a>
  --- 
-<a href="#30-wallpaper-engine-"><img src="./generated/SteamMD/covers/431960_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 30. Wallpaper Engine 🪟</a>
+<a href="#30-scrap-mechanic-"><img src="./generated/SteamMD/covers/387990_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 30. Scrap Mechanic 🪟</a>
  --- 
-<a href="#31-vrchat-"><img src="./generated/SteamMD/covers/438100_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 31. VRChat 🪟</a>
+<a href="#31-factorio-"><img src="./generated/SteamMD/covers/427520_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 31. Factorio 🪟 🍏 🐧</a>
  --- 
-<a href="#32-bloons-td-battles-"><img src="./generated/SteamMD/covers/444640_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 32. Bloons TD Battles 🪟 🍏</a>
+<a href="#32-wallpaper-engine-"><img src="./generated/SteamMD/covers/431960_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 32. Wallpaper Engine 🪟</a>
  --- 
-<a href="#33-pico-parkclassic-edition-"><img src="./generated/SteamMD/covers/461040_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 33. PICO PARK:Classic Edition 🪟</a>
+<a href="#33-vrchat-"><img src="./generated/SteamMD/covers/438100_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 33. VRChat 🪟</a>
  --- 
-<a href="#34-rec-room-"><img src="./generated/SteamMD/covers/471710_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 34. Rec Room 🪟</a>
+<a href="#34-bloons-td-battles-"><img src="./generated/SteamMD/covers/444640_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 34. Bloons TD Battles 🪟 🍏</a>
  --- 
-<a href="#35-satisfactory-"><img src="./generated/SteamMD/covers/526870_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 35. Satisfactory 🪟</a>
+<a href="#35-pico-parkclassic-edition-"><img src="./generated/SteamMD/covers/461040_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 35. PICO PARK:Classic Edition 🪟</a>
  --- 
-<a href="#36-battlestar-galactica-deadlock-"><img src="./generated/SteamMD/covers/544610_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 36. Battlestar Galactica Deadlock 🪟</a>
+<a href="#36-rec-room-"><img src="./generated/SteamMD/covers/471710_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 36. Rec Room 🪟</a>
  --- 
-<a href="#37-black-desert-"><img src="./generated/SteamMD/covers/582660_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 37. Black Desert 🪟</a>
+<a href="#37-satisfactory-"><img src="./generated/SteamMD/covers/526870_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 37. Satisfactory 🪟</a>
  --- 
-<a href="#38-derail-valley-"><img src="./generated/SteamMD/covers/588030_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 38. Derail Valley 🪟</a>
+<a href="#38-battlestar-galactica-deadlock-"><img src="./generated/SteamMD/covers/544610_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 38. Battlestar Galactica Deadlock 🪟</a>
  --- 
-<a href="#39-far-lone-sails-"><img src="./generated/SteamMD/covers/609320_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 39. FAR: Lone Sails 🪟 🍏</a>
+<a href="#39-just-ignore-them-"><img src="./generated/SteamMD/covers/561770_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 39. Just Ignore Them 🪟</a>
  --- 
-<a href="#40-paradox-soul-"><img src="./generated/SteamMD/covers/610570_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 40. Paradox Soul 🪟</a>
+<a href="#40-black-desert-"><img src="./generated/SteamMD/covers/582660_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 40. Black Desert 🪟</a>
  --- 
-<a href="#41-next-jump-shmup-tactics-"><img src="./generated/SteamMD/covers/624690_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 41. NEXT JUMP: Shmup Tactics 🪟 🍏 🐧</a>
+<a href="#41-trailmakers-"><img src="./generated/SteamMD/covers/585420_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 41. Trailmakers 🪟</a>
  --- 
-<a href="#42-the-escapists-2-"><img src="./generated/SteamMD/covers/641990_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 42. The Escapists 2 🪟 🍏 🐧</a>
+<a href="#42-derail-valley-"><img src="./generated/SteamMD/covers/588030_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 42. Derail Valley 🪟</a>
  --- 
-<a href="#43-raft-"><img src="./generated/SteamMD/covers/648800_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 43. Raft 🪟</a>
+<a href="#43-far-lone-sails-"><img src="./generated/SteamMD/covers/609320_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 43. FAR: Lone Sails 🪟 🍏</a>
  --- 
-<a href="#44-zomborg-"><img src="./generated/SteamMD/covers/729720_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 44. Zomborg 🪟</a>
+<a href="#44-paradox-soul-"><img src="./generated/SteamMD/covers/610570_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 44. Paradox Soul 🪟</a>
  --- 
-<a href="#45-subnautica-below-zero-"><img src="./generated/SteamMD/covers/848450_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 45. Subnautica: Below Zero 🪟 🍏</a>
+<a href="#45-next-jump-shmup-tactics-"><img src="./generated/SteamMD/covers/624690_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 45. NEXT JUMP: Shmup Tactics 🪟 🍏 🐧</a>
  --- 
-<a href="#46-oneshift-"><img src="./generated/SteamMD/covers/862740_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 46. OneShift 🪟</a>
+<a href="#46-the-escapists-2-"><img src="./generated/SteamMD/covers/641990_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 46. The Escapists 2 🪟 🍏 🐧</a>
  --- 
-<a href="#47-fantasy-general-ii-"><img src="./generated/SteamMD/covers/1025440_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 47. Fantasy General II 🪟</a>
+<a href="#47-raft-"><img src="./generated/SteamMD/covers/648800_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 47. Raft 🪟</a>
  --- 
-<a href="#48-ultimate-zombie-defense-"><img src="./generated/SteamMD/covers/1035510_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 48. Ultimate Zombie Defense 🪟 🍏</a>
+<a href="#48-zomborg-"><img src="./generated/SteamMD/covers/729720_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 48. Zomborg 🪟</a>
  --- 
-<a href="#49-hydroneer-"><img src="./generated/SteamMD/covers/1106840_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 49. Hydroneer 🪟</a>
+<a href="#49-subnautica-below-zero-"><img src="./generated/SteamMD/covers/848450_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 49. Subnautica: Below Zero 🪟 🍏</a>
  --- 
-<a href="#50-tell-me-why-"><img src="./generated/SteamMD/covers/1180660_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 50. Tell Me Why 🪟</a>
+<a href="#50-oneshift-"><img src="./generated/SteamMD/covers/862740_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 50. OneShift 🪟</a>
  --- 
-<a href="#51-the-sims-4-"><img src="./generated/SteamMD/covers/1222670_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 51. The Sims™ 4 🪟</a>
+<a href="#51-fantasy-general-ii-"><img src="./generated/SteamMD/covers/1025440_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 51. Fantasy General II 🪟</a>
  --- 
-<a href="#52-bloons-td-battles-2-"><img src="./generated/SteamMD/covers/1276390_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 52. Bloons TD Battles 2 🪟 🍏</a>
+<a href="#52-ultimate-zombie-defense-"><img src="./generated/SteamMD/covers/1035510_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 52. Ultimate Zombie Defense 🪟 🍏</a>
  --- 
-<a href="#53-tmodloader-"><img src="./generated/SteamMD/covers/1281930_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 53. tModLoader 🪟 🍏 🐧</a>
+<a href="#53-hydroneer-"><img src="./generated/SteamMD/covers/1106840_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 53. Hydroneer 🪟</a>
  --- 
-<a href="#54-ampersat-"><img src="./generated/SteamMD/covers/1356040_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 54. Ampersat 🪟 🐧</a>
+<a href="#54-tell-me-why-"><img src="./generated/SteamMD/covers/1180660_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 54. Tell Me Why 🪟</a>
  --- 
-<a href="#55-field-of-glory-ii-medieval-"><img src="./generated/SteamMD/covers/1368870_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 55. Field of Glory II: Medieval 🪟</a>
+<a href="#55-one-gun-guy-"><img src="./generated/SteamMD/covers/1200580_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 55. One Gun Guy 🪟</a>
  --- 
-<a href="#56-zeepkist-"><img src="./generated/SteamMD/covers/1440670_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 56. Zeepkist 🪟</a>
+<a href="#56-the-sims-4-"><img src="./generated/SteamMD/covers/1222670_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 56. The Sims™ 4 🪟</a>
  --- 
-<a href="#57-just-act-natural-"><img src="./generated/SteamMD/covers/1485080_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 57. Just Act Natural 🪟 🍏</a>
+<a href="#57-bloons-td-battles-2-"><img src="./generated/SteamMD/covers/1276390_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 57. Bloons TD Battles 2 🪟 🍏</a>
  --- 
-<a href="#58-vroid-studio-"><img src="./generated/SteamMD/covers/1486350_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 58. VRoid Studio 🪟 🍏</a>
+<a href="#58-tmodloader-"><img src="./generated/SteamMD/covers/1281930_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 58. tModLoader 🪟 🍏 🐧</a>
  --- 
-<a href="#59-rounds-"><img src="./generated/SteamMD/covers/1557740_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 59. ROUNDS 🪟 🍏</a>
+<a href="#59-ampersat-"><img src="./generated/SteamMD/covers/1356040_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 59. Ampersat 🪟 🐧</a>
  --- 
-<a href="#60-goose-goose-duck-"><img src="./generated/SteamMD/covers/1568590_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 60. Goose Goose Duck 🪟 🍏</a>
+<a href="#60-field-of-glory-ii-medieval-"><img src="./generated/SteamMD/covers/1368870_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 60. Field of Glory II: Medieval 🪟</a>
  --- 
-<a href="#61-hellslave-"><img src="./generated/SteamMD/covers/1608450_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 61. Hellslave 🪟</a>
+<a href="#61-zeepkist-"><img src="./generated/SteamMD/covers/1440670_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 61. Zeepkist 🪟</a>
  --- 
-<a href="#62-muck-"><img src="./generated/SteamMD/covers/1625450_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 62. Muck 🪟 🍏 🐧</a>
+<a href="#62-initial-drift-online-"><img src="./generated/SteamMD/covers/1456200_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 62. Initial Drift Online 🪟</a>
  --- 
-<a href="#63-hitman-world-of-assassination-"><img src="./generated/SteamMD/covers/1659040_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 63. HITMAN World of Assassination 🪟</a>
+<a href="#63-just-act-natural-"><img src="./generated/SteamMD/covers/1485080_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 63. Just Act Natural 🪟 🍏</a>
  --- 
-<a href="#64-retro-gadgets-"><img src="./generated/SteamMD/covers/1730260_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 64. Retro Gadgets 🪟</a>
+<a href="#64-vroid-studio-"><img src="./generated/SteamMD/covers/1486350_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 64. VRoid Studio 🪟 🍏</a>
  --- 
-<a href="#65-crab-game-"><img src="./generated/SteamMD/covers/1782210_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 65. Crab Game 🪟 🍏 🐧</a>
+<a href="#65-toy-tinker-simulator-"><img src="./generated/SteamMD/covers/1510580_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 65. Toy Tinker Simulator 🪟</a>
  --- 
-<a href="#66-aperture-desk-job-"><img src="./generated/SteamMD/covers/1902490_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 66. Aperture Desk Job 🪟 🐧</a>
+<a href="#66-rounds-"><img src="./generated/SteamMD/covers/1557740_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 66. ROUNDS 🪟 🍏</a>
  --- 
-<a href="#67-the-looker-"><img src="./generated/SteamMD/covers/1985690_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 67. The Looker 🪟 🍏</a>
+<a href="#67-goose-goose-duck-"><img src="./generated/SteamMD/covers/1568590_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 67. Goose Goose Duck 🪟 🍏</a>
  --- 
-<a href="#68-barro-gt-"><img src="./generated/SteamMD/covers/1990740_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 68. Barro GT 🪟</a>
+<a href="#68-hellslave-"><img src="./generated/SteamMD/covers/1608450_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 68. Hellslave 🪟</a>
  --- 
-<a href="#69-steam-engine-simulator-"><img src="./generated/SteamMD/covers/2381620_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 69. Steam Engine Simulator 🪟</a>
+<a href="#69-muck-"><img src="./generated/SteamMD/covers/1625450_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 69. Muck 🪟 🍏 🐧</a>
  --- 
-<a href="#70-bopl-battle-demo-"><img src="./generated/SteamMD/covers/2494960_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 70. Bopl Battle Demo 🪟</a>
+<a href="#70-hitman-world-of-assassination-"><img src="./generated/SteamMD/covers/1659040_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 70. HITMAN World of Assassination 🪟</a>
  --- 
-<a href="#71-revolution-idle-"><img src="./generated/SteamMD/covers/2763740_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 71. Revolution Idle 🪟</a>
+<a href="#71-retro-gadgets-"><img src="./generated/SteamMD/covers/1730260_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 71. Retro Gadgets 🪟</a>
  --- 
-<a href="#72-banana-"><img src="./generated/SteamMD/covers/2923300_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 72. Banana 🪟 🐧</a>
+<a href="#72-crab-game-"><img src="./generated/SteamMD/covers/1782210_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 72. Crab Game 🪟 🍏 🐧</a>
  --- 
-<a href="#73-kitchen-wars-"><img src="./generated/SteamMD/covers/2955840_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 73. Kitchen Wars 🪟</a>
+<a href="#73-aperture-desk-job-"><img src="./generated/SteamMD/covers/1902490_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 73. Aperture Desk Job 🪟 🐧</a>
  --- 
-<a href="#74-trainfort-playtest-"><img src="./generated/SteamMD/covers/3563280_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 74. Trainfort Playtest 🪟</a>
+<a href="#74-onearmed-cook-"><img src="./generated/SteamMD/covers/1977530_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 74. One-armed cook 🪟</a>
+ --- 
+<a href="#75-the-looker-"><img src="./generated/SteamMD/covers/1985690_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 75. The Looker 🪟 🍏</a>
+ --- 
+<a href="#76-barro-gt-"><img src="./generated/SteamMD/covers/1990740_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 76. Barro GT 🪟</a>
+ --- 
+<a href="#77-steam-engine-simulator-"><img src="./generated/SteamMD/covers/2381620_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 77. Steam Engine Simulator 🪟</a>
+ --- 
+<a href="#78-bopl-battle-demo-"><img src="./generated/SteamMD/covers/2494960_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 78. Bopl Battle Demo 🪟</a>
+ --- 
+<a href="#79-battle-simulator-counter-stickman-"><img src="./generated/SteamMD/covers/2623090_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 79. Battle Simulator: Counter Stickman 🪟 🍏</a>
+ --- 
+<a href="#80-revolution-idle-"><img src="./generated/SteamMD/covers/2763740_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 80. Revolution Idle 🪟</a>
+ --- 
+<a href="#81-banana-"><img src="./generated/SteamMD/covers/2923300_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 81. Banana 🪟 🐧</a>
+ --- 
+<a href="#82-kitchen-wars-"><img src="./generated/SteamMD/covers/2955840_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 82. Kitchen Wars 🪟</a>
+ --- 
+<a href="#83-peak-"><img src="./generated/SteamMD/covers/3527290_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 83. PEAK 🪟</a>
+ --- 
+<a href="#84-trainfort-playtest-"><img src="./generated/SteamMD/covers/3563280_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 84. Trainfort Playtest 🪟</a>
+ --- 
+<a href="#85-reanimal-demo-"><img src="./generated/SteamMD/covers/4019420_header.jpg" alt="cover image" width="80" style="vertical-align:middle; margin-right:8px;"/> 85. REANIMAL Demo 🪟</a>
  --- 
 
 </details>
 
 ---
 
-## Games (74)
+## Games (85)
 
 <a id="1-counterstrike-"></a>
 ### 1. Counter-Strike 🪟 🍏 🐧
@@ -1371,14 +1393,14 @@ Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated seq
 ### 19. Portal 2 🪟 🐧
 <img src="./generated/SteamMD/covers/620_header.jpg" alt="Portal 2" width="400px">
 
-- **Playtime:** 8 hours
+- **Playtime:** 12 hours
 - **Price:** $9.99
-- **Price/hour:** 1.25 € / h
+- **Price/hour:** 0.83 € / h
 - **Creator:** [Valve](https://store.steampowered.com/search/?developer=Valve)
 - **Developer:** Valve
 - **Publisher:** Valve
 - **Genres:** Action, Adventure
-- **Achievements:** 16/51
+- **Achievements:** 21/51
 
 **Short description:** The &quot;Perpetual Testing Initiative&quot; has been expanded to allow you to design co-op puzzles for you and your friends!
 
@@ -1422,9 +1444,9 @@ Portal 2 draws from the award-winning formula of innovative gameplay, story, and
 <tr><td><img src='./generated/SteamMD/achievements/620/Portrait_of_a_Lady.jpg' width='32'></td><td>🟥</td><td>Portrait of a Lady</td><td>Find a hidden portrait</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/You_Made_Your_Point.jpg' width='32'></td><td>🟥</td><td>You Made Your Point</td><td>Refuse to solve the first test in Chapter 8</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/Smash_TV.jpg' width='32'></td><td>🟥</td><td>Smash TV</td><td>Break 11 test chamber monitors</td>
-<tr><td><img src='./generated/SteamMD/achievements/620/High_Five.jpg' width='32'></td><td>🟥</td><td>High Five</td><td>Celebrate your cooperative calibration success</td>
-<tr><td><img src='./generated/SteamMD/achievements/620/Team_Building.jpg' width='32'></td><td>🟥</td><td>Team Building</td><td>Complete all test chambers in the Team Building co-op course</td>
-<tr><td><img src='./generated/SteamMD/achievements/620/Confidence_Building.jpg' width='32'></td><td>🟥</td><td>Confidence Building</td><td>Complete all test chambers in the Mass and Velocity co-op course</td>
+<tr><td><img src='./generated/SteamMD/achievements/620/High_Five.jpg' width='32'></td><td>🟩</td><td>High Five</td><td>Celebrate your cooperative calibration success</td>
+<tr><td><img src='./generated/SteamMD/achievements/620/Team_Building.jpg' width='32'></td><td>🟩</td><td>Team Building</td><td>Complete all test chambers in the Team Building co-op course</td>
+<tr><td><img src='./generated/SteamMD/achievements/620/Confidence_Building.jpg' width='32'></td><td>🟩</td><td>Confidence Building</td><td>Complete all test chambers in the Mass and Velocity co-op course</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/Bridge_Building.jpg' width='32'></td><td>🟥</td><td>Bridge Building</td><td>Complete all test chambers in the Hard-Light Surfaces co-op course</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/Obstacle_Building.jpg' width='32'></td><td>🟥</td><td>Obstacle Building</td><td>Complete all test chambers in the Excursion Funnels co-op course</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/You_Saved_Science.jpg' width='32'></td><td>🟥</td><td>You Saved Science</td><td>Complete all test chambers in all courses of co-op</td>
@@ -1435,10 +1457,10 @@ Portal 2 draws from the award-winning formula of innovative gameplay, story, and
 <tr><td><img src='./generated/SteamMD/achievements/620/Party_of_Three.jpg' width='32'></td><td>🟥</td><td>Party of Three</td><td>Find the hidden companion cube in co-op test chamber</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/Narbacular_Drop.jpg' width='32'></td><td>🟥</td><td>Narbacular Drop</td><td>Place a portal under your co-op partner while they are gesturing</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/Professor_Portal.jpg' width='32'></td><td>🟥</td><td>Professor Portal</td><td>After completing co-op, complete Calibration Course online with a friend who hasn’t played before</td>
-<tr><td><img src='./generated/SteamMD/achievements/620/Air_Show.jpg' width='32'></td><td>🟥</td><td>Air Show</td><td>Perform 2 aerial gestures before touching the ground in co-op</td>
+<tr><td><img src='./generated/SteamMD/achievements/620/Air_Show.jpg' width='32'></td><td>🟩</td><td>Air Show</td><td>Perform 2 aerial gestures before touching the ground in co-op</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/Portal_Conservation_Society.jpg' width='32'></td><td>🟥</td><td>Portal Conservation Society</td><td>Complete Chamber 3 in the Hard-Light Surfaces co-op course using only 5 total portal placements</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/Four_Ring_Circus.jpg' width='32'></td><td>🟥</td><td>Four Ring Circus</td><td>Enter 4 different portals without touching the ground in co-op</td>
-<tr><td><img src='./generated/SteamMD/achievements/620/Triple_Crown.jpg' width='32'></td><td>🟥</td><td>Triple Crown</td><td>Solve 3 co-op chambers in the Mass and Velocity course in under 60 seconds each</td>
+<tr><td><img src='./generated/SteamMD/achievements/620/Triple_Crown.jpg' width='32'></td><td>🟩</td><td>Triple Crown</td><td>Solve 3 co-op chambers in the Mass and Velocity course in under 60 seconds each</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/Still_Alive.jpg' width='32'></td><td>🟥</td><td>Still Alive</td><td>Complete Course 4 with neither you nor your co-op partner dying</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/Asking_for_Trouble.jpg' width='32'></td><td>🟥</td><td>Asking for Trouble</td><td>Taunt GLaDOS in front of a camera in each of the five co-op courses</td>
 <tr><td><img src='./generated/SteamMD/achievements/620/Rock_Portal_Scissors.jpg' width='32'></td><td>🟥</td><td>Rock Portal Scissors</td><td>Win 3 co-op games of rock-paper-scissors in a row</td>
@@ -1695,7 +1717,7 @@ Dig, Fight, Explore, Build:  The very world is at your fingertips as you fight f
 <details>
 <summary>Detailed description</summary>
 
-<p class="bb_paragraph" ><i>Feel the excitement of flying the Su-25T &quot;Frogfoot&quot; attack jet and the TF-51D &quot;Mustang&quot; in the free-to-play Digital Combat Simulator World! Two free maps are also included: The eastern Black Sea and the Mariana Islands.</i></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/223750/edb0161b9db9f6489684d466613502c3_webp" /></span></p><p class="bb_paragraph" >Digital Combat Simulator World</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/de225c7a96e1ef36837acea0c4fe9e02.poster.avif?t=1760526172" width=616 height=150 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/de225c7a96e1ef36837acea0c4fe9e02.webm?t=1760526172" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/de225c7a96e1ef36837acea0c4fe9e02.mp4?t=1760526172" type="video/mp4"></video></span></p><p class="bb_paragraph" >Digital Combat Simulator World (DCS World) is a free-to-play digital battlefield game.</p><p class="bb_paragraph" >Our dream is to offer the most authentic simulation of military aircraft, ground and armor vehicles, and naval units possible. This free download includes a vast area of the Caucasus region as well as a free Mariana Islands map. It includes one of the most powerful Mission Editors ever designed, network play, and hundreds of AI weapons systems, ground units, armored vehicles, air defense systems, and ships. It also includes a free Russian Sukhoi Su-25T ground attack jet and the famous WWII North American TF-51D Mustang fighter. </p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/7a2d668221a4838639eb6ac4187a6d18.poster.avif?t=1760526172" width=616 height=150 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/7a2d668221a4838639eb6ac4187a6d18.webm?t=1760526172" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/7a2d668221a4838639eb6ac4187a6d18.mp4?t=1760526172" type="video/mp4"></video></span></p><p class="bb_paragraph" >DCS is a true &quot;sandbox&quot; simulation that is also designed to cover multiple time periods of interest such as WWII, Korean War, Vietnam, Gulf War and others.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/3e96676c9d36c64f2ea31a4098b25d22.poster.avif?t=1760526172" width=616 height=150 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/3e96676c9d36c64f2ea31a4098b25d22.webm?t=1760526172" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/3e96676c9d36c64f2ea31a4098b25d22.mp4?t=1760526172" type="video/mp4"></video></span></p><p class="bb_paragraph" > Current regions to battle include the Black Sea, Marianas, Nevada Test and Training Range, Persian Gulf, English Channel, Syria, and Normandy 1944.  </p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/e7bb3caee7d79428839dabe864e26873.poster.avif?t=1760526172" width=616 height=150 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/e7bb3caee7d79428839dabe864e26873.webm?t=1760526172" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/e7bb3caee7d79428839dabe864e26873.mp4?t=1760526172" type="video/mp4"></video></span></p><p class="bb_paragraph" >DCS World is a deep and realistic simulation that can be tailored to suit any level of experience. Our mission is to deliver excellence and make your dreams a virtual reality. We do this by offering training for complex weapons systems like the DCS: F/A-18C Hornet, DCS: F-16C Viper, DCS: AH-64D, and many more. The next step is the real thing!</p><p class="bb_paragraph" ></p><h2 class="bb_tag" >KEY FEATURES</h2><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/223750/edb0161b9db9f6489684d466613502c3_webp" /></span></p><ul class="bb_ul"><li><p class="bb_paragraph" >A realistic Free-to-Play digital battlefield.</p></li><li><p class="bb_paragraph" >Eagle Dynamics Graphics Engine (EDGE) that looks amazing from 0 to 80,000 feet.</p></li><li><p class="bb_paragraph" >Free American TF-51 Mustang and Russian Su-25T attack jet.</p></li><li><p class="bb_paragraph" >Multi-layer volumetric cloudscapes with wind, precipitation, air pressure, and more.</p></li><li><p class="bb_paragraph" >Highly detailed map of the Caucasus region that encompass southwestern Russia and Georgia. 20 operational airbases, detailed terrain, and both civil and military infrastructure with thousands of kilometers of usable roads and railway.</p></li><li><p class="bb_paragraph" >Detailed recreation of the Mariana Islands including 1,500 x 1,000km of land and ocean for naval operations that includes Andersen AFB and the airfields on Rota, Tinian and Saipan.</p></li><li><p class="bb_paragraph" >Includes hundreds of fully operational weapons systems, ground vehicles, ships and AI-controlled aircraft.</p></li><li><p class="bb_paragraph" >The Mission Editor allows rapid mission generation and the possibility to create your own missions and campaigns for unlimited gameplay.</p></li><li><p class="bb_paragraph" >Multi-Crew enables full network play in the same aircraft in Multiplayer.</p></li><li><p class="bb_paragraph" >Thousands of online servers offering PvP and PvE.</p></li><li><p class="bb_paragraph" >Mouse interactive 6 degrees of Freedom (6DOF) cockpits</p></li><li><p class="bb_paragraph" >Accurate flight models, weapons systems, sensors, targeting systems and sounds.</p></li><li><p class="bb_paragraph" >Hundreds of missions and campaigns with new campaigns continually created.</p></li><li><p class="bb_paragraph" >Community Files section offering endless user created modifications, skins, missions and more.</p></li><li><p class="bb_paragraph" >Full virtual reality support.</p></li></ul><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/f9de598e90456d1bf645b6f3f1e9fc8a.poster.avif?t=1760526172" width=616 height=150 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/f9de598e90456d1bf645b6f3f1e9fc8a.webm?t=1760526172" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/f9de598e90456d1bf645b6f3f1e9fc8a.mp4?t=1760526172" type="video/mp4"></video></span></p>
+<p class="bb_paragraph" ><i>Feel the excitement of flying the Su-25T &quot;Frogfoot&quot; attack jet and the TF-51D &quot;Mustang&quot; in the free-to-play Digital Combat Simulator World! Two free maps are also included: The eastern Black Sea and the Mariana Islands.</i></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/223750/edb0161b9db9f6489684d466613502c3_webp" /></span></p><p class="bb_paragraph" >Digital Combat Simulator World</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/de225c7a96e1ef36837acea0c4fe9e02.poster.avif?t=1766080589" width=616 height=150 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/de225c7a96e1ef36837acea0c4fe9e02.webm?t=1766080589" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/de225c7a96e1ef36837acea0c4fe9e02.mp4?t=1766080589" type="video/mp4"></video></span></p><p class="bb_paragraph" >Digital Combat Simulator World (DCS World) is a free-to-play digital battlefield game.</p><p class="bb_paragraph" >Our dream is to offer the most authentic simulation of military aircraft, ground and armor vehicles, and naval units possible. This free download includes a vast area of the Caucasus region as well as a free Mariana Islands map. It includes one of the most powerful Mission Editors ever designed, network play, and hundreds of AI weapons systems, ground units, armored vehicles, air defense systems, and ships. It also includes a free Russian Sukhoi Su-25T ground attack jet and the famous WWII North American TF-51D Mustang fighter. </p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/7a2d668221a4838639eb6ac4187a6d18.poster.avif?t=1766080589" width=616 height=150 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/7a2d668221a4838639eb6ac4187a6d18.webm?t=1766080589" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/7a2d668221a4838639eb6ac4187a6d18.mp4?t=1766080589" type="video/mp4"></video></span></p><p class="bb_paragraph" >DCS is a true &quot;sandbox&quot; simulation that is also designed to cover multiple time periods of interest such as WWII, Korean War, Vietnam, Gulf War and others.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/3e96676c9d36c64f2ea31a4098b25d22.poster.avif?t=1766080589" width=616 height=150 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/3e96676c9d36c64f2ea31a4098b25d22.webm?t=1766080589" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/3e96676c9d36c64f2ea31a4098b25d22.mp4?t=1766080589" type="video/mp4"></video></span></p><p class="bb_paragraph" > Current regions to battle include the Black Sea, Marianas, Nevada Test and Training Range, Persian Gulf, English Channel, Syria, and Normandy 1944.  </p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/e7bb3caee7d79428839dabe864e26873.poster.avif?t=1766080589" width=616 height=150 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/e7bb3caee7d79428839dabe864e26873.webm?t=1766080589" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/e7bb3caee7d79428839dabe864e26873.mp4?t=1766080589" type="video/mp4"></video></span></p><p class="bb_paragraph" >DCS World is a deep and realistic simulation that can be tailored to suit any level of experience. Our mission is to deliver excellence and make your dreams a virtual reality. We do this by offering training for complex weapons systems like the DCS: F/A-18C Hornet, DCS: F-16C Viper, DCS: AH-64D, and many more. The next step is the real thing!</p><p class="bb_paragraph" ></p><h2 class="bb_tag" >KEY FEATURES</h2><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/223750/edb0161b9db9f6489684d466613502c3_webp" /></span></p><ul class="bb_ul"><li><p class="bb_paragraph" >A realistic Free-to-Play digital battlefield.</p></li><li><p class="bb_paragraph" >Eagle Dynamics Graphics Engine (EDGE) that looks amazing from 0 to 80,000 feet.</p></li><li><p class="bb_paragraph" >Free American TF-51 Mustang and Russian Su-25T attack jet.</p></li><li><p class="bb_paragraph" >Multi-layer volumetric cloudscapes with wind, precipitation, air pressure, and more.</p></li><li><p class="bb_paragraph" >Highly detailed map of the Caucasus region that encompass southwestern Russia and Georgia. 20 operational airbases, detailed terrain, and both civil and military infrastructure with thousands of kilometers of usable roads and railway.</p></li><li><p class="bb_paragraph" >Detailed recreation of the Mariana Islands including 1,500 x 1,000km of land and ocean for naval operations that includes Andersen AFB and the airfields on Rota, Tinian and Saipan.</p></li><li><p class="bb_paragraph" >Includes hundreds of fully operational weapons systems, ground vehicles, ships and AI-controlled aircraft.</p></li><li><p class="bb_paragraph" >The Mission Editor allows rapid mission generation and the possibility to create your own missions and campaigns for unlimited gameplay.</p></li><li><p class="bb_paragraph" >Multi-Crew enables full network play in the same aircraft in Multiplayer.</p></li><li><p class="bb_paragraph" >Thousands of online servers offering PvP and PvE.</p></li><li><p class="bb_paragraph" >Mouse interactive 6 degrees of Freedom (6DOF) cockpits</p></li><li><p class="bb_paragraph" >Accurate flight models, weapons systems, sensors, targeting systems and sounds.</p></li><li><p class="bb_paragraph" >Hundreds of missions and campaigns with new campaigns continually created.</p></li><li><p class="bb_paragraph" >Community Files section offering endless user created modifications, skins, missions and more.</p></li><li><p class="bb_paragraph" >Full virtual reality support.</p></li></ul><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/f9de598e90456d1bf645b6f3f1e9fc8a.poster.avif?t=1766080589" width=616 height=150 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/f9de598e90456d1bf645b6f3f1e9fc8a.webm?t=1766080589" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/extras/f9de598e90456d1bf645b6f3f1e9fc8a.mp4?t=1766080589" type="video/mp4"></video></span></p>
 
 </details>
 
@@ -1750,7 +1772,7 @@ Dig, Fight, Explore, Build:  The very world is at your fingertips as you fight f
 <details>
 <summary>Detailed description</summary>
 
-<p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline crossorigin="anonymous" poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/4dd974ef2221302188173d11f26f3b2a.poster.avif?t=1762533512" width=780 height=400 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/4dd974ef2221302188173d11f26f3b2a.webm?t=1762533512" type="video/webm; codecs=vp9"></video></span></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>War Thunder</strong> is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, from the early 20th century to the most advanced modern combat units. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving environment.</p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline crossorigin="anonymous" poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/b4b9bbc29596dece5f7885b1308b639b.poster.avif?t=1762533512" width=780 height=350 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/b4b9bbc29596dece5f7885b1308b639b.webm?t=1762533512" type="video/webm; codecs=vp9"></video></span></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" >In War Thunder, aircraft, attack helicopters, ground forces and naval ships collaborate in realistic competitive battles. You can choose from over 2,500 vehicles and an extensive variety of combat situations many of which are exclusive. You can find yourself blasting your pursuers from a bomber turret, defending your teammates on the ground from an air raid with anti-aircraft guns, shooting down enemy planes with a firestorm from multiple rocket launchers, or trying to sink an enemy warship with a torpedo from a fast attack boat.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline crossorigin="anonymous" poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/1c6134e20b3a9cf8c71db6adcc81de4f.poster.avif?t=1762533512" width=780 height=350 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/1c6134e20b3a9cf8c71db6adcc81de4f.webm?t=1762533512" type="video/webm; codecs=vp9"></video></span></p><h2 class="bb_tag" >Features include:</h2><p class="bb_paragraph" ></p><ul class="bb_ul"><li><p class="bb_paragraph" >Seamless cross-platform gameplay between Windows PC, Linux, Mac, PlayStation®4, PlayStation®5, Xbox One with Xbox Series X|S – everyone on the same server.</p></li><li><p class="bb_paragraph" >Over 2,500 highly detailed aircraft, helicopters, tanks, warships and other combat vehicles crafted carefully from historical documents and surviving sources.</p></li><li><p class="bb_paragraph" >100 maps representing the main historical battle theaters.</p></li><li><p class="bb_paragraph" >Intense PvP experiences in full-scale combat missions at various difficulty settings for all play styles and degrees of experience.</p></li><li><p class="bb_paragraph" >Rich PvE content including dynamic historical campaigns and solo missions.</p></li><li><p class="bb_paragraph" >Regular content updates including new vehicles, maps, missions and nations.</p></li><li><p class="bb_paragraph" >Astonishing graphics, authentic sound effects and beautiful music creating an atmosphere to fully immerse yourself in.</p></li><li><p class="bb_paragraph" >Create custom content for War Thunder and share it on War Thunder Live, with the prospect of earning real money through the Revenue Share Partner System!</p></li></ul><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline crossorigin="anonymous" poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/411eb8940b5b505105f54734b5324d6e.poster.avif?t=1762533512" width=780 height=350 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/411eb8940b5b505105f54734b5324d6e.webm?t=1762533512" type="video/webm; codecs=vp9"></video></span></p>
+<p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline crossorigin="anonymous" poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/4dd974ef2221302188173d11f26f3b2a.poster.avif?t=1768287921" width=780 height=400 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/4dd974ef2221302188173d11f26f3b2a.webm?t=1768287921" type="video/webm; codecs=vp9"></video></span></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>War Thunder</strong> is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, from the early 20th century to the most advanced modern combat units. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving environment.</p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline crossorigin="anonymous" poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/b4b9bbc29596dece5f7885b1308b639b.poster.avif?t=1768287921" width=780 height=350 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/b4b9bbc29596dece5f7885b1308b639b.webm?t=1768287921" type="video/webm; codecs=vp9"></video></span></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" >In War Thunder, aircraft, attack helicopters, ground forces and naval ships collaborate in realistic competitive battles. You can choose from over 2,500 vehicles and an extensive variety of combat situations many of which are exclusive. You can find yourself blasting your pursuers from a bomber turret, defending your teammates on the ground from an air raid with anti-aircraft guns, shooting down enemy planes with a firestorm from multiple rocket launchers, or trying to sink an enemy warship with a torpedo from a fast attack boat.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline crossorigin="anonymous" poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/1c6134e20b3a9cf8c71db6adcc81de4f.poster.avif?t=1768287921" width=780 height=350 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/1c6134e20b3a9cf8c71db6adcc81de4f.webm?t=1768287921" type="video/webm; codecs=vp9"></video></span></p><h2 class="bb_tag" >Features include:</h2><p class="bb_paragraph" ></p><ul class="bb_ul"><li><p class="bb_paragraph" >Seamless cross-platform gameplay between Windows PC, Linux, Mac, PlayStation®4, PlayStation®5, Xbox One with Xbox Series X|S – everyone on the same server.</p></li><li><p class="bb_paragraph" >Over 2,500 highly detailed aircraft, helicopters, tanks, warships and other combat vehicles crafted carefully from historical documents and surviving sources.</p></li><li><p class="bb_paragraph" >100 maps representing the main historical battle theaters.</p></li><li><p class="bb_paragraph" >Intense PvP experiences in full-scale combat missions at various difficulty settings for all play styles and degrees of experience.</p></li><li><p class="bb_paragraph" >Rich PvE content including dynamic historical campaigns and solo missions.</p></li><li><p class="bb_paragraph" >Regular content updates including new vehicles, maps, missions and nations.</p></li><li><p class="bb_paragraph" >Astonishing graphics, authentic sound effects and beautiful music creating an atmosphere to fully immerse yourself in.</p></li><li><p class="bb_paragraph" >Create custom content for War Thunder and share it on War Thunder Live, with the prospect of earning real money through the Revenue Share Partner System!</p></li></ul><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline crossorigin="anonymous" poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/411eb8940b5b505105f54734b5324d6e.poster.avif?t=1768287921" width=780 height=350 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/411eb8940b5b505105f54734b5324d6e.webm?t=1768287921" type="video/webm; codecs=vp9"></video></span></p>
 
 </details>
 
@@ -1882,6 +1904,9 @@ Dig, Fight, Explore, Build:  The very world is at your fingertips as you fight f
 <img src="./generated/SteamMD/screenshots/236390/25.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
 <img src="./generated/SteamMD/screenshots/236390/26.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
 <img src="./generated/SteamMD/screenshots/236390/27.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/236390/28.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/236390/29.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/236390/30.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
 
 </details>
 
@@ -1892,7 +1917,7 @@ Dig, Fight, Explore, Build:  The very world is at your fingertips as you fight f
 <img src="./generated/SteamMD/covers/264710_header.jpg" alt="Subnautica" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** $29.99
+- **Price:** 29,99€
 - **Price/hour:** -
 - **Creator:** [Unknown Worlds Entertainment](https://store.steampowered.com/search/?developer=Unknown+Worlds+Entertainment)
 - **Developer:** Unknown Worlds Entertainment
@@ -1952,13 +1977,419 @@ Subnautica is an underwater adventure game set on an alien ocean planet. A massi
 
 ---
 
-<a id="25-beamngdrive-"></a>
-### 25. BeamNG.drive 🪟
+<a id="25-100-orange-juice-"></a>
+### 25. 100% Orange Juice 🪟 🍏 🐧
+<img src="./generated/SteamMD/covers/282800_header.jpg" alt="100% Orange Juice" width="400px">
+
+- **Playtime:** 0 hours
+- **Price:** $6.99
+- **Price/hour:** -
+- **Creator:** [Orange\_Juice](https://store.steampowered.com/search/?developer=Orange_Juice)
+- **Developer:** Orange_Juice
+- **Publisher:** Fruitbat Factory
+- **Genres:** Indie, Strategy
+- **Achievements:** 0/353
+
+**Short description:** 100% Orange Juice is a digital multiplayer board game populated by developer Orange Juice's all-star cast. Characters from Flying Red Barrel, QP Shooting, Suguri and Sora come together with all-new characters to duke it out... with dice.
+
+<details>
+<summary>Detailed description</summary>
+
+<p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/extras/103fe8acc929ec634e0d980a9bbea789.poster.avif?t=1767272430" width=616 height=112 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/extras/103fe8acc929ec634e0d980a9bbea789.webm?t=1767272430" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/extras/103fe8acc929ec634e0d980a9bbea789.mp4?t=1767272430" type="video/mp4"></video></span></p><p class="bb_paragraph" >100% Orange Juice is a digital multiplayer board game populated by developer Orange Juice's all-star cast. Characters from Flying Red Barrel, QP Shooting, Suguri and Sora come together with all-new characters to duke it out... with dice.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >This is a world where dogs, people and machines fly through the air. In that world, a small patch of darkness was born. Infinitesimal at first, it gradually began to envelop everything..</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >A youth named Kai, led by the mysterious life form known as Marie Poppo, begins a journey that will span worlds. The black, bottomless darkness of desire slowly eats away at both Kai and the world itself...</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Let Marie Poppo lead you into a mysterious world to play. Grab your deck of cards and let the games begin!</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/extras/367f2aa0fddc46e81fcf3a8f0b11ddd9.poster.avif?t=1767272430" width=616 height=112 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/extras/367f2aa0fddc46e81fcf3a8f0b11ddd9.webm?t=1767272430" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/extras/367f2aa0fddc46e81fcf3a8f0b11ddd9.mp4?t=1767272430" type="video/mp4"></video></span></p><h2 class="bb_tag" >Features:</h2><ul class="bb_ul"><li><p class="bb_paragraph" >Dice, cards, stars, battles and pudding</p></li><li><p class="bb_paragraph" >4 Single-player campaigns</p></li><li><p class="bb_paragraph" >Playable by up to 4 players online</p></li><li><p class="bb_paragraph" >Countless battle combinations</p></li><li><p class="bb_paragraph" >Utilize each character's unique combat attributes</p></li><li><p class="bb_paragraph" >More than 50 different cards to collect</p></li><li><p class="bb_paragraph" >Character abilities in the form of Hyper Cards</p></li></ul><p class="bb_paragraph" ></p><h2 class="bb_tag" >New Steam Features:</h2><ul class="bb_ul"><li><p class="bb_paragraph" >Full HD support</p></li><li><p class="bb_paragraph" >Redesigned multiplayer experience using Steam's lobby system</p></li><li><p class="bb_paragraph" >Spectator mode</p></li><li><p class="bb_paragraph" >Avatar customization</p></li><li><p class="bb_paragraph" >New character skins to unlock</p></li><li><p class="bb_paragraph" >VAC enabled</p></li><li><p class="bb_paragraph" >Custom language support</p></li></ul>
+
+</details>
+
+<details>
+<summary>Achievements Details</summary>
+
+<table>
+<tr><td><img src='./generated/SteamMD/achievements/282800/100__Orange_Juice.jpg' width='32'></td><td>🟥</td><td>100% Orange Juice</td><td>Complete Every Non-DLC Achievement in 100% Orange Juice</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Pudding_Chaser.jpg' width='32'></td><td>🟥</td><td>Pudding Chaser</td><td>Complete QP's Scenario on Normal Difficulty or Higher</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Hyper.jpg' width='32'></td><td>🟥</td><td>Hyper</td><td>Complete Suguri's Scenario on Normal Difficulty or Higher</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Little_Aviator.jpg' width='32'></td><td>🟥</td><td>A Little Aviator</td><td>Complete Marc's Scenario on Normal Difficulty or Higher</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Penny_Pincher.jpg' width='32'></td><td>🟥</td><td>Penny Pincher</td><td>Complete Kai's Scenario on Normal Difficulty or Higher</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Poppo_.jpg' width='32'></td><td>🟥</td><td>Poppo?</td><td>Complete the Extra Scenarios on Normal Difficulty or Higher</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Superstar.jpg' width='32'></td><td>🟥</td><td>Superstar</td><td>Complete All Scenarios on Normal Difficulty or Higher</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Booster_Pack.jpg' width='32'></td><td>🟥</td><td>Booster Pack</td><td>Reach 25% Card Binder Completion</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Collector.jpg' width='32'></td><td>🟥</td><td>Collector</td><td>Reach 50% Card Binder Completion</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Card_Shark.jpg' width='32'></td><td>🟥</td><td>Card Shark</td><td>Reach 75% Card Binder Completion</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Card_Sage.jpg' width='32'></td><td>🟥</td><td>Card Sage</td><td>Reach 100% Card Binder Completion</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/People_Watching.jpg' width='32'></td><td>🟥</td><td>People Watching</td><td>Acquire All Non-DLC Unit Cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Not_Playing_with_a_Full_Deck_of_Cards.jpg' width='32'></td><td>🟥</td><td>Not Playing with a Full Deck of Cards</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Nice_Present.jpg' width='32'></td><td>🟥</td><td>Nice Present</td><td>Get a Rare Card from Purchasing a Card Pack</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Shiny_.jpg' width='32'></td><td>🟥</td><td>Shiny!</td><td>Roll 10 or Higher on a Bonus Panel</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Poppo_Always_Wins.jpg' width='32'></td><td>🟥</td><td>Poppo Always Wins</td><td>Play 70 Games</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Little_Wars.jpg' width='32'></td><td>🟥</td><td>Little Wars</td><td>Win 35 Games</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Starbound.jpg' width='32'></td><td>🟥</td><td>Starbound</td><td>Hold 700 Stars at Once in a Match</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Tougher_Than_Diamond.jpg' width='32'></td><td>🟥</td><td>Tougher Than Diamond</td><td>Win a Game Without Being KO'd on Any Field with Air Raid Event</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Your_Home_Is_My_Home.jpg' width='32'></td><td>🟥</td><td>Your Home Is My Home</td><td>Win a Game Without Visiting Your Home Base</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/And_Away_They_Went.jpg' width='32'></td><td>🟥</td><td>And Away They Went</td><td>Use a Trap to Prevent an Enemy Level-up</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Banned_for_Life.jpg' width='32'></td><td>🟥</td><td>Banned for Life</td><td>Defeat the Manager Boss</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Full_Metal_Brother.jpg' width='32'></td><td>🟥</td><td>Full Metal Brother</td><td>Defeat the Boss Robot</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Moving_Castle_in_the_Sky.jpg' width='32'></td><td>🟥</td><td>Moving Castle in the Sky</td><td>Defeat the Castle Boss</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Mimyuu_s_Hammer.jpg' width='32'></td><td>🟥</td><td>Mimyuu's Hammer</td><td>Defeat 100 NPCs</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Definite_Defender.jpg' width='32'></td><td>🟥</td><td>Definite Defender</td><td>Survive an Attack with an Offensive Roll of 9 or Higher</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/You_Can_Run___.jpg' width='32'></td><td>🟥</td><td>You Can Run...</td><td>Defeat Each Opponent at Least Once in a Single Game</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Fair_Trade.jpg' width='32'></td><td>🟥</td><td>Fair Trade</td><td>Use an Exchange Card with Beneficial Results</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Some_People_Have_All_the_Luck_.jpg' width='32'></td><td>🟥</td><td>Some People Have All the Luck!</td><td>Fail the Final Revive Roll</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Girl_Who_Stole_the_Stars.jpg' width='32'></td><td>🟥</td><td>The Girl Who Stole the Stars</td><td>Steal 50 Stars from An Enemy with Ubiquitous</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Unstoppable.jpg' width='32'></td><td>🟥</td><td>Unstoppable</td><td>Defeat 5 Enemies in a Row Without Being KO'd</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Pacifist.jpg' width='32'></td><td>🟥</td><td>Pacifist</td><td>Win a Game by Only Picking Collect Stars Options</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Duelist.jpg' width='32'></td><td>🟥</td><td>Duelist</td><td>Win a Game by Only Picking Battle Options</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Battle_Master.jpg' width='32'></td><td>🟥</td><td>Battle Master</td><td>Get 21 Win Points in a Single Game</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Vendetta.jpg' width='32'></td><td>🟥</td><td>Vendetta</td><td>Defeat the Same Opponent 5 Times During Battles in a Single Game</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Bit_by_Bit.jpg' width='32'></td><td>🟥</td><td>Bit by Bit</td><td>Play 10 games as Nanako (DLC 1)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Fully_Deployed.jpg' width='32'></td><td>🟥</td><td>Fully Deployed</td><td>As Nanako, use Deploy Bits to get +7 or more in Attack, Defense or Evasion (DLC 1)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Orders_Are_Absolute.jpg' width='32'></td><td>🟥</td><td>Orders Are Absolute</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Chicken_Parade.jpg' width='32'></td><td>🟥</td><td>Chicken Parade</td><td>Play 10 games as Syura (DLC 1)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Beyond_Hell.jpg' width='32'></td><td>🟥</td><td>Beyond Hell</td><td>As Syura, use Beyond Hell while at 1 HP to KO a full-HP opponent  (DLC 1)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/End_of_Pudding.jpg' width='32'></td><td>🟥</td><td>End of Pudding</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Saki_s_Cookie.jpg' width='32'></td><td>🟥</td><td>Saki's Cookie</td><td>Play 10 games as Saki (DLC 2)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Big_Bang.jpg' width='32'></td><td>🟥</td><td>The Big Bang</td><td>As Saki, KO at least 2 other players with one Big Bang Bell you have set (DLC 2)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Dropped_the_Bomb.jpg' width='32'></td><td>🟥</td><td>Dropped the Bomb</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Seeking_Kyupita.jpg' width='32'></td><td>🟥</td><td>Seeking Kyupita</td><td>Play 10 games as Kyousuke (DLC 2)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Liberated.jpg' width='32'></td><td>🟥</td><td>Liberated</td><td>As Kyousuke, KO 5 characters in one game while using Cast Off (DLC 2)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Kiss_from_a_Rose.jpg' width='32'></td><td>🟥</td><td>Kiss from a Rose</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Waylaid.jpg' width='32'></td><td>🟥</td><td>Waylaid</td><td>Hit them when they didn't expect it (DLC 3)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Changeling.jpg' width='32'></td><td>🟥</td><td>Changeling</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Hard_Counter.jpg' width='32'></td><td>🟥</td><td>Hard Counter</td><td>Shields gone critical (DLC 3)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Tight_Budget.jpg' width='32'></td><td>🟥</td><td>A Tight Budget</td><td>Revised the budget to save 50 stars (DLC 3)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Side_Order_of_Chicken.jpg' width='32'></td><td>🟥</td><td>A Side Order of Chicken</td><td>Piyopiyopiyo? (DLC 3)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Long_Run.jpg' width='32'></td><td>🟥</td><td>The Long Run</td><td>Gone as far as the fuel would take (DLC 3)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Mad_Dash.jpg' width='32'></td><td>🟥</td><td>Mad Dash</td><td>A maddening display of speed</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Turned_Tables.jpg' width='32'></td><td>🟥</td><td>Turned Tables</td><td>The hunter became the hunted</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Put_It_on_the_Bill.jpg' width='32'></td><td>🟥</td><td>Put It on the Bill</td><td>Just wait here while I go get some stars, will you? (DLC 3)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Denizen_of_Darkness.jpg' width='32'></td><td>🟥</td><td>Denizen of Darkness</td><td>Play 10 games as Krila (DLC 4)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Plushie_Master.jpg' width='32'></td><td>🟥</td><td>Plushie Master</td><td>Proof of the ultimate mastery (DLC 4)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Dance_of_the_Beasts.jpg' width='32'></td><td>🟥</td><td>Dance of the Beasts</td><td>Dance, beasts, dance! (DLC 4)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Battle_Addict.jpg' width='32'></td><td>🟥</td><td>Battle Addict</td><td>Play 10 games as Kae (DLC 4)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/All_Ablaze.jpg' width='32'></td><td>🟥</td><td>All Ablaze</td><td>Everybody burns (DLC 4)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Better_to_Burn_Out.jpg' width='32'></td><td>🟥</td><td>Better to Burn Out</td><td>Fully enjoyed the heat of battle (DLC 4)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Planned_Demolition.jpg' width='32'></td><td>🟥</td><td>Planned Demolition</td><td>Play 10 games as Alte (DLC 5)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Full_Payload.jpg' width='32'></td><td>🟥</td><td>Full Payload</td><td>Boom boom boom! (DLC 5)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Rebellion.jpg' width='32'></td><td>🟥</td><td>Rebellion</td><td>Won't be bossed no more (DLC 5)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Cool_Beauty.jpg' width='32'></td><td>🟥</td><td>A Cool Beauty</td><td>Play 10 games as Kyoko (DLC 5)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Total_Barrier.jpg' width='32'></td><td>🟥</td><td>Total Barrier</td><td>Going down without a fight (DLC 5)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/You_Call_That_a_Trap_.jpg' width='32'></td><td>🟥</td><td>You Call That a Trap?</td><td>What a piece of junk... (DLC 5)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Cutie.jpg' width='32'></td><td>🟥</td><td>Cutie</td><td>Idol material! (DLC6)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Tag_Team.jpg' width='32'></td><td>🟥</td><td>Tag Team</td><td>It's all about timing (DLC6)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Taking_You_Home.jpg' width='32'></td><td>🟥</td><td>Taking You Home</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Free_Spirit.jpg' width='32'></td><td>🟥</td><td>Free Spirit</td><td>She only wants to fly freely... (DLC6)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Whimsical_Beatdown.jpg' width='32'></td><td>🟥</td><td>A Whimsical Beatdown</td><td>It looks like they still have a ways to go (DLC6)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Combat_Flight.jpg' width='32'></td><td>🟥</td><td>Combat Flight</td><td>Well, something like that (DLC6)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Champion_of_War.jpg' width='32'></td><td>🟥</td><td>Champion of War</td><td>Play 10 games as Star Breaker (DLC7)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Unbreakable.jpg' width='32'></td><td>🟥</td><td>Unbreakable</td><td>The undefeated victor (DLC7)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Long_Fuse.jpg' width='32'></td><td>🟥</td><td>A Long Fuse</td><td>Maximum payload (DLC7)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Proof_of_the_Pudding.jpg' width='32'></td><td>🟥</td><td>Proof of the Pudding</td><td>Complete Star Breaker's campaign on Normal difficulty or higher (DLC7)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Champion_of_Peace.jpg' width='32'></td><td>🟥</td><td>Champion of Peace</td><td>Play 10 games as Sweet Breaker (DLC7)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Source_of_Conflict.jpg' width='32'></td><td>🟥</td><td>Source of Conflict</td><td>...sealed! (DLC7)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Traditional_Way.jpg' width='32'></td><td>🟥</td><td>The Traditional Way</td><td>Of inflicting temporary amnesia (DLC7)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Sweet_Ending.jpg' width='32'></td><td>🟥</td><td>A Sweet Ending</td><td>Clear Sweet Breaker's campaign on Normal difficulty or higher (DLC7)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Riding_the_Blast_Wave.jpg' width='32'></td><td>🟥</td><td>Riding the Blast Wave</td><td>A cinematic experience</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Fully_Accelerated.jpg' width='32'></td><td>🟥</td><td>Fully Accelerated</td><td>Collect all cards in the Acceleration Pack (DLC 8)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Gentleman_s_Victory.jpg' width='32'></td><td>🟥</td><td>Gentleman's Victory</td><td>It was only polite to give them a chance  (DLC 8)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Miser.jpg' width='32'></td><td>🟥</td><td>Miser</td><td>In hindsight, this wasn't the cheapest way... (DLC 8)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Lost_And_Found.jpg' width='32'></td><td>🟥</td><td>Lost And Found</td><td>I thought I left them around here... (DLC 8)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Who_Put_This_Here_.jpg' width='32'></td><td>🟥</td><td>Who Put This Here?</td><td>There must've been some mix-up (DLC 8)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/They_See_Me_Rolling.jpg' width='32'></td><td>🟥</td><td>They See Me Rolling</td><td>And... snake eyes. Of course. (DLC 8)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Quick_Fix.jpg' width='32'></td><td>🟥</td><td>Quick Fix</td><td>And ready to go again! (DLC 8)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/In_a_Burst_of_Light.jpg' width='32'></td><td>🟥</td><td>In a Burst of Light</td><td>Those feeble constructs... (DLC 8)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Ultimate_Weapon.jpg' width='32'></td><td>🟥</td><td>Ultimate Weapon</td><td>Play 10 games as Nath (DLC 9)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Ultimate_Destruction.jpg' width='32'></td><td>🟥</td><td>Ultimate Destruction</td><td>It was all for that one, shining moment (DLC 9)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/All_Systems_Go.jpg' width='32'></td><td>🟥</td><td>All Systems Go</td><td>These arms can only destroy (DLC 9)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/We_Are_Waruda.jpg' width='32'></td><td>🟥</td><td>We Are Waruda</td><td>Play 10 games as Tomato&Mimyuu (DLC 9)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Bad_Kids__Usurpation.jpg' width='32'></td><td>🟥</td><td>Bad Kids' Usurpation</td><td>The Warudas have a new leader now! (DLC 9)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Spy_Games.jpg' width='32'></td><td>🟥</td><td>Spy Games</td><td>Tomato is unstoppable! (DLC 9)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Not_a_Real_Medical_License.jpg' width='32'></td><td>🟥</td><td>Not a Real Medical License</td><td>Play 10 games as Kiriko (DLC 11)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Doctor_is_Out.jpg' width='32'></td><td>🟥</td><td>The Doctor is Out</td><td>This operation exceeded expectations (DLC 11)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Lingering_Effects.jpg' width='32'></td><td>🟥</td><td>Lingering Effects</td><td>The formula might need a little more work... (DLC 11)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Master_of_Thighs.jpg' width='32'></td><td>🟥</td><td>Master of Thighs</td><td>Play 10 games as NoName (DLC 11)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Man_s_Best_Friend.jpg' width='32'></td><td>🟥</td><td>Man's Best Friend</td><td>This is what friends are for (DLC 11)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Ahead_of_the_Game.jpg' width='32'></td><td>🟥</td><td>Ahead of the Game</td><td>It's all in your head (DLC 11)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Feeling_Blue.jpg' width='32'></td><td>🟥</td><td>Feeling Blue</td><td>Play 10 games as Ceoreparque (DLC 13)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Float_Like_a_Butterfly.jpg' width='32'></td><td>🟥</td><td>Float Like a Butterfly</td><td>Sting like a bee (DLC 13)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Just_a_Lock_of_Hair.jpg' width='32'></td><td>🟥</td><td>Just a Lock of Hair</td><td>From a friendly witch (DLC 13)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Cheerful_Green.jpg' width='32'></td><td>🟥</td><td>Cheerful Green</td><td>Play 10 games as Miusaki (DLC 13)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Can_Take_a_Pummeling.jpg' width='32'></td><td>🟥</td><td>Can Take a Pummeling</td><td>That's one tough girl (DLC 13)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Slightly_Dense.jpg' width='32'></td><td>🟥</td><td>Slightly Dense</td><td>But that only makes her cuter! (DLC 13)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Girl_Power.jpg' width='32'></td><td>🟥</td><td>Girl Power</td><td>Complete the Girl Power campaign (DLC 13)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Extortion.jpg' width='32'></td><td>🟥</td><td>Extortion</td><td>Steal 50+ stars in one battle using the Dark Side of Business</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Poppo_Stole_the_Precious_Things.jpg' width='32'></td><td>🟥</td><td>Poppo Stole the Precious Things</td><td>Steal 2+ cards with one Treasure Thief</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Bounty_Hunter.jpg' width='32'></td><td>🟥</td><td>Bounty Hunter</td><td>KO 2 players afflicted with Wanted in one game</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Power_Overwhelming.jpg' width='32'></td><td>🟥</td><td>Power Overwhelming</td><td>Use Price of Power to play a card at least 2 levels above your level</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Finding_Friends.jpg' width='32'></td><td>🟥</td><td>Finding Friends</td><td>KO 3 players in one game while carrying Lost Child</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Wild_Party.jpg' width='32'></td><td>🟥</td><td>Wild Party</td><td>Bring a Party to a home panel</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Big__Bigger__Po.jpg' width='32'></td><td>🟥</td><td>Big, Bigger, Po</td><td>KO Big Poppo</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Priceless_Treasure.jpg' width='32'></td><td>🟥</td><td>Priceless Treasure</td><td>Pick up 3 Hyper treasures in one game.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/New_Cat_in_the_House.jpg' width='32'></td><td>🟥</td><td>New Cat in the House</td><td>Play 10 games as Yuki (Dangerous)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Beastly_Cunning.jpg' width='32'></td><td>🟥</td><td>Beastly Cunning</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Gone_Pudding_Gone.jpg' width='32'></td><td>🟥</td><td>Gone Pudding Gone</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Leisure_Time.jpg' width='32'></td><td>🟥</td><td>Leisure Time</td><td>Play 10 games as Tomomo (Casual)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Magical_Miracle_.jpg' width='32'></td><td>🟥</td><td>Magical Miracle!</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Fine_Day_to_Stay_in_Bed.jpg' width='32'></td><td>🟥</td><td>A Fine Day to Stay in Bed</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Nanora_.jpg' width='32'></td><td>🟥</td><td>Nanora!</td><td>Play 10 games as Tsih (DLC 17)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Can_t_see_me__nyahaha_.jpg' width='32'></td><td>🟥</td><td>Can't see me, nyahaha!</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Lot_of_Rocks.jpg' width='32'></td><td>🟥</td><td>A Lot of Rocks</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Oh__Tequila.jpg' width='32'></td><td>🟥</td><td>Oh, Tequila</td><td>Play 10 games as Tequila (DLC 17)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Pirate_I_Was_Meant_to_Be.jpg' width='32'></td><td>🟥</td><td>A Pirate I Was Meant to Be</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Pirate_s_Booty.jpg' width='32'></td><td>🟥</td><td>Pirate's Booty</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Troublemaker.jpg' width='32'></td><td>🟥</td><td>Troublemaker</td><td>Play 10 games as Mei (DLC 18)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Red_vs_Blue.jpg' width='32'></td><td>🟥</td><td>Red vs Blue</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Pumpkin_Smasher.jpg' width='32'></td><td>🟥</td><td>Pumpkin Smasher</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Nacchan.jpg' width='32'></td><td>🟥</td><td>Nacchan</td><td>Play 10 games as Natsumi (DLC 18)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/True_Feast.jpg' width='32'></td><td>🟥</td><td>True Feast</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Master_Chef.jpg' width='32'></td><td>🟥</td><td>Master Chef</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Santa_s_Little_Menace.jpg' width='32'></td><td>🟥</td><td>Santa's Little Menace</td><td>Play 10 games as Nico (DLC 19)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Hyper_Bunny.jpg' width='32'></td><td>🟥</td><td>A Hyper Bunny</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Nico_s_Presents_.jpg' width='32'></td><td>🟥</td><td>Nico's Presents!</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Working_Dad.jpg' width='32'></td><td>🟥</td><td>Working Dad</td><td>Play 10 games as Arthur (DLC 19)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Welcome_to_the_Toy_Store.jpg' width='32'></td><td>🟥</td><td>Welcome to the Toy Store</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Record_Sales.jpg' width='32'></td><td>🟥</td><td>Record Sales</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Crossed_Christmases.jpg' width='32'></td><td>🟥</td><td>Crossed Christmases</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Fun_and_Games.jpg' width='32'></td><td>🟥</td><td>Fun and Games</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Lucky_Draw.jpg' width='32'></td><td>🟥</td><td>Lucky Draw</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Trophy_Collector.jpg' width='32'></td><td>🟥</td><td>Trophy Collector</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Tomboy.jpg' width='32'></td><td>🟥</td><td>Tomboy</td><td>Play 10 games as Iru (DLC 20)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Heavy_Duty.jpg' width='32'></td><td>🟥</td><td>Heavy Duty</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Strike_Force_One.jpg' width='32'></td><td>🟥</td><td>Strike Force One</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Say_Our_Name.jpg' width='32'></td><td>🟥</td><td>Say Our Name</td><td>Play 10 games as Mira (DLC 20)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Mark_of_a_Hero.jpg' width='32'></td><td>🟥</td><td>Mark of a Hero</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Smoke_and_Mirrors.jpg' width='32'></td><td>🟥</td><td>Smoke and Mirrors</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Roost.jpg' width='32'></td><td>🟥</td><td>Roost</td><td>Defeat Big the Haruo</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Savage_Talons.jpg' width='32'></td><td>🟥</td><td>Savage Talons</td><td>Defeat Big the Haruo on Hyper difficulty</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Malfunction.jpg' width='32'></td><td>🟥</td><td>Malfunction</td><td>Defeat M10 Robot</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Imaginary_Numbers.jpg' width='32'></td><td>🟥</td><td>Imaginary Numbers</td><td>Defeat M10 Robot on Hyper Difficulty</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Star_Mania.jpg' width='32'></td><td>🟥</td><td>Star Mania</td><td>Defeat Star Devourer</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Death_and_Taxes.jpg' width='32'></td><td>🟥</td><td>Death and Taxes</td><td>Defeat Star Devourer on Hyper difficulty</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Power_Through.jpg' width='32'></td><td>🟥</td><td>Power Through</td><td>Reach level 10 as Attacker</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Steady_Does_it.jpg' width='32'></td><td>🟥</td><td>Steady Does it</td><td>Reach level 10 as Guardian</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Just_a_Small_Scratch.jpg' width='32'></td><td>🟥</td><td>Just a Small Scratch</td><td>Reach level 10 as Supporter</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Taste_of_Revenge.jpg' width='32'></td><td>🟥</td><td>Taste of Revenge</td><td>Reach level 10 as Avenger</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Animal_Farm.jpg' width='32'></td><td>🟥</td><td>Animal Farm</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Efficiency_Theory.jpg' width='32'></td><td>🟥</td><td>Efficiency Theory</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Value_Judgment.jpg' width='32'></td><td>🟥</td><td>Value Judgment</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Ultimate_Duet.jpg' width='32'></td><td>🟥</td><td>Ultimate Duet</td><td>Play 10 games as Sora & Sham (Cuties). (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Full_House.jpg' width='32'></td><td>🟥</td><td>Full House</td><td>Gather a generous contribution toward a shiny future.  (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_New_Star_is_Born.jpg' width='32'></td><td>🟥</td><td>A New Star is Born</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Twilight_of_the_Beasts.jpg' width='32'></td><td>🟥</td><td>Twilight of the Beasts</td><td>Sate an inquenchable bloodthirst.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Perfect_Maneuver.jpg' width='32'></td><td>🟥</td><td>A Perfect Maneuver</td><td>For once, all those modifications paid off.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Poppoception.jpg' width='32'></td><td>🟥</td><td>Poppoception</td><td>Which one is real?</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Pranked.jpg' width='32'></td><td>🟥</td><td>Pranked</td><td>Waruda pulled a fast one!</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Sticky_Fingers.jpg' width='32'></td><td>🟥</td><td>Sticky Fingers</td><td>Popoppo po!</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Can_Always_Go_Faster.jpg' width='32'></td><td>🟥</td><td>Can Always Go Faster</td><td>Even the sky is no limit.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/_Fun_in_the_Sun.jpg' width='32'></td><td>🟥</td><td> Fun in the Sun</td><td>Defeat Summer Beast.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/_A_Midsummer_Night_s_Dream.jpg' width='32'></td><td>🟥</td><td> A Midsummer Night's Dream</td><td>Defeat Summer Beast on Hyper difficulty.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/_Total_Rampage.jpg' width='32'></td><td>🟥</td><td> Total Rampage</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Summer_Games___.jpg' width='32'></td><td>🟥</td><td>Summer Games   </td><td>Reach level 10 as Dealer.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Creatures_of_Excellence.jpg' width='32'></td><td>🟥</td><td>Creatures of Excellence</td><td>Defeat Big the Jonathan.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Who_Flies_Highest.jpg' width='32'></td><td>🟥</td><td>Who Flies Highest</td><td>Defeat Big the Jonathan on Hyper difficulty.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Fighting_the_Windmills_.jpg' width='32'></td><td>🟥</td><td>Fighting the Windmills </td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Master_of_Puppets.jpg' width='32'></td><td>🟥</td><td>Master of Puppets</td><td>Play 10 games as Yuuki.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Voice_of_Punishment.jpg' width='32'></td><td>🟥</td><td>Voice of Punishment</td><td>As Yuuki, KO 5 players in battle during even-numbered turns.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Voice_of_Healing.jpg' width='32'></td><td>🟥</td><td>Voice of Healing</td><td>As Yuuki, heal 10 or more HP with Angel Hand in a single game.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Guild_Mate.jpg' width='32'></td><td>🟥</td><td>Guild Mate</td><td>Play 10 games as Islay.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Cross_of_Battle.jpg' width='32'></td><td>🟥</td><td>The Cross of Battle</td><td>As Islay, challenge 7 or more players to battle in a single game.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Rivalry.jpg' width='32'></td><td>🟥</td><td>Rivalry</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Pack_of_Pudding.jpg' width='32'></td><td>🟥</td><td>A Pack of Pudding</td><td>Collect all cards in the Pudding Pack (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Odds_Paid_Off.jpg' width='32'></td><td>🟥</td><td>The Odds Paid Off</td><td>Gambled to win when it really mattered. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Serious_Fire_Support.jpg' width='32'></td><td>🟥</td><td>Serious Fire Support</td><td>An unending barrage. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Dirty_Business.jpg' width='32'></td><td>🟥</td><td>Dirty Business</td><td>The Waruda's schemes break all rules. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Bound_by_Destiny.jpg' width='32'></td><td>🟥</td><td>Bound by Destiny</td><td>Nothing can keep these two apart. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Loved_by_Fans.jpg' width='32'></td><td>🟥</td><td>Loved by Fans</td><td>A double encore!? They really love us! (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Lucky_Streak.jpg' width='32'></td><td>🟥</td><td>Lucky Streak</td><td>It's finally Tomomo's lucky day! (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Big_Mix-up.jpg' width='32'></td><td>🟥</td><td>A Big Mix-up</td><td>Defeat RoPoChi.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Big_Po_s_Special.jpg' width='32'></td><td>🟥</td><td>Big Po's Special</td><td>Defeat RoPoChi on Hyper difficulty.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Redemption_Story.jpg' width='32'></td><td>🟥</td><td>Redemption Story</td><td>Defeat RoPoChi on Hyper difficulty using only any combination of Poppo, Chicken, Seagull, Robo Ball and QP.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Master_of_the_Minions.jpg' width='32'></td><td>🟥</td><td>Master of the Minions</td><td>Play 10 games as Mio</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Mama_Knows_Best.jpg' width='32'></td><td>🟥</td><td>Mama Knows Best</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Magical_BBQ.jpg' width='32'></td><td>🟥</td><td>A Magical BBQ</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Guardian_of_a_Lost_Planet.jpg' width='32'></td><td>🟥</td><td>Guardian of a Lost Planet</td><td>Play 10 games as Suguri (46 Billion Years) (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/With_Great_Power___.jpg' width='32'></td><td>🟥</td><td>With Great Power...</td><td>...you can dish out a great deal of punishment. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/With_Age_Comes_Wisdom.jpg' width='32'></td><td>🟥</td><td>With Age Comes Wisdom</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Sumika_is_Sumika.jpg' width='32'></td><td>🟥</td><td>Sumika is Sumika</td><td>Play 10 games as Sumika  (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Hyper_Space_Computing.jpg' width='32'></td><td>🟥</td><td>Hyper Space Computing</td><td>It's not a bug! Sumika just found a loophole! (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Sibling_Rivalry.jpg' width='32'></td><td>🟥</td><td>Sibling Rivalry</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Forest_Witch.jpg' width='32'></td><td>🟥</td><td>Forest Witch</td><td>Complete the Old Guardians campaign  (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Who_Am_I_.jpg' width='32'></td><td>🟥</td><td>Who Am I?</td><td>Play 10 games as Lulu (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Born_Under_a_Lucky_Star.jpg' width='32'></td><td>🟥</td><td>Born Under a Lucky Star</td><td>Lulu's so lucky today! (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Eggs.jpg' width='32'></td><td>🟥</td><td>Eggs</td><td>There's nothing eggs can't do! (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Mama_s_Girl.jpg' width='32'></td><td>🟥</td><td>Mama's Girl</td><td>Play 10 games as Ellie (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Big_Game_Hunters.jpg' width='32'></td><td>🟥</td><td>Big Game Hunters</td><td>We're eating well tonight, Lulu! (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Small_Game_Hunter.jpg' width='32'></td><td>🟥</td><td>Small Game Hunter</td><td>"Poppo, poppo" everywhere! (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Destined_Meeting.jpg' width='32'></td><td>🟥</td><td>Destined Meeting</td><td>Complete the Wanderers Campaign (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Witch_of_Speed.jpg' width='32'></td><td>🟥</td><td>Witch of Speed</td><td>Play 10 games as Alicianrone (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Extra_Motivated.jpg' width='32'></td><td>🟥</td><td>Extra Motivated</td><td>As Alicianrone, KO an attacking enemy with 4 ATK or more. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Fast_Cut.jpg' width='32'></td><td>🟥</td><td>Fast Cut</td><td> As Alicianrone, hit a unit 5 or more times with one Full Speed Alicianrone. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Beast_of_a_Witch.jpg' width='32'></td><td>🟥</td><td>A Beast of a Witch</td><td>Play 10 games as Teotoratta (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Beast_Friends.jpg' width='32'></td><td>🟥</td><td>Beast Friends</td><td>As Teotoratta, gain 200+ stars from Beast Witch in one game (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/_Unruly_Friend.jpg' width='32'></td><td>🟥</td><td> Unruly Friend</td><td> As Teotoratta, defeat a wild unit in combat. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Treasure_Hunter.jpg' width='32'></td><td>🟥</td><td>Treasure Hunter</td><td>Play 10 games as Arnelle (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Weak_Point.jpg' width='32'></td><td>🟥</td><td>Weak Point</td><td>As Arnelle, use Intelligence Officer to KO an opponent with full HP. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Information_Control.jpg' width='32'></td><td>🟥</td><td>Information Control</td><td>As Arnelle, use Intelligence Officer to observe 20 card draws in one game. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Easily_Aggravated.jpg' width='32'></td><td>🟥</td><td>Easily Aggravated</td><td>Play 10 games as Maynie (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Fuming_Mad.jpg' width='32'></td><td>🟥</td><td>Fuming Mad</td><td>As Maynie, hold 8 Rage Counters at once. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Closing_Argument.jpg' width='32'></td><td>🟥</td><td>Closing Argument</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Welcome__Dear_Customer_.jpg' width='32'></td><td>🟥</td><td>Welcome, Dear Customer!</td><td>Play 10 games as Chris (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/May_I_Take_Your_Order_.jpg' width='32'></td><td>🟥</td><td>May I Take Your Order?</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Manageeeeeer_.jpg' width='32'></td><td>🟥</td><td>Manageeeeeer!</td><td>As Chris, use Store Manager in battle to defeat all other players in the match (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Dog_Ears.jpg' width='32'></td><td>🟥</td><td>Dog Ears</td><td>Play 10 games as Kyupita (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Mirror_Image.jpg' width='32'></td><td>🟥</td><td>Mirror Image</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Evil_Is_Sealed.jpg' width='32'></td><td>🟥</td><td>The Evil Is Sealed</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/My_Bodyguard_May_Be_Clumsy_But_They_Are_Secretly_the_Strongest.jpg' width='32'></td><td>🟥</td><td>My Bodyguard May Be Clumsy But They Are Secretly the Strongest</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Memoirs_of_a_Living_Armor.jpg' width='32'></td><td>🟥</td><td>The Memoirs of a Living Armor</td><td>Purchase all the permanent power-ups in one game of Bounty Hunt.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/How_to_Become_a_Max_Level_Bounty_Hunter_in_the_Starting_Village.jpg' width='32'></td><td>🟥</td><td>How to Become a Max Level Bounty Hunter in the Starting Village</td><td>Defeat 1 of each Bounty monster in a match of Bounty Hunt.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/That_Time_I_Accidentally_KO_d_the_Demon_Lord.jpg' width='32'></td><td>🟥</td><td>That Time I Accidentally KO'd the Demon Lord</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Other_World_Deliveryman.jpg' width='32'></td><td>🟥</td><td>Other World Deliveryman</td><td>Win after completing 10 or more Quests in one game of Bounty Hunt.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Famous_Slime_Slayer.jpg' width='32'></td><td>🟥</td><td>A Famous Slime Slayer</td><td>Win after gaining at least 20 Fame from Bounties in one game of Bounty Hunt.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Jackpot.jpg' width='32'></td><td>🟥</td><td>Jackpot</td><td>Roll a natural 7 three times in a row.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Decisive_Rearming.jpg' width='32'></td><td>🟥</td><td>Decisive Rearming</td><td>Disarm a battle Hyper card with Deceptive Disarming.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Paid_Overtime.jpg' width='32'></td><td>🟥</td><td>Paid Overtime</td><td>Travel 12 or more panels and complete the final Norma in the same turn using Overtime.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Monster_Bird_.jpg' width='32'></td><td>🟥</td><td>Monster Bird?</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Home_Crasher.jpg' width='32'></td><td>🟥</td><td>Home Crasher</td><td>Pick up a card from each home after Home Improvement was used.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Slick_Moves.jpg' width='32'></td><td>🟥</td><td>Slick Moves</td><td>Slip on a BanaNana into another BanaNana.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Living_Atlas.jpg' width='32'></td><td>🟥</td><td>Living Atlas</td><td>Play 10 games as Halena (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Travel_Guide_of_the_Year.jpg' width='32'></td><td>🟥</td><td>Travel Guide of the Year</td><td>As Halena, avoid 10 perils on one journey (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Destination_Unknown.jpg' width='32'></td><td>🟥</td><td>Destination Unknown</td><td>As Halena, lose sight of your goal (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Fowl-Weather_Friends.jpg' width='32'></td><td>🟥</td><td>Fowl-Weather Friends</td><td>Play 10 games as Cook (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Chickening_Out.jpg' width='32'></td><td>🟥</td><td>Chickening Out</td><td>As Cook, dodge a mighty attack and run away (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Stuffed.jpg' width='32'></td><td>🟥</td><td>Stuffed</td><td>Win a game as Cook without ever going hungry (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Hotrodder.jpg' width='32'></td><td>🟥</td><td>Hotrodder</td><td>Play 10 games as Lone Rider (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Pedal_to_the_Metal.jpg' width='32'></td><td>🟥</td><td>Pedal to the Metal</td><td>As Lone Rider, put the pedal to the metal (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Roadkill.jpg' width='32'></td><td>🟥</td><td>Roadkill</td><td>Become the lone rider (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Never_Lose_Heart.jpg' width='32'></td><td>🟥</td><td>Never Lose Heart</td><td>Play 10 games as Merchant (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Money_Makes_the_World_Go__Round.jpg' width='32'></td><td>🟥</td><td>Money Makes the World Go 'Round</td><td>As Merchant, win with underhanded tactics (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/No_Refunds.jpg' width='32'></td><td>🟥</td><td>No Refunds</td><td>As Merchant, laugh at the poor fools trying to catch you (DLC).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Afloat.jpg' width='32'></td><td>🟥</td><td>Afloat</td><td>Defeat Swimming Coach.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Training_Day.jpg' width='32'></td><td>🟥</td><td>Training Day</td><td>Defeat Swimming Coach on Hyper difficulty.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Rebellious_Student.jpg' width='32'></td><td>🟥</td><td>Rebellious Student</td><td>Defeat Swimming Coach on Hyper difficulty without defeating any Goalpost minions.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Decorous_Debutante.jpg' width='32'></td><td>🟥</td><td>Decorous Debutante</td><td>Play 10 games as Fernet (Noble) (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Money_Talks.jpg' width='32'></td><td>🟥</td><td>Money Talks</td><td>Use your affluence to gain at least 150 stars. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Hidden_Potential.jpg' width='32'></td><td>🟥</td><td>Hidden Potential</td><td>As Fernet, put your full affluence on display.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Celestial_Steps.jpg' width='32'></td><td>🟥</td><td>Celestial Steps</td><td>Play 10 games as Hime (Moonlight) (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Moonwalk.jpg' width='32'></td><td>🟥</td><td>Moonwalk</td><td>Use Dance in the Moonlit Night to KO an opponent during the full moon. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Lunatic_Princess.jpg' width='32'></td><td>🟥</td><td>Lunatic Princess</td><td>Defeat a full HP Boss while dancing in the moonlight. (DLC)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/No_Country_for_an_Old_Man.jpg' width='32'></td><td>🟥</td><td>No Country for an Old Man</td><td>Play 10 games as Malt</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Twilight_Dreaming.jpg' width='32'></td><td>🟥</td><td>Twilight Dreaming</td><td>As Malt, have an enemy fall for your ploy and face a graceless defeat.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Master_of_the_Guild.jpg' width='32'></td><td>🟥</td><td>Master of the Guild</td><td>As Malt, assert dominance over the Guild.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Littlest_Aviator.jpg' width='32'></td><td>🟥</td><td>The Littlest Aviator</td><td>Play 10 games as Mescal</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Taking_Sides.jpg' width='32'></td><td>🟥</td><td>Taking Sides</td><td>Have the pirates pick the daughter over the father.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Quick_Draw.jpg' width='32'></td><td>🟥</td><td>Quick Draw</td><td>As Mescal, prove the superiority of your cannon.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Mastermind.jpg' width='32'></td><td>🟥</td><td>Mastermind</td><td>Play 10 games as Shifu</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/World_of_Dreams.jpg' width='32'></td><td>🟥</td><td>World of Dreams</td><td>As Shifu, rack up ideal wins.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Mending_Bridges.jpg' width='32'></td><td>🟥</td><td>Mending Bridges</td><td>As Shifu, successfully cooperate with unlikely allies.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Reika_of_Stars.jpg' width='32'></td><td>🟥</td><td>Reika of Stars</td><td>Play 10 games as Hoshino Reika</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Broken_Promises.jpg' width='32'></td><td>🟥</td><td>Broken Promises</td><td>As Hoshino Reika, fail to collect stars.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Lucky_Break.jpg' width='32'></td><td>🟥</td><td>Lucky Break</td><td>As Hoshino Reika, set your mirror image straight.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Pet_the_Cat.jpg' width='32'></td><td>🟥</td><td>Pet the Cat</td><td>Take the kitten for a walk 50 times.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Watery_Friend.jpg' width='32'></td><td>🟥</td><td>Watery Friend</td><td>Play 10 games as Watty</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Et_tu__Watty.jpg' width='32'></td><td>🟥</td><td>Et tu, Watty</td><td>Cause an unimaginable clash of magic that leaves no one standing.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Splash_Damage.jpg' width='32'></td><td>🟥</td><td>Splash Damage</td><td>As Watty, defeat an opponent while at your weakest.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Top_Dog.jpg' width='32'></td><td>🟥</td><td>Top Dog</td><td>Play 10 games as Pomeranius</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Bomb-sniffing_Pomeranius.jpg' width='32'></td><td>🟥</td><td>Bomb-sniffing Pomeranius</td><td>As Pomeranius, cumulatively land on 24 traps without triggering them</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Well_Treated.jpg' width='32'></td><td>🟥</td><td>Well Treated</td><td>As Pomeranius, receive a great many treats in one match.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Master_of_the_Sweet_Universe.jpg' width='32'></td><td>🟥</td><td>Master of the Sweet Universe</td><td>Play 10 games as Sweet Creator</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Creator_s_Whim.jpg' width='32'></td><td>🟥</td><td>Creator's Whim</td><td>As Sweet Creator, feed sweets to other players at least 9 times in one match.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Creator_Giveth__Creator_Taketh.jpg' width='32'></td><td>🟥</td><td>Creator Giveth, Creator Taketh</td><td>Gain a total of 250 stars in sweets tithes.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Cheerful_God.jpg' width='32'></td><td>🟥</td><td>A Cheerful God</td><td>Play 10 games as Saki (Sweet Maker)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Unsettled_Argument.jpg' width='32'></td><td>🟥</td><td>Unsettled Argument</td><td>As Sweet Maker, defeat a fully powered Sweet Guardian.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Meet_Your_Maker.jpg' width='32'></td><td>🟥</td><td>Meet Your Maker</td><td>As Sweet Maker, draw +9 ATK from your Magic</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Blogger_of_the_Year.jpg' width='32'></td><td>🟥</td><td>Blogger of the Year</td><td>Play 10 games as Natsumi (Sweet Blogger)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Shop__Til_You_Drop.jpg' width='32'></td><td>🟥</td><td>Shop 'Til You Drop</td><td>As Sweet Blogger, spend a total of 500 stars acquiring sweets.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Signal_Boosting.jpg' width='32'></td><td>🟥</td><td>Signal Boosting</td><td>As Sweet Blogger, signal boost 3 friends in a single turn.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Getting_Festive.jpg' width='32'></td><td>🟥</td><td>Getting Festive</td><td>Play 10 games as Mio (Festive)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/And_That_s_Terrible.jpg' width='32'></td><td>🟥</td><td>And That's Terrible</td><td>As Mio (Festive), generate a total of 40 Mio's Christmas Cakes.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Had_My_Cake_And_Ate_It_Too.jpg' width='32'></td><td>🟥</td><td>Had My Cake And Ate It Too</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Slumber_Party_of_Darkness.jpg' width='32'></td><td>🟥</td><td>Slumber Party of Darkness</td><td>Play 10 games as Krilalaris (Pajamas).</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Tossing_and_Turning.jpg' width='32'></td><td>🟥</td><td>Tossing and Turning</td><td>Just ten more minutes...</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Lion_Sleeps_Tonight.jpg' width='32'></td><td>🟥</td><td>The Lion Sleeps Tonight</td><td>Taken to sleep by the fell beast...</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Exemplary_Behavior.jpg' width='32'></td><td>🟥</td><td>Exemplary Behavior</td><td>Play 10 games as Mimyuu (Jailbird)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Catch_Me_if_You_Can.jpg' width='32'></td><td>🟥</td><td>Catch Me if You Can</td><td>This sprint even left Mimyuu herself exhausted...</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/In_Plain_Sight.jpg' width='32'></td><td>🟥</td><td>In Plain Sight</td><td>As Mimyuu (Jailbird), arrive home after executing a flawless escape plan.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Great_Escape.jpg' width='32'></td><td>🟥</td><td>The Great Escape</td><td>Complete your harrowing trial.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Mother_Superior.jpg' width='32'></td><td>🟥</td><td>Mother Superior</td><td>Play 10 games as Mother Poppo</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Mum_s_the_Word.jpg' width='32'></td><td>🟥</td><td>Mum's the Word</td><td>As Mother Poppo, use your power to gain an unusual amount of stars.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Earthbound.jpg' width='32'></td><td>🟥</td><td>Earthbound</td><td>As Mother Poppo, get exhausted while travelling.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Beholden_to_Darkness.jpg' width='32'></td><td>🟥</td><td>Beholden to Darkness</td><td>Play 10 games as Dark Lulu</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Resisting_the_Call.jpg' width='32'></td><td>🟥</td><td>Resisting the Call</td><td>As Dark Lulu, go on to win a match after resisting your compulsions many times.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Lizard_of_Misfortune.jpg' width='32'></td><td>🟥</td><td>Lizard of Misfortune</td><td>As Dark Lulu, witness all the consequences of your ill fortune.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Wandering_Heart.jpg' width='32'></td><td>🟥</td><td>Wandering Heart</td><td>Play 10 games as Hyper Ellie</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Endless_Punishment.jpg' width='32'></td><td>🟥</td><td>Endless Punishment</td><td>As Hyper Ellie, defeat the same Mio 3 times in a single game</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Miracle_is_Unbreakable.jpg' width='32'></td><td>🟥</td><td>The Miracle is Unbreakable</td><td>Survive 3 battles without being damaged under the duration of a single Ellie’s Hyper Miracle</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Zero_to_Hero.jpg' width='32'></td><td>🟥</td><td>Zero to Hero</td><td>Play 10 games as Kai (Hero)</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/The_Boy_and_the_Hero.jpg' width='32'></td><td>🟥</td><td>The Boy and the Hero</td><td>As Kai, win a game in cooperation with the other Kai</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Second_Wind.jpg' width='32'></td><td>🟥</td><td>Second Wind</td><td>As Kai (Hero), defeat your opponent before succumbing to your imminent fall</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Underdoggy.jpg' width='32'></td><td>🟥</td><td>Underdoggy</td><td>Win a Contest of Cuteness at a significant disadvantage.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Lost__Found_and_Lost_Again.jpg' width='32'></td><td>🟥</td><td>Lost, Found and Lost Again</td><td>Perform a controlled warp using Warp Control, only to get lost again.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/My_Strongest_Warrior.jpg' width='32'></td><td>🟥</td><td>My Strongest Warrior</td><td>Have your summon from My Wild Friends gain a substantial amount of stars.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Revolutionary.jpg' width='32'></td><td>🟥</td><td>Revolutionary</td><td>Go on a revolutionary rampage under the flag of Rebellion.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Delayed_Deploy.jpg' width='32'></td><td>🟥</td><td>Delayed Deploy</td><td>Gain an appropriate amount of stats in one game from Nanako's Bit.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Bank_of_Poppo_Always_Wins.jpg' width='32'></td><td>🟥</td><td>Bank of Poppo Always Wins</td><td>Invest into Bank of Poppo only to lose it all.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Jolly_Good_Fellow.jpg' width='32'></td><td>🟥</td><td>A Jolly Good Fellow</td><td>Play 10 games as Bourbon</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Free_Sky.jpg' width='32'></td><td>🟥</td><td>A Free Sky</td><td>Secure a win against the Guild.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/In_a_Spot_of_Trouble_.jpg' width='32'></td><td>🟥</td><td>In a Spot of Trouble?</td><td>As Bourbon, turn a battle at a critical moment.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Old_Guard.jpg' width='32'></td><td>🟥</td><td>Old Guard</td><td>Play 10 games as Grain</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Worst_Job_Ever_Done.jpg' width='32'></td><td>🟥</td><td>Worst Job Ever Done</td><td>As Grain, completely botch a full volley.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/No_Complaints_Whatsoever.jpg' width='32'></td><td>🟥</td><td>No Complaints Whatsoever</td><td>As Grain, defeat all opponents with a single volley.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Poyo_Poyo.jpg' width='32'></td><td>🟥</td><td>Poyo Poyo</td><td>Play 10 games as Poyo</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/New_School__New_Friends.jpg' width='32'></td><td>🟥</td><td>New School, New Friends</td><td>As Poyo, throw an after-school party.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Instinct_of_a_Beast.jpg' width='32'></td><td>🟥</td><td>Instinct of a Beast</td><td>As Poyo, survive an impossible attack.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Chuu_Chuu.jpg' width='32'></td><td>🟥</td><td>Chuu Chuu</td><td>Play 10 games as Chuu</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_New_Me.jpg' width='32'></td><td>🟥</td><td>A New Me</td><td>As Chuu, win a game with 0 Wins.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Getting_a_Little_Into_It.jpg' width='32'></td><td>🟥</td><td>Getting a Little Into It</td><td>As Chuu, gain at least 5 Wins from 1 battle.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Good_Cheer.jpg' width='32'></td><td>🟥</td><td>Good Cheer</td><td>Play 10 games as Haruka</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Party_People.jpg' width='32'></td><td>🟥</td><td>Party People</td><td>As Haruka, hype up other players 9 times in a single game.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Sign__Please_.jpg' width='32'></td><td>🟥</td><td>Sign, Please!</td><td>As Haruka, realize your biggest dream.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/An_Ordinary_Genius.jpg' width='32'></td><td>🟥</td><td>An Ordinary Genius</td><td>Play 10 games as Kanata</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Unmatched_Intellect.jpg' width='32'></td><td>🟥</td><td>Unmatched Intellect</td><td>As Kanata, win the mind games 3 times in a single match.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/No_Match_for_RNG.jpg' width='32'></td><td>🟥</td><td>No Match for RNG</td><td>As Kanata, throw a battle due to unusually bad luck.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Extracurricular_Activity.jpg' width='32'></td><td>🟥</td><td>Extracurricular Activity</td><td>Collect all cards in the Extracurricular Pack.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Burst_Fire.jpg' width='32'></td><td>🟥</td><td>Burst Fire</td><td>Fire off the cards back to back.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/A_Dish_to_Die_for.jpg' width='32'></td><td>🟥</td><td>A Dish to Die for</td><td>Have a very special meal.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/We_Do_a_Little_Thieving.jpg' width='32'></td><td>🟥</td><td>We Do a Little Thieving</td><td>Steal an extra precious thing using Mousse.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Comeback_Story.jpg' width='32'></td><td>🟥</td><td>Comeback Story</td><td>Got a little fired up, I guess?</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Not_Only_Fluffy.jpg' width='32'></td><td>🟥</td><td>Not Only Fluffy</td><td>Deal 10 extra fluffy damage in one match.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Angry_Tick.jpg' width='32'></td><td>🟥</td><td>Angry Tick</td><td>Take them all down!</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Vanguard_of_the_Burning_Sands.jpg' width='32'></td><td>🟥</td><td>Vanguard of the Burning Sands</td><td>Reach level 10 as Vanguard.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Triple_Trouble.jpg' width='32'></td><td>🟥</td><td>Triple Trouble</td><td>Defeat Troublemakers.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/And_Make_It_Double.jpg' width='32'></td><td>🟥</td><td>And Make It Double</td><td>Defeat Troublemakers on Hyper difficulty.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Path_of_Most_Resistance.jpg' width='32'></td><td>🟥</td><td>Path of Most Resistance</td><td>Defeat Troublemakers on Hyper Difficulty after bosses have been revived at least 3 times in total.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Miss_Mascot.jpg' width='32'></td><td>🟥</td><td>Miss Mascot</td><td>Play 10 games as Popomi</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Popo_Hands.jpg' width='32'></td><td>🟥</td><td>Popo Hands</td><td>As Popomi, win a game without rolling a 0 once.</td>
+<tr><td><img src='./generated/SteamMD/achievements/282800/Beating_the_Odds.jpg' width='32'></td><td>🟥</td><td>Beating the Odds</td><td></td>
+
+</table>
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/282800/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/6.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/7.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/8.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/9.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/10.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/11.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/12.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/13.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/14.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/282800/15.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+
+</details>
+
+---
+
+<a id="26-beamngdrive-"></a>
+### 26. BeamNG.drive 🪟
 <img src="./generated/SteamMD/covers/284160_header.jpg" alt="BeamNG.drive" width="400px">
 
 - **Playtime:** 14 hours
-- **Price:** Rp 206 999
-- **Price/hour:** 14785.64 € / h
+- **Price:** $24.99
+- **Price/hour:** 1.78 € / h
 - **Creator:** [BeamNG](https://store.steampowered.com/search/?developer=BeamNG)
 - **Developer:** BeamNG
 - **Publisher:** BeamNG
@@ -1970,7 +2401,7 @@ Subnautica is an underwater adventure game set on an alien ocean planet. A massi
 <details>
 <summary>Detailed description</summary>
 
-BeamNG.<i>drive</i> is an incredibly realistic driving game with near-limitless possibilities. Our soft-body physics engine simulates every component of a vehicle in real time, resulting in true-to-life behavior. With years of meticulous design, intensive research and experience, the simulation authentically recreates the excitement of real world driving. <br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/284160/c9313c2d6dc1655a1068d8e36440dc34_avif" /></span><h2 class="bb_tag" >Why is BeamNG.<i>drive</i> the game for you?</h2><br><strong>Soft-body physics: </strong>The BeamNG physics engine is at the core of the most detailed and authentic vehicle simulation you've ever seen in a game. Crashes feel visceral, as the game uses an incredibly accurate damage model. <br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/e32b86262102fcbb1b903f9036351865.poster.avif?t=1760983471" width=620 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/e32b86262102fcbb1b903f9036351865.webm?t=1760983471" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/e32b86262102fcbb1b903f9036351865.mp4?t=1760983471" type="video/mp4"></video></span><br><br><strong>Vehicles: </strong>BeamNG.<i>drive</i> offers dozens of refined, totally customizable vehicles for you to experiment with. Whether it's a compact car or massive truck, you can tweak away at all the moving parts to create just about any driving experience you want. Wheels, suspension, engines, and more; everything is under your control.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/db79fff99fdea1988c2c6cb8575faa9c.poster.avif?t=1760983471" width=620 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/db79fff99fdea1988c2c6cb8575faa9c.webm?t=1760983471" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/db79fff99fdea1988c2c6cb8575faa9c.mp4?t=1760983471" type="video/mp4"></video></span><br><br><strong>Environments:</strong> There's plenty to discover as you drive. Featuring 12 sprawling, beautiful open-world environments, the terrain feels as vast and diverse as the gameplay options. Test out your new setup through tropical jungle passages, barren deserts, urban boulevards, fast highways, and much more.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/c584a245cc140a5bb49740f14030fdc2.poster.avif?t=1760983471" width=620 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/c584a245cc140a5bb49740f14030fdc2.webm?t=1760983471" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/c584a245cc140a5bb49740f14030fdc2.mp4?t=1760983471" type="video/mp4"></video></span><h2 class="bb_tag" >More features</h2><br><strong>Game Modes:</strong> This goes far deeper than your standard driving simulator. The range of gameplay options are exceptional, whether that's taking on a simple delivery mission or creating an entire map to test out new car builds.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/284160/7471bc03f454f096e792d388c9175e40_avif" /></span><br><br><ul class="bb_ul"><li><strong>Free Roam: </strong>Don't want to feel limited? Take any vehicle to your destination of choice and start exploring. Experimentation is also key in this game mode, as objects and environmental conditions can be manipulated. Try revving up wind speeds for a challenge, or altering gravity! <br></li><li><strong>Scenarios: </strong> BeamNG.<i>drive</i> offers loads of scenarios for every type of driving enthusiast out there. You can complete a truck delivery request as fast and efficiently as possible, or outrun police cruisers in a hot pursuit. No matter the situation, the realistic physics engine will engage and immerse you in the experience.  <br></li><li><strong>Time Trials: </strong>Choose a vehicle, environment, and route and put yourself to the test! Refine your skills and compete against yourself while improving your best time. </li></ul><br><strong>Modding and Community Content:</strong> We're proud of our vibrant community of enthusiasts that spark great conversation, while also creating interesting vehicle builds, terrains, and scenarios for others to enjoy. The modding capabilities in BeamNG.<i>drive</i> are vast, allowing you to customize and fine-tune just about anything. With our out-of-the-box World Editor everyone can put a twist on their in-game experience.<br><br><strong>Automation:</strong> We've partnered with Automation - the car company tycoon game - to allow players to export their creations into BeamNG.<i>drive</i>. If you own Automation, it's a fairly simple process: design your custom car and engine, tailor everything to your specifications, choose the &quot;export&quot; option, start up BeamNG.<i>drive</i>, and you'll be able to find your latest creation in the vehicle list! <br><br><strong>Freedom:</strong> What sets BeamNG.<i>drive</i> apart from other automotive games is player freedom. It’s about doing nearly anything you can think of with a car or truck and seeing it play out in the most realistic way possible. With our soft-body physics engine and modding capabilities, you can come up with any scenario imaginable. It's not just about the vehicles, it's about taking advantage of the expansive and customizable open world to create the driving experience you envision. Combining industry-leading physics, endless customization, and tight-knit community means that BeamNG.<i>drive</i> is the most comprehensive and flat-out fun vehicle simulator you will ever play.
+BeamNG.<i>drive</i> is an incredibly realistic driving game with near-limitless possibilities. Our soft-body physics engine simulates every component of a vehicle in real time, resulting in true-to-life behavior. With years of meticulous design, intensive research and experience, the simulation authentically recreates the excitement of real world driving. <br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/284160/c9313c2d6dc1655a1068d8e36440dc34_avif" /></span><h2 class="bb_tag" >Why is BeamNG.<i>drive</i> the game for you?</h2><br><strong>Soft-body physics: </strong>The BeamNG physics engine is at the core of the most detailed and authentic vehicle simulation you've ever seen in a game. Crashes feel visceral, as the game uses an incredibly accurate damage model. <br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/e32b86262102fcbb1b903f9036351865.poster.avif?t=1765821591" width=620 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/e32b86262102fcbb1b903f9036351865.webm?t=1765821591" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/e32b86262102fcbb1b903f9036351865.mp4?t=1765821591" type="video/mp4"></video></span><br><br><strong>Vehicles: </strong>BeamNG.<i>drive</i> offers dozens of refined, totally customizable vehicles for you to experiment with. Whether it's a compact car or massive truck, you can tweak away at all the moving parts to create just about any driving experience you want. Wheels, suspension, engines, and more; everything is under your control.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/db79fff99fdea1988c2c6cb8575faa9c.poster.avif?t=1765821591" width=620 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/db79fff99fdea1988c2c6cb8575faa9c.webm?t=1765821591" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/db79fff99fdea1988c2c6cb8575faa9c.mp4?t=1765821591" type="video/mp4"></video></span><br><br><strong>Environments:</strong> There's plenty to discover as you drive. Featuring 12 sprawling, beautiful open-world environments, the terrain feels as vast and diverse as the gameplay options. Test out your new setup through tropical jungle passages, barren deserts, urban boulevards, fast highways, and much more.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/c584a245cc140a5bb49740f14030fdc2.poster.avif?t=1765821591" width=620 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/c584a245cc140a5bb49740f14030fdc2.webm?t=1765821591" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/extras/c584a245cc140a5bb49740f14030fdc2.mp4?t=1765821591" type="video/mp4"></video></span><h2 class="bb_tag" >More features</h2><br><strong>Game Modes:</strong> This goes far deeper than your standard driving simulator. The range of gameplay options are exceptional, whether that's taking on a simple delivery mission or creating an entire map to test out new car builds.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/284160/7471bc03f454f096e792d388c9175e40_avif" /></span><br><br><ul class="bb_ul"><li><strong>Free Roam: </strong>Don't want to feel limited? Take any vehicle to your destination of choice and start exploring. Experimentation is also key in this game mode, as objects and environmental conditions can be manipulated. Try revving up wind speeds for a challenge, or altering gravity! <br></li><li><strong>Scenarios: </strong> BeamNG.<i>drive</i> offers loads of scenarios for every type of driving enthusiast out there. You can complete a truck delivery request as fast and efficiently as possible, or outrun police cruisers in a hot pursuit. No matter the situation, the realistic physics engine will engage and immerse you in the experience.  <br></li><li><strong>Time Trials: </strong>Choose a vehicle, environment, and route and put yourself to the test! Refine your skills and compete against yourself while improving your best time. </li></ul><br><strong>Modding and Community Content:</strong> We're proud of our vibrant community of enthusiasts that spark great conversation, while also creating interesting vehicle builds, terrains, and scenarios for others to enjoy. The modding capabilities in BeamNG.<i>drive</i> are vast, allowing you to customize and fine-tune just about anything. With our out-of-the-box World Editor everyone can put a twist on their in-game experience.<br><br><strong>Automation:</strong> We've partnered with Automation - the car company tycoon game - to allow players to export their creations into BeamNG.<i>drive</i>. If you own Automation, it's a fairly simple process: design your custom car and engine, tailor everything to your specifications, choose the &quot;export&quot; option, start up BeamNG.<i>drive</i>, and you'll be able to find your latest creation in the vehicle list! <br><br><strong>Freedom:</strong> What sets BeamNG.<i>drive</i> apart from other automotive games is player freedom. It’s about doing nearly anything you can think of with a car or truck and seeing it play out in the most realistic way possible. With our soft-body physics engine and modding capabilities, you can come up with any scenario imaginable. It's not just about the vehicles, it's about taking advantage of the expansive and customizable open world to create the driving experience you envision. Combining industry-leading physics, endless customization, and tight-knit community means that BeamNG.<i>drive</i> is the most comprehensive and flat-out fun vehicle simulator you will ever play.
 
 </details>
 
@@ -2010,13 +2441,13 @@ BeamNG.<i>drive</i> is an incredibly realistic driving game with near-limitless 
 
 ---
 
-<a id="26-dont-starve-together-"></a>
-### 26. Don't Starve Together 🪟 🍏 🐧
+<a id="27-dont-starve-together-"></a>
+### 27. Don't Starve Together 🪟 🍏 🐧
 <img src="./generated/SteamMD/covers/322330_header.jpg" alt="Don't Starve Together" width="400px">
 
 - **Playtime:** 5 hours
-- **Price:** A$ 21.50
-- **Price/hour:** 4.30 € / h
+- **Price:** $14.99
+- **Price/hour:** 3.00 € / h
 - **Creator:** [Klei Entertainment](https://store.steampowered.com/search/?developer=Klei+Entertainment)
 - **Developer:** Klei Entertainment
 - **Publisher:** Klei Entertainment
@@ -2028,7 +2459,7 @@ BeamNG.<i>drive</i> is an incredibly realistic driving game with near-limitless 
 <details>
 <summary>Detailed description</summary>
 
-<h1>Explore Together</h1><p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/c7484221486075c97425349eb6c8411f.poster.avif?t=1761581051" width=780 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/c7484221486075c97425349eb6c8411f.webm?t=1761581051" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/c7484221486075c97425349eb6c8411f.mp4?t=1761581051" type="video/mp4"></video></span>Discover and explore a massive procedurally generated and biome-rich world with countless resources and threats. Whether you stick to the surface world, go spelunking in the caves, dive deeper into the Ancient Archive, or set sail for the Lunar islands, it will be a long time before you run out of things to do.</p></p><br><h1>Fight Together</h1><p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/f1a74d7a3196bb0f801eff47851a4e16.poster.avif?t=1761581051" width=780 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/f1a74d7a3196bb0f801eff47851a4e16.webm?t=1761581051" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/f1a74d7a3196bb0f801eff47851a4e16.mp4?t=1761581051" type="video/mp4"></video></span>Seasonal bosses, wandering menaces, lurking shadow creatures, and plenty of flora and fauna ready to turn you into a spooky ghost.</p></p><br><h1>Farm Together</h1><p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/e79a10ee78770f20959589563d2ddab5.poster.avif?t=1761581051" width=780 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/e79a10ee78770f20959589563d2ddab5.webm?t=1761581051" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/e79a10ee78770f20959589563d2ddab5.mp4?t=1761581051" type="video/mp4"></video></span>Plow fields and sow seeds to grow the farm of your dreams. Tend to your crops to help your fellow survivors stay fed and ready for the challenges to come.</p></p><br><h1>Build Together</h1><p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/877d5491c4aee659c3c31333605bd08f.poster.avif?t=1761581051" width=780 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/877d5491c4aee659c3c31333605bd08f.webm?t=1761581051" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/877d5491c4aee659c3c31333605bd08f.mp4?t=1761581051" type="video/mp4"></video></span>Protect yourself, your friends, and everything you have managed to gather, because you can be sure, somebody or something is going to want it back.</p></p><br><h1>About the Game</h1><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/8b72c5a6d9726b8e128b9ec21049f576.poster.avif?t=1761581051" width=780 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/8b72c5a6d9726b8e128b9ec21049f576.webm?t=1761581051" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/8b72c5a6d9726b8e128b9ec21049f576.mp4?t=1761581051" type="video/mp4"></video></span>Fight, Farm, Build and Explore Together in the standalone multiplayer expansion to the uncompromising wilderness survival game, Don't Starve.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Enter a strange and unexplored world full of odd creatures, hidden dangers, and ancient secrets. Gather resources to craft items and build structures that match your survival style. Play your way as you unravel the mysteries of &quot;The Constant&quot;.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Cooperate with your friends in a private game, or find new friends online. Work with other players to survive the harsh environment, or strike out on your own.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Do whatever it takes, but most importantly, Don't Starve.</p>
+<h1>Explore Together</h1><p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/c7484221486075c97425349eb6c8411f.poster.avif?t=1766081346" width=780 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/c7484221486075c97425349eb6c8411f.webm?t=1766081346" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/c7484221486075c97425349eb6c8411f.mp4?t=1766081346" type="video/mp4"></video></span>Discover and explore a massive procedurally generated and biome-rich world with countless resources and threats. Whether you stick to the surface world, go spelunking in the caves, dive deeper into the Ancient Archive, or set sail for the Lunar islands, it will be a long time before you run out of things to do.</p></p><br><h1>Fight Together</h1><p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/f1a74d7a3196bb0f801eff47851a4e16.poster.avif?t=1766081346" width=780 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/f1a74d7a3196bb0f801eff47851a4e16.webm?t=1766081346" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/f1a74d7a3196bb0f801eff47851a4e16.mp4?t=1766081346" type="video/mp4"></video></span>Seasonal bosses, wandering menaces, lurking shadow creatures, and plenty of flora and fauna ready to turn you into a spooky ghost.</p></p><br><h1>Farm Together</h1><p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/e79a10ee78770f20959589563d2ddab5.poster.avif?t=1766081346" width=780 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/e79a10ee78770f20959589563d2ddab5.webm?t=1766081346" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/e79a10ee78770f20959589563d2ddab5.mp4?t=1766081346" type="video/mp4"></video></span>Plow fields and sow seeds to grow the farm of your dreams. Tend to your crops to help your fellow survivors stay fed and ready for the challenges to come.</p></p><br><h1>Build Together</h1><p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/877d5491c4aee659c3c31333605bd08f.poster.avif?t=1766081346" width=780 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/877d5491c4aee659c3c31333605bd08f.webm?t=1766081346" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/877d5491c4aee659c3c31333605bd08f.mp4?t=1766081346" type="video/mp4"></video></span>Protect yourself, your friends, and everything you have managed to gather, because you can be sure, somebody or something is going to want it back.</p></p><br><h1>About the Game</h1><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/8b72c5a6d9726b8e128b9ec21049f576.poster.avif?t=1766081346" width=780 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/8b72c5a6d9726b8e128b9ec21049f576.webm?t=1766081346" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/extras/8b72c5a6d9726b8e128b9ec21049f576.mp4?t=1766081346" type="video/mp4"></video></span>Fight, Farm, Build and Explore Together in the standalone multiplayer expansion to the uncompromising wilderness survival game, Don't Starve.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Enter a strange and unexplored world full of odd creatures, hidden dangers, and ancient secrets. Gather resources to craft items and build structures that match your survival style. Play your way as you unravel the mysteries of &quot;The Constant&quot;.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Cooperate with your friends in a private game, or find new friends online. Work with other players to survive the harsh environment, or strike out on your own.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Do whatever it takes, but most importantly, Don't Starve.</p>
 
 </details>
 
@@ -2054,12 +2485,12 @@ BeamNG.<i>drive</i> is an incredibly realistic driving game with near-limitless 
 
 ---
 
-<a id="27-keep-talking-and-nobody-explodes-"></a>
-### 27. Keep Talking and Nobody Explodes 🪟 🍏 🐧
+<a id="28-keep-talking-and-nobody-explodes-"></a>
+### 28. Keep Talking and Nobody Explodes 🪟 🍏 🐧
 <img src="./generated/SteamMD/covers/341800_header.jpg" alt="Keep Talking and Nobody Explodes" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** $14.99
+- **Price:** 4,43€
 - **Price/hour:** -
 - **Creator:** [Steel Crate Games](https://store.steampowered.com/search/?developer=Steel+Crate+Games)
 - **Developer:** Steel Crate Games
@@ -2115,11 +2546,115 @@ BeamNG.<i>drive</i> is an incredibly realistic driving game with near-limitless 
 
 ---
 
-<a id="28-scrap-mechanic-"></a>
-### 28. Scrap Mechanic 🪟
+<a id="29-astroneer-"></a>
+### 29. ASTRONEER 🪟
+<img src="./generated/SteamMD/covers/361420_header.jpg" alt="ASTRONEER" width="400px">
+
+- **Playtime:** 0 hours
+- **Price:** $8.99
+- **Price/hour:** -
+- **Creator:** [System Era Softworks](https://store.steampowered.com/search/?developer=System+Era+Softworks)
+- **Developer:** System Era Softworks
+- **Publisher:** System Era Softworks
+- **Genres:** Adventure, Indie
+- **Achievements:** 0/56
+
+**Short description:** Interact with strange new worlds in a unique and tactile way, molding the environment itself as if it were clay in your hands. Build your base, master resource management, automate your production lines, and more as you unravel the mysteries of the universe, alone or with friends.
+
+<details>
+<summary>Detailed description</summary>
+
+<p class="bb_paragraph" >Astroneers undergo rigorous training to explore the frontiers of outer space for the good of all humankind. Creativity and ingenuity are key to their survival!</p><p class="bb_paragraph" ></p><h2 class="bb_tag" ><strong>RESHAPE THE ENVIRONMENT</strong></h2><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/f0f448a0a098b518d5e33bb44880fc83.poster.avif?t=1763660960" width=480 height=108 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/f0f448a0a098b518d5e33bb44880fc83.webm?t=1763660960" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/f0f448a0a098b518d5e33bb44880fc83.mp4?t=1763660960" type="video/mp4"></video></span></p><p class="bb_paragraph" >Astroneers are trained to use the Terrain Tool, a powerful instrument which can dig, collect, shape, build, and color terrain in any way they wish.</p><p class="bb_paragraph" ></p><h2 class="bb_tag" ><strong>GO HANDS-ON WITH BASEBUILDING</strong></h2><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/dfc571c67c5617d222ec59e6249fbbfa.poster.avif?t=1763660960" width=480 height=108 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/dfc571c67c5617d222ec59e6249fbbfa.webm?t=1763660960" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/dfc571c67c5617d222ec59e6249fbbfa.mp4?t=1763660960" type="video/mp4"></video></span></p><p class="bb_paragraph" >Build custom bases throughout the solar system to survive and thrive anywhere! Objects are snapped into place in a modular system that allows Astroneers to create unique builds. Automation systems, crafting stations, power plants, resource harvesters, and railway facilities are built from the ground up and can be customized to suit any situation.</p><h2 class="bb_tag" ><strong>LEARN TO SURVIVE A STRANGE SOLAR SYSTEM</strong></h2><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/a4911f0ef51be565b66f91d4bcab7a2b.poster.avif?t=1763660960" width=480 height=108 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/a4911f0ef51be565b66f91d4bcab7a2b.webm?t=1763660960" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/a4911f0ef51be565b66f91d4bcab7a2b.mp4?t=1763660960" type="video/mp4"></video></span></p><p class="bb_paragraph" >This unrecognized system consists of seven celestial bodies. Each of them can be explored entirely, from the rounded surface all the way down into the core. Astroneers will have to grapple with their unique geography and challenging biomes if they seek to understand them.</p><p class="bb_paragraph" ></p><h2 class="bb_tag" ><strong>UNCOVER THE MYSTERIES OF THE UNIVERSE</strong></h2><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/1e11ae8b825cc661c9c3c0538a3f2b25.poster.avif?t=1763660960" width=480 height=108 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/1e11ae8b825cc661c9c3c0538a3f2b25.webm?t=1763660960" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/1e11ae8b825cc661c9c3c0538a3f2b25.mp4?t=1763660960" type="video/mp4"></video></span></p><p class="bb_paragraph" >These strange worlds are dotted with mysterious structures and artifacts, while Astroneers themselves receive confusing comms from unknown sources. Curious Astroneers may seek to understand these anomalies, and with them, the secrets of the solar system.</p><p class="bb_paragraph" ></p><h2 class="bb_tag" ><strong>ALONE OR TOGETHER</strong></h2><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/0a983f971952dcccc7b10638d71173fc.poster.avif?t=1763660960" width=480 height=108 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/0a983f971952dcccc7b10638d71173fc.webm?t=1763660960" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/extras/0a983f971952dcccc7b10638d71173fc.mp4?t=1763660960" type="video/mp4"></video></span></p><p class="bb_paragraph" >While they're perfectly capable on their own, Astroneers are team players who are always happy to offer a helping hand! Group up with other Astroneers and work together in 2-4 player online co-op. Playing solo online allows fellow Astroneers to drop in and out of your world at their leisure.</p><h2 class="bb_tag" ><strong>WHERE WE ARE</strong></h2><p class="bb_paragraph" >Astroneer began as an Early Access title on Steam in 2016, and reached 1.0 in 2019. We wouldn't be here today if not for our community's support, feedback, and ideation. As we continue on our journey, we want to reiterate our pledge to continue building on the foundation that is Astroneer with free, ongoing content updates.</p>
+
+</details>
+
+<details>
+<summary>Achievements Details</summary>
+
+<table>
+<tr><td><img src='./generated/SteamMD/achievements/361420/EXO_Dynamics_Training_Seal_of_Approval.jpg' width='32'></td><td>🟥</td><td>EXO Dynamics Training Seal of Approval</td><td>Complete the training missions.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Up_By_the_Roots.jpg' width='32'></td><td>🟥</td><td>Up By the Roots</td><td>Dig up a hazard.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Pursuit_of_Knowledge.jpg' width='32'></td><td>🟥</td><td>Pursuit of Knowledge</td><td>Research an item in the Research Chamber.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/A_Little_Byte_Goes_a_Long_Way.jpg' width='32'></td><td>🟥</td><td>A Little Byte Goes a Long Way</td><td>Scan a Research Sample of any type.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Dirt_Don_t_Hurt.jpg' width='32'></td><td>🟥</td><td>Dirt Don't Hurt</td><td>Extract a resource using the Soil Centrifuge.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Do_Science_To_It.jpg' width='32'></td><td>🟥</td><td>Do Science To It</td><td>Synthesize a composite material with the Chemistry Lab.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/A_Little_Gassy.jpg' width='32'></td><td>🟥</td><td>A Little Gassy</td><td>Collect a gas with the Atmospheric Condenser.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Sweet_New_Ride.jpg' width='32'></td><td>🟥</td><td>Sweet New Ride</td><td>Build a rover of any type.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Scrap_for_the_Scrapper.jpg' width='32'></td><td>🟥</td><td>Scrap for the Scrapper</td><td>Scrap an object in a Shredder.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Junk_Trader.jpg' width='32'></td><td>🟥</td><td>Junk Trader</td><td>Use the Trade Platform to exchange Scrap for another resource.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Barrier_Buster.jpg' width='32'></td><td>🟥</td><td>Barrier Buster</td><td>Use a drill to deform a harder type of terrain.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Delve_Greedily_and_Deep.jpg' width='32'></td><td>🟥</td><td>Delve Greedily and Deep</td><td>Travel to the Mantle depth of any planet.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Making_a_New_Friend.jpg' width='32'></td><td>🟥</td><td>Making a New Friend</td><td>Plant a seed.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Well_Hello_There__Fancypants.jpg' width='32'></td><td>🟥</td><td>Well Hello There, Fancypants</td><td>Change into a different suit.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Thank_You_For_Your_Continued_Assistance.jpg' width='32'></td><td>🟥</td><td>Thank You For Your Continued Assistance</td><td>Solve an EXO Dynamics Research Aid.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Lab_Rat.jpg' width='32'></td><td>🟥</td><td>Lab Rat</td><td>Use the Chemistry Lab to synthesize each composite material.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Gas_Giant.jpg' width='32'></td><td>🟥</td><td>Gas Giant</td><td>Use the Atmospheric Condenser to collect every type of gas.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Chop_Shop.jpg' width='32'></td><td>🟥</td><td>Chop Shop</td><td>Scrap 50 objects in a Shredder.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/In_An_Astroneer_s_Garden.jpg' width='32'></td><td>🟥</td><td>In An Astroneer's Garden</td><td>Plant a Spinelily, Lashleaf, Bouncevine, Wheezeweed, Thistlewhip, Popcoral and Daggeroot seed.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Resources_in_the_Rough.jpg' width='32'></td><td>🟥</td><td>Resources in the Rough</td><td>Use the Terrain Tool to harvest every type of raw material.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/They_Who_Smelt_It.jpg' width='32'></td><td>🟥</td><td>They Who Smelt It</td><td>Use the Smelter to craft every type of refined resource.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Research_Scientist.jpg' width='32'></td><td>🟥</td><td>Research Scientist</td><td>Gain 100,000 Bytes across all games.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Information_Dump.jpg' width='32'></td><td>🟥</td><td>Information Dump</td><td>Reach more than 150 Bytes-Per-Minute of concurrent research.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Secrets_of_the_Universe.jpg' width='32'></td><td>🟥</td><td>Secrets of the Universe</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Shapes_and_Other_Shapes.jpg' width='32'></td><td>🟥</td><td>Shapes and Other Shapes</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/First_Step_Into_a_Larger_World.jpg' width='32'></td><td>🟥</td><td>First Step Into a Larger World</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Encounter_With_the_Infinite.jpg' width='32'></td><td>🟥</td><td>Encounter With the Infinite</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Sylva_Awakened.jpg' width='32'></td><td>🟥</td><td>Sylva Awakened</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Desolo_Awakened.jpg' width='32'></td><td>🟥</td><td>Desolo Awakened</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Calidor_Awakened.jpg' width='32'></td><td>🟥</td><td>Calidor Awakened</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Vesania_Awakened.jpg' width='32'></td><td>🟥</td><td>Vesania Awakened</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Novus_Awakened.jpg' width='32'></td><td>🟥</td><td>Novus Awakened</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Glacio_Awakened.jpg' width='32'></td><td>🟥</td><td>Glacio Awakened</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Atrox_Awakened.jpg' width='32'></td><td>🟥</td><td>Atrox Awakened</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/To_Infinity___.jpg' width='32'></td><td>🟥</td><td>To Infinity...</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Blast_Off.jpg' width='32'></td><td>🟥</td><td>Blast Off</td><td>Use a shuttle to leave Sylva.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/One_Small_Step.jpg' width='32'></td><td>🟥</td><td>One Small Step</td><td>Visit Desolo.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/It_s_a_Dry_Heat.jpg' width='32'></td><td>🟥</td><td>It's a Dry Heat</td><td>Visit Calidor.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Into_the_Woods.jpg' width='32'></td><td>🟥</td><td>Into the Woods</td><td>Visit Vesania.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/To_the_Forest_Moon.jpg' width='32'></td><td>🟥</td><td>To the Forest Moon</td><td>Visit Novus.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/I_Feel_Sick.jpg' width='32'></td><td>🟥</td><td>I Feel Sick</td><td>Visit Atrox.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Cool_As_Ice.jpg' width='32'></td><td>🟥</td><td>Cool As Ice</td><td>Visit Glacio.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Now_You_See_Me___.jpg' width='32'></td><td>🟥</td><td>Now You See Me...</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/___And_Beyond.jpg' width='32'></td><td>🟥</td><td>...And Beyond</td><td></td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Hang_10-Squared.jpg' width='32'></td><td>🟥</td><td>Hang 10-Squared</td><td>Slide uninterrupted for at least 10 seconds.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Where_We_re_Going__We_Don_t_Need_Roads.jpg' width='32'></td><td>🟥</td><td>Where We're Going, We Don't Need Roads</td><td>Drive an airborne rover for at least 10 seconds.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Galactic_Boogaloo.jpg' width='32'></td><td>🟥</td><td>Galactic Boogaloo</td><td>Dance on every planet.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Baby_You_re_a_Firework.jpg' width='32'></td><td>🟥</td><td>Baby You're a Firework</td><td>Launch 10 fireworks in 10 seconds.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/EXO_Dynamics_Outreach_Participant.jpg' width='32'></td><td>🟥</td><td>EXO Dynamics Outreach Participant</td><td>Join or host a multiplayer game session.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Let_Me_Borrow_This_Just_A_Second.jpg' width='32'></td><td>🟥</td><td>Let Me Borrow This Just A Second</td><td>Use a Research Chamber to research something in another Astroneer's game.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Journey_to_the_Center_of_the_Thing.jpg' width='32'></td><td>🟥</td><td>Journey to the Center of the Thing</td><td>Travel to the center of any planet in a multiplayer game.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/EXO_Dynamics_Outreach_Advocate.jpg' width='32'></td><td>🟥</td><td>EXO Dynamics Outreach Advocate</td><td>Spend more than 4 total hours in multiplayer sessions.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/Interplanetary_Road_Trip.jpg' width='32'></td><td>🟥</td><td>Interplanetary Road Trip</td><td>Travel to another planet with another player in the same shuttle.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/EXO_Dynamics_Solar_System_Mastery.jpg' width='32'></td><td>🟥</td><td>EXO Dynamics Solar System Mastery</td><td>Obtain every Achievement in Astroneer.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/The_First_Discovery.jpg' width='32'></td><td>🟥</td><td>The First Discovery</td><td>Use the Probe Scanner to find one of the mysterious Vintage Probes.</td>
+<tr><td><img src='./generated/SteamMD/achievements/361420/The_Wanderer_s_Way.jpg' width='32'></td><td>🟥</td><td>The Wanderer's Way</td><td></td>
+
+</table>
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/361420/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/361420/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/361420/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/361420/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/361420/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/361420/6.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/361420/7.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/361420/8.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/361420/9.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/361420/10.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+
+</details>
+
+---
+
+<a id="30-scrap-mechanic-"></a>
+### 30. Scrap Mechanic 🪟
 <img src="./generated/SteamMD/covers/387990_header.jpg" alt="Scrap Mechanic" width="400px">
 
-- **Playtime:** 280 hours
+- **Playtime:** 286 hours
 - **Price:** $19.99
 - **Price/hour:** 0.07 € / h
 - **Creator:** [Axolot Games](https://store.steampowered.com/search/?developer=Axolot+Games)
@@ -2154,13 +2689,13 @@ PLEASE NOTE: We’re still hard at work on Scrap Mechanic! New content is being 
 
 ---
 
-<a id="29-factorio-"></a>
-### 29. Factorio 🪟 🍏 🐧
+<a id="31-factorio-"></a>
+### 31. Factorio 🪟 🍏 🐧
 <img src="./generated/SteamMD/covers/427520_header.jpg" alt="Factorio" width="400px">
 
-- **Playtime:** 74 hours
+- **Playtime:** 84 hours
 - **Price:** $35.00
-- **Price/hour:** 0.47 € / h
+- **Price/hour:** 0.42 € / h
 - **Creator:** [Wube Software LTD.](https://store.steampowered.com/search/?developer=Wube+Software+LTD.)
 - **Developer:** Wube Software LTD.
 - **Publisher:** Wube Software LTD.
@@ -2314,13 +2849,13 @@ PLEASE NOTE: We’re still hard at work on Scrap Mechanic! New content is being 
 
 ---
 
-<a id="30-wallpaper-engine-"></a>
-### 30. Wallpaper Engine 🪟
+<a id="32-wallpaper-engine-"></a>
+### 32. Wallpaper Engine 🪟
 <img src="./generated/SteamMD/covers/431960_header.jpg" alt="Wallpaper Engine" width="400px">
 
-- **Playtime:** 6 hours
+- **Playtime:** 8 hours
 - **Price:** $4.99
-- **Price/hour:** 0.83 € / h
+- **Price/hour:** 0.62 € / h
 - **Creator:** [Wallpaper Engine Team](https://store.steampowered.com/search/?developer=Wallpaper+Engine+Team)
 - **Developer:** Wallpaper Engine Team
 - **Publisher:** Wallpaper Engine Team
@@ -2357,8 +2892,8 @@ Wallpaper Engine enables you to use live wallpapers on your Windows desktop. Var
 
 ---
 
-<a id="31-vrchat-"></a>
-### 31. VRChat 🪟
+<a id="33-vrchat-"></a>
+### 33. VRChat 🪟
 <img src="./generated/SteamMD/covers/438100_header.jpg" alt="VRChat" width="400px">
 
 - **Playtime:** 8 hours
@@ -2395,8 +2930,8 @@ Wallpaper Engine enables you to use live wallpapers on your Windows desktop. Var
 
 ---
 
-<a id="32-bloons-td-battles-"></a>
-### 32. Bloons TD Battles 🪟 🍏
+<a id="34-bloons-td-battles-"></a>
+### 34. Bloons TD Battles 🪟 🍏
 <img src="./generated/SteamMD/covers/444640_header.jpg" alt="Bloons TD Battles" width="400px">
 
 - **Playtime:** 9 hours
@@ -2454,8 +2989,8 @@ Play the top-rated tower defense franchise in this free head-to-head strategy ga
 
 ---
 
-<a id="33-pico-parkclassic-edition-"></a>
-### 33. PICO PARK:Classic Edition 🪟
+<a id="35-pico-parkclassic-edition-"></a>
+### 35. PICO PARK:Classic Edition 🪟
 <img src="./generated/SteamMD/covers/461040_header.jpg" alt="PICO PARK:Classic Edition" width="400px">
 
 - **Playtime:** 0 hours
@@ -2489,8 +3024,8 @@ Play the top-rated tower defense franchise in this free head-to-head strategy ga
 
 ---
 
-<a id="34-rec-room-"></a>
-### 34. Rec Room 🪟
+<a id="36-rec-room-"></a>
+### 36. Rec Room 🪟
 <img src="./generated/SteamMD/covers/471710_header.jpg" alt="Rec Room" width="400px">
 
 - **Playtime:** 7 hours
@@ -2528,8 +3063,8 @@ Rec Room is the best place to build and play games together. Party up with frien
 
 ---
 
-<a id="35-satisfactory-"></a>
-### 35. Satisfactory 🪟
+<a id="37-satisfactory-"></a>
+### 37. Satisfactory 🪟
 <img src="./generated/SteamMD/covers/526870_header.jpg" alt="Satisfactory" width="400px">
 
 - **Playtime:** 140 hours
@@ -2627,12 +3162,12 @@ Satisfactory is a first-person open-world factory building game with a dash of e
 
 ---
 
-<a id="36-battlestar-galactica-deadlock-"></a>
-### 36. Battlestar Galactica Deadlock 🪟
+<a id="38-battlestar-galactica-deadlock-"></a>
+### 38. Battlestar Galactica Deadlock 🪟
 <img src="./generated/SteamMD/covers/544610_header.jpg" alt="Battlestar Galactica Deadlock" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** $39.99
+- **Price:** Free or unknown
 - **Price/hour:** -
 - **Creator:** [Black Lab Games](https://store.steampowered.com/search/?developer=Black+Lab+Games)
 - **Developer:** Black Lab Games
@@ -2645,7 +3180,7 @@ Satisfactory is a first-person open-world factory building game with a dash of e
 <details>
 <summary>Detailed description</summary>
 
-<h1>Season Two is over</h1><p><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/544610/901497b9a30b14e7ffb992d296d39b47_avif" /></span></p><br><h1>About the Game</h1><h2 class="bb_tag" >The Cylons have rebelled! </h2><br>Four years of war and a steep price in human lives have not been enough to unlock a deadly stalemate. The Colonials have countered all of the Cylon’s offensives so far, but no decisive victory was achieved.<br><br>The deadlock is suddenly broken by a surprise attack from the Cylons and the brutal annihilation of the Colonial Fleet High Command on Picon. The fate of mankind is now resting on the shoulders of Rear-Admiral Lucinda Cain.<br><br>The secret, cunning plan she has conceived could turn the tide of the war forever…<h2 class="bb_tag" >THE GAME</h2><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/5a5b7081970043a4911ff2a3da27b2cf.poster.avif?t=1752740483" width=700 height=304 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/5a5b7081970043a4911ff2a3da27b2cf.webm?t=1752740483" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/5a5b7081970043a4911ff2a3da27b2cf.mp4?t=1752740483" type="video/mp4"></video></span><br><br><br><strong>BATTLESTAR GALACTICA Deadlock™</strong> takes you into the heart of the First Cylon War, to fight epic 3D battles that will test your tactical prowess.<br><br>Take control of the Colonial Fleet from the bridge of the mobile shipyard, Daidalos, and free the Twelve Colonies from the Cylon threat. Build your fleets, protect the Quorum alliance and prepare to dig deeper into the conspiracies of this heroic conflict.<h2 class="bb_tag" >Command the Colonial Fleet</h2><br>Design and build fleets of powerful capital ships. Recruit officers to protect the Twelve Colonies. From the Manticore corvette to the mighty Jupiter class Battlestar, you won’t be short on firepower.<h2 class="bb_tag" >Legendary Names</h2><br>Continue the legacy of Battlestar Galactica™ with new characters and familiar faces, in an original story set during the First Cylon War. Launch Viper squadrons and Raptor scouts and jump the <i>Galactica</i> in to dominate the battlefield. An authentic Battlestar Galactica™ experience awaits.<h2 class="bb_tag" >WEGO 3D Tactical Battles</h2><br>Intense tactical space battles in full 3D. Give commands to your fleet of capital ships and watch the explosive results play out in pause-able real-time across beautiful environments.<h2 class="bb_tag" >War Room Politics</h2><br>From the bridge of the Daidalos shipyard you will command all the Colonial Fleet. Build up your forces and jump them across the quaternary solar system of Cyrannus. Keep the Colonies safe and the Quorum of Twelve unified, lest the alliance break and introduce a new age of Cylon dominance.<h2 class="bb_tag" >The Cylon Threat</h2><br>Prepare to face relentless opposition. Defend against squadrons of Cylon Raiders and missile salvos from Basestars. Trust in your marines to fight off Centurion boarding parties, while your firewalls slow down the hacking attacks of the Wardriver electronic fighters. Unlock blueprints for new ships, munitions and squadrons to help defeat your tireless foe.<h2 class="bb_tag" >Join Forces</h2><br>Experience Battlestar multiplayer like never before! Outwit your opponent in fierce 1-v-1 fleet battles.<h2 class="bb_tag" >Review Your Battles</h2><br>Review your battles from a cinematic point of view with the AutoCam replay, and then export them to YouTube with our in-game tool!<br><br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/e7e1a3ddca2823d47e3497a2d8a42e27.poster.avif?t=1752740483" width=650 height=234 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/e7e1a3ddca2823d47e3497a2d8a42e27.webm?t=1752740483" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/e7e1a3ddca2823d47e3497a2d8a42e27.mp4?t=1752740483" type="video/mp4"></video></span><br><br><strong><h2 class="bb_tag" >NEW UPDATES - Season One Finale announcement!</h2></strong><br>Since its release Battlestar Galactica Deadlock has been constantly improved and expanded through DLCs and free updates alike. The developers have added plenty new features and content to the original game. The release of Sin and Sacrifice marked the conclusion of Season One, and we decided to show and recap all that had been added until that point. Click on the link below to have a look!
+<h1>Season Two is over</h1><p><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/544610/901497b9a30b14e7ffb992d296d39b47_avif" /></span></p><br><h1>About the Game</h1><h2 class="bb_tag" >The Cylons have rebelled! </h2><br>Four years of war and a steep price in human lives have not been enough to unlock a deadly stalemate. The Colonials have countered all of the Cylon’s offensives so far, but no decisive victory was achieved.<br><br>The deadlock is suddenly broken by a surprise attack from the Cylons and the brutal annihilation of the Colonial Fleet High Command on Picon. The fate of mankind is now resting on the shoulders of Rear-Admiral Lucinda Cain.<br><br>The secret, cunning plan she has conceived could turn the tide of the war forever…<h2 class="bb_tag" >THE GAME</h2><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/5a5b7081970043a4911ff2a3da27b2cf.poster.avif?t=1763401354" width=700 height=304 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/5a5b7081970043a4911ff2a3da27b2cf.webm?t=1763401354" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/5a5b7081970043a4911ff2a3da27b2cf.mp4?t=1763401354" type="video/mp4"></video></span><br><br><br><strong>BATTLESTAR GALACTICA Deadlock™</strong> takes you into the heart of the First Cylon War, to fight epic 3D battles that will test your tactical prowess.<br><br>Take control of the Colonial Fleet from the bridge of the mobile shipyard, Daidalos, and free the Twelve Colonies from the Cylon threat. Build your fleets, protect the Quorum alliance and prepare to dig deeper into the conspiracies of this heroic conflict.<h2 class="bb_tag" >Command the Colonial Fleet</h2><br>Design and build fleets of powerful capital ships. Recruit officers to protect the Twelve Colonies. From the Manticore corvette to the mighty Jupiter class Battlestar, you won’t be short on firepower.<h2 class="bb_tag" >Legendary Names</h2><br>Continue the legacy of Battlestar Galactica™ with new characters and familiar faces, in an original story set during the First Cylon War. Launch Viper squadrons and Raptor scouts and jump the <i>Galactica</i> in to dominate the battlefield. An authentic Battlestar Galactica™ experience awaits.<h2 class="bb_tag" >WEGO 3D Tactical Battles</h2><br>Intense tactical space battles in full 3D. Give commands to your fleet of capital ships and watch the explosive results play out in pause-able real-time across beautiful environments.<h2 class="bb_tag" >War Room Politics</h2><br>From the bridge of the Daidalos shipyard you will command all the Colonial Fleet. Build up your forces and jump them across the quaternary solar system of Cyrannus. Keep the Colonies safe and the Quorum of Twelve unified, lest the alliance break and introduce a new age of Cylon dominance.<h2 class="bb_tag" >The Cylon Threat</h2><br>Prepare to face relentless opposition. Defend against squadrons of Cylon Raiders and missile salvos from Basestars. Trust in your marines to fight off Centurion boarding parties, while your firewalls slow down the hacking attacks of the Wardriver electronic fighters. Unlock blueprints for new ships, munitions and squadrons to help defeat your tireless foe.<h2 class="bb_tag" >Join Forces</h2><br>Experience Battlestar multiplayer like never before! Outwit your opponent in fierce 1-v-1 fleet battles.<h2 class="bb_tag" >Review Your Battles</h2><br>Review your battles from a cinematic point of view with the AutoCam replay, and then export them to YouTube with our in-game tool!<br><br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/e7e1a3ddca2823d47e3497a2d8a42e27.poster.avif?t=1763401354" width=650 height=234 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/e7e1a3ddca2823d47e3497a2d8a42e27.webm?t=1763401354" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544610/extras/e7e1a3ddca2823d47e3497a2d8a42e27.mp4?t=1763401354" type="video/mp4"></video></span><br><br><strong><h2 class="bb_tag" >NEW UPDATES - Season One Finale announcement!</h2></strong><br>Since its release Battlestar Galactica Deadlock has been constantly improved and expanded through DLCs and free updates alike. The developers have added plenty new features and content to the original game. The release of Sin and Sacrifice marked the conclusion of Season One, and we decided to show and recap all that had been added until that point. Click on the link below to have a look!
 
 </details>
 
@@ -2700,8 +3235,89 @@ Satisfactory is a first-person open-world factory building game with a dash of e
 
 ---
 
-<a id="37-black-desert-"></a>
-### 37. Black Desert 🪟
+<a id="39-just-ignore-them-"></a>
+### 39. Just Ignore Them 🪟
+<img src="./generated/SteamMD/covers/561770_header.jpg" alt="Just Ignore Them" width="400px">
+
+- **Playtime:** 0 hours
+- **Price:** $0.67
+- **Price/hour:** -
+- **Creator:** [Stranga Games](https://store.steampowered.com/search/?developer=Stranga+Games)
+- **Developer:** Stranga Games
+- **Publisher:** GrabTheGames
+- **Genres:** Adventure, Indie
+- **Achievements:** 0/33
+
+**Short description:** One night can feel like a lifetime of pain, suffering and horror to a child...do you have what it takes to survive the night? Play as an 8 year old child who is tormented by monsters in his house. Your choices make his future which lives can be saved or ended.
+
+<details>
+<summary>Detailed description</summary>
+
+<p class="bb_paragraph" >Welcome to the Just Ignore Them Steam Store Page.</p><p class="bb_paragraph" > </p><p class="bb_paragraph" >Before considering purchasing Just Ignore Them, please try our FREE demo and read the rest of this section. </p><p class="bb_paragraph" > </p><p class="bb_paragraph" >Just Ignore Them is a point and click adventure horror that is mainly story driven. It contains an alterable story line which the player can control with critical choices. However, the main plot does not change (This is due to a possible sequel). The game is roughly a few hours long (For first time players), but this also depends on some of the choice you make during the game.</p><p class="bb_paragraph" > </p><p class="bb_paragraph" >It's your job to discover the mystery of the invading monsters.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" >One night can feel like a lifetime of pain, suffering and horror to a child... </p><p class="bb_paragraph" ></p><p class="bb_paragraph" >The story starts of a Little boy at the age of 8 who is tormented by monsters that live in his house. He lives with his mother which works from home so she can look after him. You will be taking a glimpse into the future which can be altered by the choices you make, which will alter the game's ending. The story is to resemble some what of a movie script rather than a game.</p>
+
+</details>
+
+<details>
+<summary>Achievements Details</summary>
+
+<table>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Mysterious_Photo.jpg' width='32'></td><td>🟥</td><td>Mysterious Photo</td><td>A photo can catch a moment in time?</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/A_Photo_Can_Tell_A_Thousand_Words.jpg' width='32'></td><td>🟥</td><td>A Photo Can Tell A Thousand Words</td><td>An empty frame tells a million.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/I_Don_t_Like_Surprises.jpg' width='32'></td><td>🟥</td><td>I Don't Like Surprises</td><td>Wrong closet.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/I_Better_Stay_Inside.jpg' width='32'></td><td>🟥</td><td>I Better Stay Inside</td><td>Besides, it's too cold out.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/I_Don_t_Really_Need_To_Go.jpg' width='32'></td><td>🟥</td><td>I Don't Really Need To Go</td><td>I think I'll hold it.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/They_re_Here.jpg' width='32'></td><td>🟥</td><td>They're Here</td><td>The tv people.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/But_First__Let_Me_Take_Uh___.jpg' width='32'></td><td>🟥</td><td>But First, Let Me Take Uh...</td><td>Selfie?</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/This_Is_All_A_Bad_Dream_.jpg' width='32'></td><td>🟥</td><td>This Is All A Bad Dream </td><td>I hope.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/_Gasp__You_Told_.jpg' width='32'></td><td>🟥</td><td>\*Gasp\* You Told!</td><td>Why the hell did you do that for?</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Welcome_To_Dayfield_Motel.jpg' width='32'></td><td>🟥</td><td>Welcome To Dayfield Motel</td><td>Enjoy your stay!</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Mind_Your_Own_Business_.jpg' width='32'></td><td>🟥</td><td>Mind Your Own Business!</td><td>No one likes a peeping tom.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Interesting_Concept_.jpg' width='32'></td><td>🟥</td><td>Interesting Concept!</td><td>No problem.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Nice__Uh___Poster.jpg' width='32'></td><td>🟥</td><td>Nice! Uh...Poster</td><td>He's got a good taste in...posters.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Be_Kind_Rewind_.jpg' width='32'></td><td>🟥</td><td>Be Kind Rewind.</td><td>Our customers would appreciate it.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Tainted_Footage.jpg' width='32'></td><td>🟥</td><td>Tainted Footage</td><td>Do not watch this tape.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Sorry_To_Barge_In_.jpg' width='32'></td><td>🟥</td><td>Sorry To Barge In!</td><td>Uh...I'll come back later.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Feeling_Lovesick_.jpg' width='32'></td><td>🟥</td><td>Feeling Lovesick?</td><td>Or is it just gas?</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Get_It_.jpg' width='32'></td><td>🟥</td><td>Get It?</td><td>8-bit...never mind -\_-</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Drink_Your_Sorrows_Away.jpg' width='32'></td><td>🟥</td><td>Drink Your Sorrows Away</td><td>Whatsa Madder?</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Are_You_Afraid_.jpg' width='32'></td><td>🟥</td><td>Are You Afraid?</td><td>You should be.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Stop_Copying_Me_.jpg' width='32'></td><td>🟥</td><td>Stop Copying Me!</td><td>I should take his picture.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Dinner_Reservation_For_2.jpg' width='32'></td><td>🟥</td><td>Dinner Reservation For 2</td><td>Do you trust him?</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/I_Shot_The_Sheriff_.jpg' width='32'></td><td>🟥</td><td>I Shot The Sheriff </td><td>But I did not shoot the deputy.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Fear_Of_Flying.jpg' width='32'></td><td>🟥</td><td>Fear Of Flying</td><td>Especially if you have to fly the plane!</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/I_Hate_The_Subway.jpg' width='32'></td><td>🟥</td><td>I Hate The Subway</td><td>Are we there yet?</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Is_This_The_Right_Thing_To_Do_.jpg' width='32'></td><td>🟥</td><td>Is This The Right Thing To Do?</td><td>I'm not so sure.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Lust.jpg' width='32'></td><td>🟥</td><td>Lust</td><td>Can be the darkest of temptations</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Kiss_From_A_Black_Rose.jpg' width='32'></td><td>🟥</td><td>Kiss From A Black Rose</td><td>Something has unlocked?</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Ha_Ha__Wrong_.jpg' width='32'></td><td>🟥</td><td>Ha Ha! Wrong!</td><td>But, It said it was right!</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/A_Tape_Recorder_.jpg' width='32'></td><td>🟥</td><td>A Tape Recorder?</td><td>Guess I'll need to find some tapes</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/The_Love_Potion.jpg' width='32'></td><td>🟥</td><td>The Love Potion</td><td>For your deepest desires.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Mom_.jpg' width='32'></td><td>🟥</td><td>Mom?</td><td>Bad Ending.</td>
+<tr><td><img src='./generated/SteamMD/achievements/561770/Dad_.jpg' width='32'></td><td>🟥</td><td>Dad?</td><td>Good Ending.</td>
+
+</table>
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/561770/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/561770/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/561770/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/561770/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/561770/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/561770/6.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/561770/7.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/561770/8.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/561770/9.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/561770/10.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+
+</details>
+
+---
+
+<a id="40-black-desert-"></a>
+### 40. Black Desert 🪟
 <img src="./generated/SteamMD/covers/582660_header.jpg" alt="Black Desert" width="400px">
 
 - **Playtime:** 0 hours
@@ -2718,7 +3334,7 @@ Satisfactory is a first-person open-world factory building game with a dash of e
 <details>
 <summary>Detailed description</summary>
 
-<h2 class="bb_tag" >Go Beyond Limits : WORLD CLASS MMORPG</h2><p class="bb_paragraph" ></p><p class="bb_paragraph" ><i>Black Desert is a game that tests the limitations of MMORPG</i></p><p class="bb_paragraph" ><i>by implementing remastered graphics and audio. Enjoy exciting combat and siege,</i></p><p class="bb_paragraph" ><i>exploration, trading, fishing, training, alchemy, cooking, gathering, hunting, and more in the vast open world.</i></p><p class="bb_paragraph" ><i>Black Desert - A true MMORPG</i></p><p class="bb_paragraph" ></p><h2 class="bb_tag" >The Start of Your Dream Adventure</h2><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.poster.avif?t=1758315448" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.webm?t=1758315448" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.mp4?t=1758315448" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>OPEN WORLD</strong></p><p class="bb_paragraph" >An expansive, breathtaking open world MMORPG made with Pearl Abyss' proprietary game engine.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.poster.avif?t=1758315448" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.webm?t=1758315448" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.mp4?t=1758315448" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>CUSTOMIZING</strong></p><p class="bb_paragraph" ><i>Become Your True Self</i></p><p class="bb_paragraph" >Experience insane levels of customization.</p><p class="bb_paragraph" >From height, torso, face, and skin texture, to micro-level details, your imagination is the limit!</p><p class="bb_paragraph" >Create your own unique characters, just like you've always desired, in Black Desert.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.poster.avif?t=1758315448" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.webm?t=1758315448" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.mp4?t=1758315448" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>COMBAT</strong></p><p class="bb_paragraph" ><i>Non-Target &amp; Fast-Paced Combat</i></p><p class="bb_paragraph" >Experience an innovative combat system unlike any other MMORPG.</p><p class="bb_paragraph" >The need for quick reactions and precise control will keep you enthralled throughout your entire experience.</p><p class="bb_paragraph" >Exciting commands/combos will always keep you on your toes.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.poster.avif?t=1758315448" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.webm?t=1758315448" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.mp4?t=1758315448" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>NODE &amp; SIEGE WAR</strong></p><p class="bb_paragraph" ><i>Large-Scale PvP Wars</i></p><p class="bb_paragraph" >Guilds, prepare for battle! Victory is near!</p><p class="bb_paragraph" >Join formidable guilds as they fight head-to-head on the battlefield.</p><p class="bb_paragraph" >Be victorious, become lords, and seize control of taxes, resources, and more!</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.poster.avif?t=1758315448" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.webm?t=1758315448" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.mp4?t=1758315448" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>GRAPHICS</strong></p><p class="bb_paragraph" ><i>Remastered Cutting-Edge Graphics</i></p><p class="bb_paragraph" >Enter a world with spectacular sceneries, realistic environments, and sophisticated details created with state-of-the-art graphics and prepare for unforgettable adventures.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.poster.avif?t=1758315448" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.webm?t=1758315448" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.mp4?t=1758315448" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>LIFE SKILLS</strong></p><p class="bb_paragraph" ><i>Multitudes of In-Game Activities</i></p><p class="bb_paragraph" >Combat not your style?</p><p class="bb_paragraph" >Relax and enjoy a variety of pleasant life skill activities!</p><p class="bb_paragraph" >With a variety of choices including farming, trading, fishing, sailing, cooking, horse training, alchemy, and more, the professions are endless. Try your hand at any or all of them!</p>
+<h2 class="bb_tag" >Go Beyond Limits : WORLD CLASS MMORPG</h2><p class="bb_paragraph" ></p><p class="bb_paragraph" ><i>Black Desert is a game that tests the limitations of MMORPG</i></p><p class="bb_paragraph" ><i>by implementing remastered graphics and audio. Enjoy exciting combat and siege,</i></p><p class="bb_paragraph" ><i>exploration, trading, fishing, training, alchemy, cooking, gathering, hunting, and more in the vast open world.</i></p><p class="bb_paragraph" ><i>Black Desert - A true MMORPG</i></p><p class="bb_paragraph" ></p><h2 class="bb_tag" >The Start of Your Dream Adventure</h2><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.poster.avif?t=1765935954" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.webm?t=1765935954" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.mp4?t=1765935954" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>OPEN WORLD</strong></p><p class="bb_paragraph" >An expansive, breathtaking open world MMORPG made with Pearl Abyss' proprietary game engine.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.poster.avif?t=1765935954" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.webm?t=1765935954" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.mp4?t=1765935954" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>CUSTOMIZING</strong></p><p class="bb_paragraph" ><i>Become Your True Self</i></p><p class="bb_paragraph" >Experience insane levels of customization.</p><p class="bb_paragraph" >From height, torso, face, and skin texture, to micro-level details, your imagination is the limit!</p><p class="bb_paragraph" >Create your own unique characters, just like you've always desired, in Black Desert.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.poster.avif?t=1765935954" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.webm?t=1765935954" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.mp4?t=1765935954" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>COMBAT</strong></p><p class="bb_paragraph" ><i>Non-Target &amp; Fast-Paced Combat</i></p><p class="bb_paragraph" >Experience an innovative combat system unlike any other MMORPG.</p><p class="bb_paragraph" >The need for quick reactions and precise control will keep you enthralled throughout your entire experience.</p><p class="bb_paragraph" >Exciting commands/combos will always keep you on your toes.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.poster.avif?t=1765935954" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.webm?t=1765935954" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.mp4?t=1765935954" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>NODE &amp; SIEGE WAR</strong></p><p class="bb_paragraph" ><i>Large-Scale PvP Wars</i></p><p class="bb_paragraph" >Guilds, prepare for battle! Victory is near!</p><p class="bb_paragraph" >Join formidable guilds as they fight head-to-head on the battlefield.</p><p class="bb_paragraph" >Be victorious, become lords, and seize control of taxes, resources, and more!</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.poster.avif?t=1765935954" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.webm?t=1765935954" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.mp4?t=1765935954" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>GRAPHICS</strong></p><p class="bb_paragraph" ><i>Remastered Cutting-Edge Graphics</i></p><p class="bb_paragraph" >Enter a world with spectacular sceneries, realistic environments, and sophisticated details created with state-of-the-art graphics and prepare for unforgettable adventures.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.poster.avif?t=1765935954" width=614 height=250 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.webm?t=1765935954" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.mp4?t=1765935954" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>LIFE SKILLS</strong></p><p class="bb_paragraph" ><i>Multitudes of In-Game Activities</i></p><p class="bb_paragraph" >Combat not your style?</p><p class="bb_paragraph" >Relax and enjoy a variety of pleasant life skill activities!</p><p class="bb_paragraph" >With a variety of choices including farming, trading, fishing, sailing, cooking, horse training, alchemy, and more, the professions are endless. Try your hand at any or all of them!</p>
 
 </details>
 
@@ -2738,13 +3354,83 @@ Satisfactory is a first-person open-world factory building game with a dash of e
 
 ---
 
-<a id="38-derail-valley-"></a>
-### 38. Derail Valley 🪟
+<a id="41-trailmakers-"></a>
+### 41. Trailmakers 🪟
+<img src="./generated/SteamMD/covers/585420_header.jpg" alt="Trailmakers" width="400px">
+
+- **Playtime:** 2 hours
+- **Price:** $7.49
+- **Price/hour:** 3.75 € / h
+- **Creator:** [Flashbulb](https://store.steampowered.com/search/?developer=Flashbulb)
+- **Developer:** Flashbulb
+- **Publisher:** Flashbulb
+- **Genres:** Action, Adventure, Indie, Racing, Simulation
+- **Achievements:** 0/22
+
+**Short description:** Build the ultimate vehicle and explore a vast open world filled with challenges and adventure. Play solo or team up with friends in multiplayer to conquer the toughest obstacles. With a thrilling campaign mode and endless creative possibilities, Trailmakers is the ultimate sandbox for adventurers.
+
+<details>
+<summary>Detailed description</summary>
+
+<p class="bb_paragraph" >Trailmakers is a play-as-you-like <strong>vehicle building</strong> game with reliable physics, controlled chaos, <strong>land, sea, and air combat</strong>.</p><p class="bb_paragraph" >Jump straight into the open-world Pioneers campaign where you complete missions, craft blocks and fight BOTNAKs. If you just want to play around with a plethora of different blocks, there are five dedicated sandbox maps that will let you tinker with vehicles in space, water, and ground. </p><p class="bb_paragraph" >Sandbox gives you fun challenges, creative freedom, and high speed driving and flying.</p><p class="bb_paragraph" >Use the integrated workshop to download other people’s creations and have addictingly fun skirmishes with up to seven friends in multiplayer.</p><p class="bb_paragraph" > </p><h2 class="bb_tag" >BUILD EVERYTHING</h2><p class="bb_paragraph" >The intricate yet intuitive building mechanic allows you to either choose pre-made vehicles from the game and the community workshop or build your own vehicles completely from scratch using hundreds of blocks that affect both aerodynamics, functionality, speed, combat ability, and much more in a world ruled by reliable physics. </p><p class="bb_paragraph" >Customize your character and block designs with a heap of different skins, colors, and pattern combinations to create your own personal brand. </p><p class="bb_paragraph" >The builder is made to be as accessible and intuitive as possible for players who are new to building games while also equipped with features for the more hardcore segment of engineers: Easy to learn, hard to master!</p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/136e8103498987dd21285ed47bd9b074.poster.avif?t=1768475036" width=1170 height=658 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/136e8103498987dd21285ed47bd9b074.webm?t=1768475036" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/136e8103498987dd21285ed47bd9b074.mp4?t=1768475036" type="video/mp4"></video></span></p><h2 class="bb_tag" >COMBAT</h2><p class="bb_paragraph" >Trailmakers offers an arsenal of 14 different weapons like minigun, EMPs, laser blasters, rocket launchers and shotguns to name a few. Set up a server with your friends or join one of the hundreds of public games to test them out in different PvP scenarios. Fight in the air, ocean, ground, or in space. Your choice of mayhem is entirely up to you.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/38c068404af2cafce205ed65b0bc91ce.poster.avif?t=1768475036" width=1170 height=658 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/38c068404af2cafce205ed65b0bc91ce.webm?t=1768475036" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/38c068404af2cafce205ed65b0bc91ce.mp4?t=1768475036" type="video/mp4"></video></span></p><h2 class="bb_tag" >MULTIPLAYER</h2><p class="bb_paragraph" >All game modes in Trailmakers, including the main story, allow Multiplayer for 2-8 people. </p><p class="bb_paragraph" >Jump into one of the five dedicated sandbox maps, hang out and build together, test each other's vehicles, or share and be inspired from thousands of incredible community made workshop builds.</p><p class="bb_paragraph" >Controlled chaos, land, sea, air, and space combat awaits you and your friends - or jump into Race Island where 14 different tracks are ready for you to put your name on the leaderboards.  </p><p class="bb_paragraph" >This is the ultimate do-whatever-your-heart-desires game.</p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/5f633d0c85869fa55692dac3dd1cb38c.poster.avif?t=1768475036" width=1170 height=658 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/5f633d0c85869fa55692dac3dd1cb38c.webm?t=1768475036" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/5f633d0c85869fa55692dac3dd1cb38c.mp4?t=1768475036" type="video/mp4"></video></span></p><h2 class="bb_tag" >CAMPAIGN</h2><p class="bb_paragraph" >In the main game mode, “Pioneers” you will dive head-first into a breathtaking open world with loveable NPCs, challenging enemies, and an adventurous story. Unlock new parts as you complete missions and build different vehicles for the different biomes and terrains - play the campaign alone or multiplayer.</p><p class="bb_paragraph" >You will join the Trailmakers: An elite society of engineers and are sent out to help the population of Gregory - a community of peaceful frogs who have been invaded by the evil BOTNAKs who are ruthlessly mining the planet and stealing its resources.</p><p class="bb_paragraph" >  </p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/171afa438a3c52e1f68b1b812eff4b73.poster.avif?t=1768475036" width=1170 height=658 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/171afa438a3c52e1f68b1b812eff4b73.webm?t=1768475036" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/extras/171afa438a3c52e1f68b1b812eff4b73.mp4?t=1768475036" type="video/mp4"></video></span></p>
+
+</details>
+
+<details>
+<summary>Achievements Details</summary>
+
+<table>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Ready_For_Takeoff.jpg' width='32'></td><td>🟥</td><td>Ready For Takeoff</td><td>Rebuild your spaceship</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Bring_Marshmallows_.jpg' width='32'></td><td>🟥</td><td>Bring Marshmallows!</td><td>Enter the volcano</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Power_Core_Collector.jpg' width='32'></td><td>🟥</td><td>Power Core Collector</td><td>Find 15 Power Cores in Stranded in Space</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Gold_Rush.jpg' width='32'></td><td>🟥</td><td>Gold Rush</td><td>Get gold on Downhill Rush</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Slide_to_Win.jpg' width='32'></td><td>🟥</td><td>Slide to Win</td><td>Get gold on Sunny Slide</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/To_Fly_or_Not_To_Fly.jpg' width='32'></td><td>🟥</td><td>To Fly or Not To Fly</td><td>Get gold on Cliff Land</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Island_Hopper.jpg' width='32'></td><td>🟥</td><td>Island Hopper</td><td>Land on all the floating islands above Race Island in one session</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Hot_Air.jpg' width='32'></td><td>🟥</td><td>Hot Air</td><td>Crash into the blimp on Race Island</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Best_View_In_Town.jpg' width='32'></td><td>🟥</td><td>Best View In Town</td><td>Land on the lighthouse on Race Island</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Moby_Dick.jpg' width='32'></td><td>🟥</td><td>Moby Dick</td><td>Bump into the whales in Treasure Island</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Sharing_is_Caring.jpg' width='32'></td><td>🟥</td><td>Sharing is Caring</td><td>Upload a vehicle to the Workshop</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Car_Collector.jpg' width='32'></td><td>🟥</td><td>Car Collector</td><td>Download and load in a vehicle from the Workshop</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Monster_.jpg' width='32'></td><td>🟥</td><td>Monster!</td><td>Drive over 8 chickens on Treasure Island in one session</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Sonic_Boom.jpg' width='32'></td><td>🟥</td><td>Sonic Boom</td><td>Break the sound barrier</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Man_in_Black.jpg' width='32'></td><td>🟥</td><td>Man in Black</td><td>Fly through all the rings of fire in Treasure Island one session</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Problem_Solver.jpg' width='32'></td><td>🟥</td><td>Problem Solver</td><td>Complete all the ball puzzles on Treasure Island in one session</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Leonardo_da_Vinci.jpg' width='32'></td><td>🟥</td><td>Leonardo da Vinci</td><td>Stay airborne in a zero Power Core vehicle for 60 seconds</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/So_attractive_.jpg' width='32'></td><td>🟥</td><td>So attractive!</td><td>Pick up a piece of Salvage with the Tractor Beam</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/El_Capitan.jpg' width='32'></td><td>🟥</td><td>El Capitan</td><td>Reach the top of Danger Zone</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Treehugger.jpg' width='32'></td><td>🟥</td><td>Treehugger</td><td>Hug the Tree on the Northeastern Island in Treasure Island</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/Pay_your_respect.jpg' width='32'></td><td>🟥</td><td>Pay your respect</td><td>Visit the monument on Treasure Island</td>
+<tr><td><img src='./generated/SteamMD/achievements/585420/3-Pointer.jpg' width='32'></td><td>🟥</td><td>3-Pointer</td><td>Shoot hoops on Danger Zone</td>
+
+</table>
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/585420/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/585420/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/585420/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/585420/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/585420/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/585420/6.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/585420/7.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/585420/8.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/585420/9.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/585420/10.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+
+</details>
+
+---
+
+<a id="42-derail-valley-"></a>
+### 42. Derail Valley 🪟
 <img src="./generated/SteamMD/covers/588030_header.jpg" alt="Derail Valley" width="400px">
 
-- **Playtime:** 40 hours
+- **Playtime:** 49 hours
 - **Price:** $39.99
-- **Price/hour:** 1.00 € / h
+- **Price/hour:** 0.82 € / h
 - **Creator:** [Altfuture](https://store.steampowered.com/search/?developer=Altfuture)
 - **Developer:** Altfuture
 - **Publisher:** Altfuture
@@ -2756,7 +3442,7 @@ Satisfactory is a first-person open-world factory building game with a dash of e
 <details>
 <summary>Detailed description</summary>
 
-Drive massive trains through beautiful, challenging natural environments. Make deliveries of cargo between industries spread across an open world. Earn money, buy new licenses and advance your career as a train engineer, all in a seamless, emergent playthrough.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/aee3aff6bed5641a25229ffc7fcf276a_avif" /></span><br><br>Walk anywhere or drive a train in a 256 km2 world, covered in rich vegetation, mountains, fields, lakes, rivers and a massive railroad network, spanning 15 diverse industries and towns. Days and nights seamlessly cycle over the valley, with dynamic clouds, fog, rain and environment sounds spicing it all up. Change the switches, board the vehicles, leave them, take them somewhere specific - the choice is yours.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/32f3e8fc7492163d384792f4052f8a9b_avif" /></span><br><br>Derail Valley depicts complex intricacies of diesel locomotives with varying transmission types, as well as steam engines, and does so in depth. Through behavior, sounds, physics and interaction, vehicles' characteristics are designed to fully immerse and challenge you. You might even learn something new about them! On top of that, you'll find yourself spontaneously involved in coupling, servicing, brake securing, shunting and other railroad procedures.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/0e9b8bf07e037120ea4a14c7ab9b7184_avif" /></span><br><br>Every location offers and receives certain cargo, forming a dynamic chain that you take part in. Deliveries are procedurally generated; they vary among themselves and almost no delivery will be the same as the other. Deliver cargo between industries, or do the shunting and logistics that help the stations create more deliveries. Pick your orders freely, move cars throughout the valley according to your licensing and locomotive availability.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/18239a34405594ffbbe586bccff79e6f_avif" /></span><br><br>Earn money by completing deliveries. Master efficient driving and look after the vehicles you use to minimize fuel and repair costs. Buy new items and licenses that allow you access to more vehicles and orders. Alternatively, play in sandbox mode where economy is not in focus; where you can create custom scenarios, have fun doing whatever and capture fun videos using built-in photography tools.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/30c1c3ce28a0c1ecbabc8a67af00f374_avif" /></span><br><br>Whether you prefer turning every knob manually or taking a laid back approach from a birds-eye view, difficulty parameters have got you covered. From the preferred camera view down to the ease of coupling, difficulty customization makes it possible for you to find the challenge and comfort levels that you're happy with.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/258cdffd0bcf285f1b35da82f803cff7_avif" /></span><br><br>There are currently 6 locomotive types in the game, each based on a different technology or offered with drastically different characteristics. With more in the pipeline, the simulation is built to support locomotive mods as well. Other than the powerhouses, there are a few work train vehicles, over ten types of cars and more than 50 types of cargo available, as well.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/ad823a42288d4b7e0cfeecc57d4c7987_avif" /></span><br><br>Be it a derailment, collision, blown traction motor, boiler explosion, failed brakes, HAZMAT disaster or even something as mild as wheelslip on a rainy slope, Derail Valley doesn't just present you with a popup screen when you make a mistake - you get to experience the consequences of your actions, even if they're a rare occurrence.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/d72f047b5ccfbf3208b412a26f25f5b3_avif" /></span><br><br>Derail Valley not only supports the major PC-based VR headsets, but has been built to support them from the ground up. Experience the game spatially present and using your own hands to operate the controls. This is the ultimate experience, the closest there is to being a real railroader. Additionally, you can seamlessly share the same playthrough among the PC and VR sessions - choosing the platform based on your mood.<br><br>Whether you are new to trains or an experienced veteran, the game features tutorials that are quick to get you going. However, a comprehensive user manual also exists, for when you want to dive deep into the details.
+<p class="bb_paragraph" >Drive massive trains across beautiful, challenging landscapes. Deliver cargo between industries, spread over an open world. Earn money, buy new licenses and advance your career as a train engineer, all in seamless, emergent experience. For PC and VR.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/3798888d5d0d4465bb2a6eb8fab6aaa1_avif" /></span></p><p class="bb_paragraph" >256 km² of unrestricted open world, where you can walk or drive trains uninterrupted. Covered in rich vegetation, landscape, water bodies, and an extensive railroad network, the world spans numerous diverse industries and towns. Experience seamless day and night cycles, with dynamic clouds, fog, rain and sounds spicing it all up. Change switches, drive, haul and leave trains at desired locations - the choice is yours.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/3e48b2687e977375d02051da6e83dd8e_avif" /></span></p><p class="bb_paragraph" >Advance your career by taking deliveries and earning money. Master efficient driving and look after vehicles to minimize fuel and repair costs. Buy new items and licenses that grant you access to more vehicles and orders. Optionally, you can also play in sandbox mode where economy is not in focus - where you can just have fun doing anything you want without consequences. </p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/35606d1dc6997acbd717813b643db1dd_avif" /></span></p><p class="bb_paragraph" >Take part in a dynamic industrial chain, where deliveries are procedurally generated for more than 80 cargo types. The output of locations varies, and almost no two deliveries are the same. Haul cargo between industries, or do the shunting and logistics that help the stations create more deliveries. Pick orders and move cargo as desired, according to your own plans, licensing and hauling capacity.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/e1249d8c0ce89113d7b7da707aa84581_avif" /></span></p><p class="bb_paragraph" >Experience in-depth intricacies of six realistic, accurate steam and diesel locomotive classes with varying transmission types, plus some extra vehicles. Through behavior, sounds, physics and interaction, their characteristics are designed to fully immerse and challenge you. On top of that, you'll find yourself spontaneously involved in coupling, servicing, brake securing, shunting and other railroad procedures. </p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/6f1817b3ae89dc46519dc1cc73f3ee98_avif" /></span></p><p class="bb_paragraph" >As a side activity, you may find yourself investing time and money finding and restoring unique locomotive variant derelicts, which you can then customize with numerous useful gadgets. Gadgets are various devices that can improve driving performance, such as digital speedometers, clinometers, colored ambient lights, distance trackers, etc. You can buy them in shops and install them wherever you want, using various tools.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/266b586d1bb98dfc095b276c2130cf1d_avif" /></span></p><p class="bb_paragraph" >Built from the ground up for both PC and VR, Derail Valley lets you experience it spatially present with the supported mainstream PC VR devices - truly inside the simulator and using your own hands to operate the controls. This is the ultimate, closest experience to being a real railroader! You can seamlessly alternate your progress between the PC and VR sessions, as you prefer.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/826acfa3e28587111da08d04a3e9d5f0_avif" /></span></p><p class="bb_paragraph" >Be it a derailment, collision, blown traction motor, boiler explosion, brake failure, HAZMAT disaster or even something as mild as wheelslip on a rainy slope, Derail Valley doesn't just present you with a popup screen when you make a mistake - you get to experience the full consequences of your actions, even if they're a rare occurrence.</p><p class="bb_paragraph" > <br>Whether you are new to trains or an experienced veteran, the game features tutorials that are quick to get you going. A comprehensive user manual also exists, for when you want to dive deep into the details.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/588030/6094f28faecebf526aad1051a6736b80_avif" /></span></p>
 
 </details>
 
@@ -2778,16 +3464,16 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 
 ---
 
-<a id="39-far-lone-sails-"></a>
-### 39. FAR: Lone Sails 🪟 🍏
+<a id="43-far-lone-sails-"></a>
+### 43. FAR: Lone Sails 🪟 🍏
 <img src="./generated/SteamMD/covers/609320_header.jpg" alt="FAR: Lone Sails" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** $14.99
+- **Price:** $1.49
 - **Price/hour:** -
 - **Creator:** [Okomotive](https://store.steampowered.com/search/?developer=Okomotive)
 - **Developer:** Okomotive
-- **Publisher:** Assemble Entertainment
+- **Publisher:** Okomotive
 - **Genres:** Action, Adventure, Indie
 - **Achievements:** 0/14
 
@@ -2796,7 +3482,7 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 <details>
 <summary>Detailed description</summary>
 
-<span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/0a0193a8eaebc3e8e3c8ae049c5a1bc1.poster.avif?t=1755781639" width=616 height=212 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/0a0193a8eaebc3e8e3c8ae049c5a1bc1.webm?t=1755781639" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/0a0193a8eaebc3e8e3c8ae049c5a1bc1.mp4?t=1755781639" type="video/mp4"></video></span><br>FAR: Lone Sails is a vehicle adventure game. In a unique vehicle you travel across a dried-out ocean following the tracks of a once thriving civilization. Through an array of roadblocks and through hazardous weather you need to keep your vessel going. Where will this journey take you? Are you the last of your kind?<h2 class="bb_tag" >Key Features</h2><ul class="bb_ul"><li>Master your vessel: Maintain and upgrade your vehicle to overcome numerous obstacles and natural hazards.<br></li><li>Discover a unique world: Explore a desolate dried-out seabed, follow the trails of your people and find relics and buildings, that tell the story of a civilization on the run.<br></li><li>Experience an atmospheric journey: Let the sky full of clouds pass by and heed the wind that drives your sails towards the horizon.<br></li><li>A Zombie-free Post-Apocalypse: It’s just you and your machine vs. the big nothing.</li></ul><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/329f81bb44f83d9c5c5f6aee1936898e.poster.avif?t=1755781639" width=616 height=212 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/329f81bb44f83d9c5c5f6aee1936898e.webm?t=1755781639" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/329f81bb44f83d9c5c5f6aee1936898e.mp4?t=1755781639" type="video/mp4"></video></span>
+<span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/0a0193a8eaebc3e8e3c8ae049c5a1bc1.poster.avif?t=1769095038" width=616 height=212 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/0a0193a8eaebc3e8e3c8ae049c5a1bc1.webm?t=1769095038" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/0a0193a8eaebc3e8e3c8ae049c5a1bc1.mp4?t=1769095038" type="video/mp4"></video></span><br>FAR: Lone Sails is a vehicle adventure game. In a unique vehicle you travel across a dried-out ocean following the tracks of a once thriving civilization. Through an array of roadblocks and through hazardous weather you need to keep your vessel going. Where will this journey take you? Are you the last of your kind?<h2 class="bb_tag" >Key Features</h2><ul class="bb_ul"><li>Master your vessel: Maintain and upgrade your vehicle to overcome numerous obstacles and natural hazards.<br></li><li>Discover a unique world: Explore a desolate dried-out seabed, follow the trails of your people and find relics and buildings, that tell the story of a civilization on the run.<br></li><li>Experience an atmospheric journey: Let the sky full of clouds pass by and heed the wind that drives your sails towards the horizon.<br></li><li>A Zombie-free Post-Apocalypse: It’s just you and your machine vs. the big nothing.</li></ul><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/329f81bb44f83d9c5c5f6aee1936898e.poster.avif?t=1769095038" width=616 height=212 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/329f81bb44f83d9c5c5f6aee1936898e.webm?t=1769095038" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/extras/329f81bb44f83d9c5c5f6aee1936898e.mp4?t=1769095038" type="video/mp4"></video></span>
 
 </details>
 
@@ -2843,8 +3529,8 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 
 ---
 
-<a id="40-paradox-soul-"></a>
-### 40. Paradox Soul 🪟
+<a id="44-paradox-soul-"></a>
+### 44. Paradox Soul 🪟
 <img src="./generated/SteamMD/covers/610570_header.jpg" alt="Paradox Soul" width="400px">
 
 - **Playtime:** 0 hours
@@ -2878,8 +3564,8 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 
 ---
 
-<a id="41-next-jump-shmup-tactics-"></a>
-### 41. NEXT JUMP: Shmup Tactics 🪟 🍏 🐧
+<a id="45-next-jump-shmup-tactics-"></a>
+### 45. NEXT JUMP: Shmup Tactics 🪟 🍏 🐧
 <img src="./generated/SteamMD/covers/624690_header.jpg" alt="NEXT JUMP: Shmup Tactics" width="400px">
 
 - **Playtime:** 0 hours
@@ -2979,8 +3665,8 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 
 ---
 
-<a id="42-the-escapists-2-"></a>
-### 42. The Escapists 2 🪟 🍏 🐧
+<a id="46-the-escapists-2-"></a>
+### 46. The Escapists 2 🪟 🍏 🐧
 <img src="./generated/SteamMD/covers/641990_header.jpg" alt="The Escapists 2" width="400px">
 
 - **Playtime:** 26 hours
@@ -2997,7 +3683,7 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 <details>
 <summary>Detailed description</summary>
 
-<h1>Introducing: The Survivalists</h1><p><br><br>Check out our new game in the Escapists Universe: The Survivalists</p><br><h1>Join the Discord community</h1><p></p><br><h1>Just Updated</h1><p><i><strong>Snow Way Out Available Now!</strong></i><br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba2a766f743b8d750e4be47f32a7696c.poster.avif?t=1726561627" width=616 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba2a766f743b8d750e4be47f32a7696c.webm?t=1726561627" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba2a766f743b8d750e4be47f32a7696c.mp4?t=1726561627" type="video/mp4"></video></span><br><br>Prepare for a frosty reception in the North Pole this year - in this free festive Escapists 2 update you’ll be having a woeful Christmas time.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/1e69e49b9fb33905aa90111a6859b7bf_avif" /></span><br><br>Rumours have been circulating that since becoming a .com millionaire Santa’s a little past his prime, and his booming online empire has replaced all joy and cheer with cold hard cash and a regime of fear. The grotto’s become a warehouse and the elves have all been replaced by robots, with one exception – you!<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/c257e989db4349522f0e3f2856ec69c9_avif" /></span><br><br>Santa’s firmly keeping the work in workshop this Christmas with a list of new jobs to keep you busy while incarcerated. The reindeers need feeding, Christmas lists need incinerating and you’re just the elf to do it. Faced with a lifetime of hard labour, it’s time to plan your next daring escape and earn your festive freedom.<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/b05a5f7ab55056ddd934bea50de5cd85_avif" /></span><br><br>You’ve been put in the nick by St. Nick, have you got what it takes or is there Snow Way Out?</p><br><h1>Just Updated</h1><p><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/1f450adaf40848da89c801206bfee074_avif" /></span><h2 class="bb_tag" >Festive fun in free Santa’s Shakedown update</h2><br>Deck the cells with bars and escape attempts! Christmas has come early in the latest free game update to The Escapists 2, featuring a brand new map – Santa’s Shakedown. Not content with life in a perpetually festive lock-up, you must devise ingenious new ways of getting out of prison without getting caught in the tinsel! Featuring brand new items and some very unique craftables, you must pitch in with new prison jobs such as Christmas tree-decorating and toy soldier construction to blend in until the time is right to ho-ho-hop out of there!<br>Wrap up warm, grab some fellow inmates if it tickles your fancy, and head to the Play Game menu now to experience Santa’s Shakedown.</p><br><h1>Featured DLC</h1><p><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/32f51881b9e2f68b4bfe1e99a399f611.poster.avif?t=1726561627" width=616 height=280 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/32f51881b9e2f68b4bfe1e99a399f611.webm?t=1726561627" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/32f51881b9e2f68b4bfe1e99a399f611.mp4?t=1726561627" type="video/mp4"></video></span><br><br>Things have taken a strange turn in the locked off rooms of an abandoned hospital. Once again, you’ll have to craft, fight and scheme your way to freedom from this eerie supernatural slammer.</p><br><h1>About the Game</h1><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/ebefbab99c249a6da905cee052d6be24_avif" /></span><h2 class="bb_tag" >The Ultimate Prison Sandbox!</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/8d6a45a9afcad03bcd110829a2f1af86.poster.avif?t=1726561627" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/8d6a45a9afcad03bcd110829a2f1af86.webm?t=1726561627" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/8d6a45a9afcad03bcd110829a2f1af86.mp4?t=1726561627" type="video/mp4"></video></span><br>Risk it all to breakout from the toughest prisons in the world. Explore the biggest prisons yet, with multiple floors, roofs, vents and underground tunnels. <br>You’ll have to live by the prison rules, attending roll call, doing prison jobs and following strict routines; all the while secretly engineering your bid for freedom!<br>Your prison escape antics will take you from the frosty Fort Tundra, a train hurtling through the desert, and even to the final frontier!<h2 class="bb_tag" >Escape Team Assemble!</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/98388031cdad69468da481cf3c4414d4.poster.avif?t=1726561627" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/98388031cdad69468da481cf3c4414d4.webm?t=1726561627" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/98388031cdad69468da481cf3c4414d4.mp4?t=1726561627" type="video/mp4"></video></span> <br>Unite with up to 3 friends to create the ultimate escape crew and engineer the wildest escapes yet! Jump online or gather round on a couch to prepare for your sneaky adventures. By working together you’ll be able to create even more elaborate and daring plans.<br><br>Feeling competitive? Dive into the versus mode and show that you’ve got the skills to break out of any prison faster than your friends can. If all else fails, settle your rivalry in the court yard with a prison punch up!<h2 class="bb_tag" >Create YOUR Con!</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ea477d702ba18b7f0170e021fbf3debc.poster.avif?t=1726561627" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ea477d702ba18b7f0170e021fbf3debc.webm?t=1726561627" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ea477d702ba18b7f0170e021fbf3debc.mp4?t=1726561627" type="video/mp4"></video></span><br>It’s time to make your prisoner truly yours. Choose from a massive array of customisations to make your character unique to you. It’s important to look stylish whilst you mastermind your escape.<h2 class="bb_tag" >Craft your Escape!</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/212710c80c07f04e74548f7f70d3cb92.poster.avif?t=1726561627" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/212710c80c07f04e74548f7f70d3cb92.webm?t=1726561627" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/212710c80c07f04e74548f7f70d3cb92.mp4?t=1726561627" type="video/mp4"></video></span><br>Being in prison forces you to be creative and work with the limited tools at your disposal. You’ll have to combine everyday objects like soap and socks to craft new weapons and tools to help you achieve your goal. Steal forks from the cafeteria to chip a tunnel in your room, and craft a poster from magazines and duct tape to hide the evidence. You’ll soon learn that duct tape solves (almost) everything!<h2 class="bb_tag" >Prepare for a fight! </h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/add31974b7f067b872f48d42a10eed0a.poster.avif?t=1726561627" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/add31974b7f067b872f48d42a10eed0a.webm?t=1726561627" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/add31974b7f067b872f48d42a10eed0a.mp4?t=1726561627" type="video/mp4"></video></span><br>The Escapists 2 introduces a brand new combat system to make every prison brawl more exciting and interactive. You’ll have to block and tie together chains of attacks whilst strafing around your locked on targets to gain the upper hand in combat. Make sure your visit the gym first to build up those muscles!<h2 class="bb_tag" >New ways to escape!</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/30cdacb05bf0f7d78bc4ea319f69f111.poster.avif?t=1726561627" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/30cdacb05bf0f7d78bc4ea319f69f111.webm?t=1726561627" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/30cdacb05bf0f7d78bc4ea319f69f111.mp4?t=1726561627" type="video/mp4"></video></span><br>As the prisons get tougher you’re going to have to get more creative with your escape plans. There’s a ton of options to tackle almost any prison escape.<h2 class="bb_tag" >Construct a clink!</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba054e9dd714f9b75cb8839ac0807977.poster.avif?t=1726561627" width=616 height=252 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba054e9dd714f9b75cb8839ac0807977.webm?t=1726561627" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba054e9dd714f9b75cb8839ac0807977.mp4?t=1726561627" type="video/mp4"></video></span><br>With the Prison Map Editor, it’s your turn to construct a prison worthy of housing the toughest inmates! It includes all the rooms, fences and guard dogs you need to build a prison that’s as hard as your imagination makes it – no duct-tape required.<br>You can pick up those prison blueprints and start crafting your own creations through the Custom Prisons option on the main menu, and when you’re ready you can show the world by sharing them through Steam Workshop where you can download subscribe to fellow architects’ lock-ups – all custom maps can be played either solo or in both local and online multiplayer!<h2 class="bb_tag" >Features</h2><ul class="bb_ul"><li>11 Prisons<br></li><li>Up to 4 player co-operative and versus multiplayer<br></li><li> Drop-in/ Drop-out Online/Splitscreen multiplayer<br></li><li>Over 300 customisations<br></li><li>Multi-storey Prisons</li></ul><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/d3f581763f9757c5800d5378b709bd96_avif" /></span>
+<h1>Just Updated</h1><p><p class="bb_paragraph" ><strong><i>Snow Way Out Available Now!</i></strong></p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba2a766f743b8d750e4be47f32a7696c.poster.avif?t=1764006025" width=616 height=208 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba2a766f743b8d750e4be47f32a7696c.webm?t=1764006025" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba2a766f743b8d750e4be47f32a7696c.mp4?t=1764006025" type="video/mp4"></video></span></p><p class="bb_paragraph" >Prepare for a frosty reception in the North Pole this year - in this free festive Escapists 2 update you’ll be having a woeful Christmas time.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/1e69e49b9fb33905aa90111a6859b7bf_avif" /></span></p><p class="bb_paragraph" >Rumours have been circulating that since becoming a .com millionaire Santa’s a little past his prime, and his booming online empire has replaced all joy and cheer with cold hard cash and a regime of fear. The grotto’s become a warehouse and the elves have all been replaced by robots, with one exception – you!</p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/c257e989db4349522f0e3f2856ec69c9_avif" /></span></p><p class="bb_paragraph" >Santa’s firmly keeping the work in workshop this Christmas with a list of new jobs to keep you busy while incarcerated. The reindeers need feeding, Christmas lists need incinerating and you’re just the elf to do it. Faced with a lifetime of hard labour, it’s time to plan your next daring escape and earn your festive freedom.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/b05a5f7ab55056ddd934bea50de5cd85_avif" /></span></p><p class="bb_paragraph" >You’ve been put in the nick by St. Nick, have you got what it takes or is there Snow Way Out?</p></p><br><h1>Just Updated</h1><p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/1f450adaf40848da89c801206bfee074_avif" /></span></p><h2 class="bb_tag" >Festive fun in free Santa’s Shakedown update</h2><p class="bb_paragraph" ></p><p class="bb_paragraph" >Deck the cells with bars and escape attempts! Christmas has come early in the latest free game update to The Escapists 2, featuring a brand new map – Santa’s Shakedown. Not content with life in a perpetually festive lock-up, you must devise ingenious new ways of getting out of prison without getting caught in the tinsel! Featuring brand new items and some very unique craftables, you must pitch in with new prison jobs such as Christmas tree-decorating and toy soldier construction to blend in until the time is right to ho-ho-hop out of there!</p><p class="bb_paragraph" >Wrap up warm, grab some fellow inmates if it tickles your fancy, and head to the Play Game menu now to experience Santa’s Shakedown.</p></p><br><h1>About the Game</h1><p class="bb_paragraph" style="text-align: center"></p><h2 class="bb_tag" >The Ultimate Prison Sandbox!</h2><p class="bb_paragraph" style="text-align: center"></p><p class="bb_paragraph" style="text-align: center"></p><p class="bb_paragraph" >Risk it all to breakout from the toughest prisons in the world. Explore the biggest prisons yet, with multiple floors, roofs, vents and underground tunnels. </p><p class="bb_paragraph" >You’ll have to live by the prison rules, attending roll call, doing prison jobs and following strict routines; all the while secretly engineering your bid for freedom!</p><p class="bb_paragraph" >Your prison escape antics will take you from the frosty Fort Tundra, a train hurtling through the desert, and even to the final frontier!</p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/8d6a45a9afcad03bcd110829a2f1af86.poster.avif?t=1764006025" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/8d6a45a9afcad03bcd110829a2f1af86.webm?t=1764006025" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/8d6a45a9afcad03bcd110829a2f1af86.mp4?t=1764006025" type="video/mp4"></video></span></p><p class="bb_paragraph" ></p><h2 class="bb_tag" >Escape Team Assemble!</h2><p class="bb_paragraph" style="text-align: center"></p><p class="bb_paragraph" >Unite with up to 3 friends to create the ultimate escape crew and engineer the wildest escapes yet! Jump online or gather round on a couch to prepare for your sneaky adventures. By working together you’ll be able to create even more elaborate and daring plans.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Feeling competitive? Dive into the versus mode and show that you’ve got the skills to break out of any prison faster than your friends can. If all else fails, settle your rivalry in the court yard with a prison punch up!</p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/98388031cdad69468da481cf3c4414d4.poster.avif?t=1764006025" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/98388031cdad69468da481cf3c4414d4.webm?t=1764006025" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/98388031cdad69468da481cf3c4414d4.mp4?t=1764006025" type="video/mp4"></video></span></p><h2 class="bb_tag" >Create YOUR Con!</h2><p class="bb_paragraph" style="text-align: center"></p><p class="bb_paragraph" >It’s time to make your prisoner truly yours. Choose from a massive array of customisations to make your character unique to you. It’s important to look stylish whilst you mastermind your escape.</p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ea477d702ba18b7f0170e021fbf3debc.poster.avif?t=1764006025" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ea477d702ba18b7f0170e021fbf3debc.webm?t=1764006025" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ea477d702ba18b7f0170e021fbf3debc.mp4?t=1764006025" type="video/mp4"></video></span></p><p class="bb_paragraph" ></p><h2 class="bb_tag" >Craft your Escape!</h2><p class="bb_paragraph" style="text-align: center"></p><p class="bb_paragraph" >Being in prison forces you to be creative and work with the limited tools at your disposal. You’ll have to combine everyday objects like soap and socks to craft new weapons and tools to help you achieve your goal. Steal forks from the cafeteria to chip a tunnel in your room, and craft a poster from magazines and duct tape to hide the evidence. You’ll soon learn that duct tape solves (almost) everything!</p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/212710c80c07f04e74548f7f70d3cb92.poster.avif?t=1764006025" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/212710c80c07f04e74548f7f70d3cb92.webm?t=1764006025" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/212710c80c07f04e74548f7f70d3cb92.mp4?t=1764006025" type="video/mp4"></video></span></p><h2 class="bb_tag" >Prepare for a fight! </h2><p class="bb_paragraph" style="text-align: center"></p><p class="bb_paragraph" >The Escapists 2 introduces a brand new combat system to make every prison brawl more exciting and interactive. You’ll have to block and tie together chains of attacks whilst strafing around your locked on targets to gain the upper hand in combat. Make sure your visit the gym first to build up those muscles!</p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/add31974b7f067b872f48d42a10eed0a.poster.avif?t=1764006025" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/add31974b7f067b872f48d42a10eed0a.webm?t=1764006025" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/add31974b7f067b872f48d42a10eed0a.mp4?t=1764006025" type="video/mp4"></video></span></p><p class="bb_paragraph" ></p><h2 class="bb_tag" >New ways to escape!</h2><p class="bb_paragraph" style="text-align: center"></p><p class="bb_paragraph" >As the prisons get tougher you’re going to have to get more creative with your escape plans. There’s a ton of options to tackle almost any prison escape. </p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/30cdacb05bf0f7d78bc4ea319f69f111.poster.avif?t=1764006025" width=616 height=220 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/30cdacb05bf0f7d78bc4ea319f69f111.webm?t=1764006025" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/30cdacb05bf0f7d78bc4ea319f69f111.mp4?t=1764006025" type="video/mp4"></video></span></p><h2 class="bb_tag" >Construct a clink!</h2><p class="bb_paragraph" style="text-align: center"></p><p class="bb_paragraph" >With the Prison Map Editor, it’s your turn to construct a prison worthy of housing the toughest inmates! It includes all the rooms, fences and guard dogs you need to build a prison that’s as hard as your imagination makes it – no duct-tape required.</p><p class="bb_paragraph" >You can pick up those prison blueprints and start crafting your own creations through the Custom Prisons option on the main menu, and when you’re ready you can show the world by sharing them through Steam Workshop where you can download subscribe to fellow architects’ lock-ups – all custom maps can be played either solo or in both local and online multiplayer!</p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba054e9dd714f9b75cb8839ac0807977.poster.avif?t=1764006025" width=616 height=252 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba054e9dd714f9b75cb8839ac0807977.webm?t=1764006025" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/extras/ba054e9dd714f9b75cb8839ac0807977.mp4?t=1764006025" type="video/mp4"></video></span></p><h2 class="bb_tag" >Features</h2><ul class="bb_ul"><li><p class="bb_paragraph" >11 Prisons</p></li><li><p class="bb_paragraph" >Up to 4 player co-operative and versus multiplayer</p></li><li><p class="bb_paragraph" > Drop-in/ Drop-out Online/Splitscreen multiplayer</p></li><li><p class="bb_paragraph" >Over 300 customisations</p></li><li><p class="bb_paragraph" >Multi-storey Prisons</p></li></ul><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/641990/d3f581763f9757c5800d5378b709bd96_avif" /></span></p>
 
 </details>
 
@@ -3088,18 +3774,18 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 
 ---
 
-<a id="43-raft-"></a>
-### 43. Raft 🪟
+<a id="47-raft-"></a>
+### 47. Raft 🪟
 <img src="./generated/SteamMD/covers/648800_header.jpg" alt="Raft" width="400px">
 
-- **Playtime:** 0 hours
-- **Price:** HK$ 119.00
-- **Price/hour:** -
+- **Playtime:** 1 hours
+- **Price:** $19.99
+- **Price/hour:** 19.99 € / h
 - **Creator:** [Redbeet Interactive](https://store.steampowered.com/search/?developer=Redbeet+Interactive)
 - **Developer:** Redbeet Interactive
 - **Publisher:** Axolot Games
 - **Genres:** Adventure, Indie, Simulation
-- **Achievements:** 0/104
+- **Achievements:** 6/104
 
 **Short description:** Raft™ throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!
 
@@ -3114,10 +3800,10 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 <summary>Achievements Details</summary>
 
 <table>
-<tr><td><img src='./generated/SteamMD/achievements/648800/Beginner_Builder_.jpg' width='32'></td><td>🟥</td><td>Beginner Builder!</td><td>Build 10 foundations.</td>
-<tr><td><img src='./generated/SteamMD/achievements/648800/Teamplay_.jpg' width='32'></td><td>🟥</td><td>Teamplay!</td><td>Team up with a friend in multiplayer.</td>
+<tr><td><img src='./generated/SteamMD/achievements/648800/Beginner_Builder_.jpg' width='32'></td><td>🟩</td><td>Beginner Builder!</td><td>Build 10 foundations.</td>
+<tr><td><img src='./generated/SteamMD/achievements/648800/Teamplay_.jpg' width='32'></td><td>🟩</td><td>Teamplay!</td><td>Team up with a friend in multiplayer.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Dinnertime_.jpg' width='32'></td><td>🟥</td><td>Dinnertime!</td><td>Craft and place a simple grill.</td>
-<tr><td><img src='./generated/SteamMD/achievements/648800/It_s_Better_Without_The_Salt_.jpg' width='32'></td><td>🟥</td><td>It's Better Without The Salt.</td><td>Craft and place a simple purifier.</td>
+<tr><td><img src='./generated/SteamMD/achievements/648800/It_s_Better_Without_The_Salt_.jpg' width='32'></td><td>🟩</td><td>It's Better Without The Salt.</td><td>Craft and place a simple purifier.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Aye_Aye_Captain_.jpg' width='32'></td><td>🟥</td><td>Aye Aye Captain!</td><td>Place a sail and a stationary anchor on the same raft.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Hoarder_.jpg' width='32'></td><td>🟥</td><td>Hoarder!</td><td>Have 20 storages on the same raft.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Farmer_.jpg' width='32'></td><td>🟥</td><td>Farmer!</td><td>Have 20 cropplots on the same raft.</td>
@@ -3140,7 +3826,7 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 <tr><td><img src='./generated/SteamMD/achievements/648800/An_Ocean_Cemetery_.jpg' width='32'></td><td>🟥</td><td>An Ocean Cemetery!</td><td></td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Is_There_A_Utopia_.jpg' width='32'></td><td>🟥</td><td>Is There A Utopia?</td><td></td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Exploring_The_depths_.jpg' width='32'></td><td>🟥</td><td>Exploring The depths!</td><td></td>
-<tr><td><img src='./generated/SteamMD/achievements/648800/Beginner_Survivor_.jpg' width='32'></td><td>🟥</td><td>Beginner Survivor!</td><td>Survive 1 day.</td>
+<tr><td><img src='./generated/SteamMD/achievements/648800/Beginner_Survivor_.jpg' width='32'></td><td>🟩</td><td>Beginner Survivor!</td><td>Survive 1 day.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Intermediate_Survivor_.jpg' width='32'></td><td>🟥</td><td>Intermediate Survivor!</td><td>Survive 7 days.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Expert_Survivor_.jpg' width='32'></td><td>🟥</td><td>Expert Survivor!</td><td>Survive 30 days.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Master_Survivor_.jpg' width='32'></td><td>🟥</td><td>Master Survivor!</td><td>Survive 365 days.</td>
@@ -3151,13 +3837,13 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 <tr><td><img src='./generated/SteamMD/achievements/648800/Intermediate_Screecher_Hunter_.jpg' width='32'></td><td>🟥</td><td>Intermediate Screecher Hunter!</td><td>Kill 10 Screechers.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Expert_Screecher_Hunter_.jpg' width='32'></td><td>🟥</td><td>Expert Screecher Hunter!</td><td>Kill 50 Screechers.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Not_A_Great_Landing_.jpg' width='32'></td><td>🟥</td><td>Not A Great Landing!</td><td></td>
-<tr><td><img src='./generated/SteamMD/achievements/648800/Large_Landmass_Ahoy_.jpg' width='32'></td><td>🟥</td><td>Large Landmass Ahoy!</td><td>Discover a large island.</td>
+<tr><td><img src='./generated/SteamMD/achievements/648800/Large_Landmass_Ahoy_.jpg' width='32'></td><td>🟩</td><td>Large Landmass Ahoy!</td><td>Discover a large island.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/A_More_Complex_Concoction_.jpg' width='32'></td><td>🟥</td><td>A More Complex Concoction!</td><td>Cook a meal by following a recipe.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Beginner_Wrangler_.jpg' width='32'></td><td>🟥</td><td>Beginner Wrangler!</td><td>Capture 1 animal.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Intermediate_Wrangler_.jpg' width='32'></td><td>🟥</td><td>Intermediate Wrangler!</td><td>Capture 10 animals.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Expert_Wrangler_.jpg' width='32'></td><td>🟥</td><td>Expert Wrangler!</td><td>Capture 50 animals.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Some_Look_Different_.jpg' width='32'></td><td>🟥</td><td>Some Look Different!</td><td>Capture a rare animal.</td>
-<tr><td><img src='./generated/SteamMD/achievements/648800/Beginner_Warthog_Hunter_.jpg' width='32'></td><td>🟥</td><td>Beginner Warthog Hunter!</td><td>Kill 1 Warthog.</td>
+<tr><td><img src='./generated/SteamMD/achievements/648800/Beginner_Warthog_Hunter_.jpg' width='32'></td><td>🟩</td><td>Beginner Warthog Hunter!</td><td>Kill 1 Warthog.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Intermediate_Warthog_Hunter_.jpg' width='32'></td><td>🟥</td><td>Intermediate Warthog Hunter!</td><td>Kill 10 Warthogs.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/Expert_Warthog_Hunter_.jpg' width='32'></td><td>🟥</td><td>Expert Warthog Hunter!</td><td>Kill 50 Warthogs.</td>
 <tr><td><img src='./generated/SteamMD/achievements/648800/O_Captain__My_Captain__.jpg' width='32'></td><td>🟥</td><td>O Captain! My Captain!?</td><td></td>
@@ -3254,8 +3940,8 @@ Drive massive trains through beautiful, challenging natural environments. Make d
 
 ---
 
-<a id="44-zomborg-"></a>
-### 44. Zomborg 🪟
+<a id="48-zomborg-"></a>
+### 48. Zomborg 🪟
 <img src="./generated/SteamMD/covers/729720_header.jpg" alt="Zomborg" width="400px">
 
 - **Playtime:** 0 hours
@@ -3328,8 +4014,8 @@ It is the year 2000, and the United Nations has established several quarantine z
 
 ---
 
-<a id="45-subnautica-below-zero-"></a>
-### 45. Subnautica: Below Zero 🪟 🍏
+<a id="49-subnautica-below-zero-"></a>
+### 49. Subnautica: Below Zero 🪟 🍏
 <img src="./generated/SteamMD/covers/848450_header.jpg" alt="Subnautica: Below Zero" width="400px">
 
 - **Playtime:** 0 hours
@@ -3388,12 +4074,12 @@ Below Zero is an underwater adventure game set on an alien ocean world. It is th
 
 ---
 
-<a id="46-oneshift-"></a>
-### 46. OneShift 🪟
+<a id="50-oneshift-"></a>
+### 50. OneShift 🪟
 <img src="./generated/SteamMD/covers/862740_header.jpg" alt="OneShift" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** Free
+- **Price:** $0.69
 - **Price/hour:** -
 - **Creator:** [Mazen Games](https://store.steampowered.com/search/?developer=Mazen+Games)
 - **Developer:** Mazen Games
@@ -3406,7 +4092,7 @@ Below Zero is an underwater adventure game set on an alien ocean world. It is th
 <details>
 <summary>Detailed description</summary>
 
-<span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/862740/238b478cb574b10049b5d3c7b8b5c5e2_avif" /></span><br><ul class="bb_ul"><li> Shift through the worlds and reach the blue cube (or more of them!)<br></li><li> Enjoy in 90 different levels with mechanic of shifting and rotating worlds!<br></li><li> Worlds consist of all kinds of different cuboids such as jump cuboids which boost you in the air, teleport cuboids to teleport you from point A to point B, red kill cuboids that will...well, kill you!<br></li><li> Exploding bombs that explode on a set timer which you can use in your favor to boost you somewhere! And let's leave some things out, for you to find out in the game! :)</li></ul><br><u>50 levels with only shifting worlds mechanic!</u><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/862740/ezgif_com-video-to-gif_gif_JPG" /></span>  <span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/9dd0a27c00cb012913f479d983d4c87b.poster.avif?t=1762433498" width=300 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/9dd0a27c00cb012913f479d983d4c87b.webm?t=1762433498" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/9dd0a27c00cb012913f479d983d4c87b.mp4?t=1762433498" type="video/mp4"></video></span><br><br><u>30 levels where you have the ability to shift <strong>and</strong> rotate worlds!</u><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/c4ab6abeda40b6bda3663482fc887925.poster.avif?t=1762433498" width=300 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/c4ab6abeda40b6bda3663482fc887925.webm?t=1762433498" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/c4ab6abeda40b6bda3663482fc887925.mp4?t=1762433498" type="video/mp4"></video></span>  <span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/3dc9020a2e22654152eff9d2add29b5b.poster.avif?t=1762433498" width=300 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/3dc9020a2e22654152eff9d2add29b5b.webm?t=1762433498" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/3dc9020a2e22654152eff9d2add29b5b.mp4?t=1762433498" type="video/mp4"></video></span><br><br>and <strong>10</strong> <strong>BONUS</strong> levels which are filled with <i>insanity</i> - <u>we'll let you discover them yourself!</u><h2 class="bb_tag" ><strong>OTHER NOTABLE STUFF</strong></h2><ul class="bb_ul"><li> Simplistic yet fulfilling gameplay with tight controls, plays well with a controller or a keyboard.<br></li><li> Optimized and not demanding on your computer with simple but stylized graphics!<br></li><li> Over 100 achievements for you to unlock!<br></li><li> Have fun playing with your favorite controller, as the OneShift has <strong>full controller support</strong> and Steam Cloud so your save games are <strong>safe</strong>!</li></ul><h2 class="bb_tag" ><strong>6 PLAYABLE CHARACTERS</strong></h2><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/862740/a84c1793d5178a2d3d5e66e04146be90_avif" /></span><br><br>Supports 10 languages: <br><ul class="bb_ul"><li>English<br></li><li>French<br></li><li>Italian<br></li><li>German<br></li><li>Spanish<br></li><li>Polish<br></li><li>Portuguese<br></li><li>Russian<br></li><li>Simplified Chinese<br></li><li>Croatian</li></ul>
+<span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/862740/238b478cb574b10049b5d3c7b8b5c5e2_avif" /></span><br><ul class="bb_ul"><li> Shift through the worlds and reach the blue cube (or more of them!)<br></li><li> Enjoy in 90 different levels with mechanic of shifting and rotating worlds!<br></li><li> Worlds consist of all kinds of different cuboids such as jump cuboids which boost you in the air, teleport cuboids to teleport you from point A to point B, red kill cuboids that will...well, kill you!<br></li><li> Exploding bombs that explode on a set timer which you can use in your favor to boost you somewhere! And let's leave some things out, for you to find out in the game! :)</li></ul><br><u>50 levels with only shifting worlds mechanic!</u><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/862740/ezgif_com-video-to-gif_gif_JPG" /></span>  <span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/9dd0a27c00cb012913f479d983d4c87b.poster.avif?t=1766934918" width=300 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/9dd0a27c00cb012913f479d983d4c87b.webm?t=1766934918" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/9dd0a27c00cb012913f479d983d4c87b.mp4?t=1766934918" type="video/mp4"></video></span><br><br><u>30 levels where you have the ability to shift <strong>and</strong> rotate worlds!</u><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/c4ab6abeda40b6bda3663482fc887925.poster.avif?t=1766934918" width=300 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/c4ab6abeda40b6bda3663482fc887925.webm?t=1766934918" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/c4ab6abeda40b6bda3663482fc887925.mp4?t=1766934918" type="video/mp4"></video></span>  <span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/3dc9020a2e22654152eff9d2add29b5b.poster.avif?t=1766934918" width=300 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/3dc9020a2e22654152eff9d2add29b5b.webm?t=1766934918" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862740/extras/3dc9020a2e22654152eff9d2add29b5b.mp4?t=1766934918" type="video/mp4"></video></span><br><br>and <strong>10</strong> <strong>BONUS</strong> levels which are filled with <i>insanity</i> - <u>we'll let you discover them yourself!</u><h2 class="bb_tag" ><strong>OTHER NOTABLE STUFF</strong></h2><ul class="bb_ul"><li> Simplistic yet fulfilling gameplay with tight controls, plays well with a controller or a keyboard.<br></li><li> Optimized and not demanding on your computer with simple but stylized graphics!<br></li><li> Over 100 achievements for you to unlock!<br></li><li> Have fun playing with your favorite controller, as the OneShift has <strong>full controller support</strong> and Steam Cloud so your save games are <strong>safe</strong>!</li></ul><h2 class="bb_tag" ><strong>6 PLAYABLE CHARACTERS</strong></h2><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/862740/a84c1793d5178a2d3d5e66e04146be90_avif" /></span><br><br>Supports 10 languages: <br><ul class="bb_ul"><li>English<br></li><li>French<br></li><li>Italian<br></li><li>German<br></li><li>Spanish<br></li><li>Polish<br></li><li>Portuguese<br></li><li>Russian<br></li><li>Simplified Chinese<br></li><li>Croatian</li></ul>
 
 </details>
 
@@ -3562,12 +4248,12 @@ Below Zero is an underwater adventure game set on an alien ocean world. It is th
 
 ---
 
-<a id="47-fantasy-general-ii-"></a>
-### 47. Fantasy General II 🪟
+<a id="51-fantasy-general-ii-"></a>
+### 51. Fantasy General II 🪟
 <img src="./generated/SteamMD/covers/1025440_header.jpg" alt="Fantasy General II" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** $39.99
+- **Price:** $7.99
 - **Price/hour:** -
 - **Creator:** [Owned by Gravity](https://store.steampowered.com/search/?developer=Owned+by+Gravity)
 - **Developer:** Owned by Gravity
@@ -3686,8 +4372,8 @@ Below Zero is an underwater adventure game set on an alien ocean world. It is th
 
 ---
 
-<a id="48-ultimate-zombie-defense-"></a>
-### 48. Ultimate Zombie Defense 🪟 🍏
+<a id="52-ultimate-zombie-defense-"></a>
+### 52. Ultimate Zombie Defense 🪟 🍏
 <img src="./generated/SteamMD/covers/1035510_header.jpg" alt="Ultimate Zombie Defense" width="400px">
 
 - **Playtime:** 0 hours
@@ -3749,8 +4435,8 @@ Ultimate Zombie Defense is a Top-down Co-op Survival Horror set in the suburbs o
 
 ---
 
-<a id="49-hydroneer-"></a>
-### 49. Hydroneer 🪟
+<a id="53-hydroneer-"></a>
+### 53. Hydroneer 🪟
 <img src="./generated/SteamMD/covers/1106840_header.jpg" alt="Hydroneer" width="400px">
 
 - **Playtime:** 0 hours
@@ -3878,8 +4564,8 @@ Hydroneer is a mining sandbox game where you dig for gold and other resources to
 
 ---
 
-<a id="50-tell-me-why-"></a>
-### 50. Tell Me Why 🪟
+<a id="54-tell-me-why-"></a>
+### 54. Tell Me Why 🪟
 <img src="./generated/SteamMD/covers/1180660_header.jpg" alt="Tell Me Why" width="400px">
 
 - **Playtime:** 0 hours
@@ -3952,8 +4638,72 @@ Hydroneer is a mining sandbox game where you dig for gold and other resources to
 
 ---
 
-<a id="51-the-sims-4-"></a>
-### 51. The Sims™ 4 🪟
+<a id="55-one-gun-guy-"></a>
+### 55. One Gun Guy 🪟
+<img src="./generated/SteamMD/covers/1200580_header.jpg" alt="One Gun Guy" width="400px">
+
+- **Playtime:** 0 hours
+- **Price:** $0.69
+- **Price/hour:** -
+- **Creator:** [Ritual Games](https://store.steampowered.com/search/?developer=Ritual+Games)
+- **Developer:** Ritual Games
+- **Publisher:** GrabTheGames
+- **Genres:** Action, Indie
+- **Achievements:** 0/19
+
+**Short description:** One Gun Guy is a straight forward no nonsense action platformer, one giant level littered with player upgrades, hazards to tackle, enemies to destroy, a boss to kill, and multiple difficulty settings.
+
+<details>
+<summary>Detailed description</summary>
+
+<h1>💥 One Gun Guy Now Has Steam Trading Cards! 🕹️</h1><p><p class="bb_paragraph" >Hey everyone!</p><p class="bb_paragraph" >We’ve got some awesome news — <strong>One Gun Guy</strong> now features <strong>Steam Trading Cards</strong>! Whether you're gunning your way through waves of enemies or just soaking in the retro challenge, you can now unlock some slick Steam goodies along the way.</p><p class="bb_paragraph" >What’s new:</p><ul class="bb_ul"><li><p class="bb_paragraph" >🔫 <strong>Trading Cards</strong> featuring crisp pixel art from the game</p></li><li><p class="bb_paragraph" >🏅 <strong>Badges</strong> to level up your Steam profile</p></li><li><p class="bb_paragraph" >🖼️ <strong>Profile Backgrounds</strong> inspired by One Gun Guy’s retro world</p></li><li><p class="bb_paragraph" >😎 <strong>Emoticons</strong> for flexing your one-gun status in chat</p></li></ul><p class="bb_paragraph" >If you’ve already been blasting through the game, your cards should start dropping now. Time to collect, trade, and craft your way to some classic arcade flair!</p><p class="bb_paragraph" >Thanks for playing, and keep that trigger finger ready. There’s only one gun... but that’s all you need. 💪</p></p><br><h1>About the Game</h1><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200580/extras/cc22155c642dbeaff694e9c35debbf96.poster.avif?t=1766934883" width=550 height=300 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200580/extras/cc22155c642dbeaff694e9c35debbf96.webm?t=1766934883" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200580/extras/cc22155c642dbeaff694e9c35debbf96.mp4?t=1766934883" type="video/mp4"></video></span><br><br><strong>One Gun Guy</strong> is a straight forward no nonsense action platformer, <strong>one giant level</strong> littered with player <strong>upgrades</strong>, hazards to tackle, enemies to destroy and a boss to kill. After conquering the base difficulty take on this precision platformer's <strong>Hard Mode</strong> in your underwear!<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1200580/414415a8063b88793c6d009cb6497d48_avif" /></span><br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200580/extras/6c840ddc14cb27a3fc90590a644e0189.poster.avif?t=1766934883" width=550 height=300 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200580/extras/6c840ddc14cb27a3fc90590a644e0189.webm?t=1766934883" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200580/extras/6c840ddc14cb27a3fc90590a644e0189.mp4?t=1766934883" type="video/mp4"></video></span>
+
+</details>
+
+<details>
+<summary>Achievements Details</summary>
+
+<table>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/I_win_.jpg' width='32'></td><td>🟥</td><td>I win!</td><td>Beat the game on normal difficulty.</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/I_really_win_.jpg' width='32'></td><td>🟥</td><td>I really win!</td><td>Beat the game on hard mode.</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Immortal_.jpg' width='32'></td><td>🟥</td><td>Immortal!</td><td>Beat the game without dying on normal difficulty.</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Godly_.jpg' width='32'></td><td>🟥</td><td>Godly!</td><td>Beat the game without dying on hard mode.</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Elusive_.jpg' width='32'></td><td>🟥</td><td>Elusive!</td><td>Beat the game without taking damage on normal mode.</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Moment_of_greatness_.jpg' width='32'></td><td>🟥</td><td>Moment of greatness!</td><td>Power up to invincibility.</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Small_change_.jpg' width='32'></td><td>🟥</td><td>Small change!</td><td>Collect 50 coins.</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Lunch_money_.jpg' width='32'></td><td>🟥</td><td>Lunch money!</td><td>Collect 150 coins.</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Buy_me_dinner_.jpg' width='32'></td><td>🟥</td><td>Buy me dinner!</td><td>Collect 250 coins.</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Five_star_dining_.jpg' width='32'></td><td>🟥</td><td>Five star dining!</td><td>Collect 500 coins.</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Explorer.jpg' width='32'></td><td>🟥</td><td>Explorer</td><td>You found a hidden area!</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Traveller.jpg' width='32'></td><td>🟥</td><td>Traveller</td><td>You found a hidden area!</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Discoverer.jpg' width='32'></td><td>🟥</td><td>Discoverer</td><td>You found a hidden area!</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Voyager.jpg' width='32'></td><td>🟥</td><td>Voyager</td><td>You found a hidden area!</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Rambler.jpg' width='32'></td><td>🟥</td><td>Rambler</td><td>You found a hidden area!</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Globetrotter.jpg' width='32'></td><td>🟥</td><td>Globetrotter</td><td>You found a hidden area!</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Scout.jpg' width='32'></td><td>🟥</td><td>Scout</td><td>You found a hidden area!</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Pioneer.jpg' width='32'></td><td>🟥</td><td>Pioneer</td><td>You found a hidden area!</td>
+<tr><td><img src='./generated/SteamMD/achievements/1200580/Adventurer.jpg' width='32'></td><td>🟥</td><td>Adventurer</td><td>You found a hidden area!</td>
+
+</table>
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/1200580/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1200580/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1200580/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1200580/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1200580/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1200580/6.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1200580/7.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+
+</details>
+
+---
+
+<a id="56-the-sims-4-"></a>
+### 56. The Sims™ 4 🪟
 <img src="./generated/SteamMD/covers/1222670_header.jpg" alt="The Sims™ 4" width="400px">
 
 - **Playtime:** 3 hours
@@ -3970,7 +4720,7 @@ Hydroneer is a mining sandbox game where you dig for gold and other resources to
 <details>
 <summary>Detailed description</summary>
 
-<h1>The Sims is on Discord!</h1><p></p><br><h1>About the Game</h1>Unleash your imagination and create a unique world of Sims that’s an expression of you. Download for free, and customize every detail from Sims to homes and much more. Choose how Sims look, act, and dress, then decide how they’ll live out each day. Design and build incredible homes for every family, then decorate with your favorite furnishings and décor. Travel to different neighborhoods where you can meet other Sims and learn about their lives. Discover beautiful locations with distinctive environments and go on spontaneous adventures. Manage the ups and downs of Sims’ everyday lives, and see what happens when you play out scenarios from your own real life. Tell your stories your way while developing relationships, pursuing careers and life aspirations, and immersing yourself in this extraordinary game, where the possibilities are endless.<br><br><strong>Download for free</strong> — The base game of The Sims™ 4 is free to download. Get a plethora of options for building homes, styling Sims, and customizing their personalities. Craft their life stories while exploring vibrant worlds and discovering more ways of being you.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/32632444436cc4e53f853e8e5f4010f9.poster.avif?t=1760029137" width=610 height=342 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/32632444436cc4e53f853e8e5f4010f9.webm?t=1760029137" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/32632444436cc4e53f853e8e5f4010f9.mp4?t=1760029137" type="video/mp4"></video></span><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/21214f9d3a64eb2ff80ba86d76ded647.poster.avif?t=1760029137" width=610 height=342 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/21214f9d3a64eb2ff80ba86d76ded647.webm?t=1760029137" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/21214f9d3a64eb2ff80ba86d76ded647.mp4?t=1760029137" type="video/mp4"></video></span><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e83e446ab7181b21cf6665757899d9e0.poster.avif?t=1760029137" width=610 height=342 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e83e446ab7181b21cf6665757899d9e0.webm?t=1760029137" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e83e446ab7181b21cf6665757899d9e0.mp4?t=1760029137" type="video/mp4"></video></span><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e1b83641d3e1e64f2b3e800ebca9e625.poster.avif?t=1760029137" width=610 height=342 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e1b83641d3e1e64f2b3e800ebca9e625.webm?t=1760029137" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e1b83641d3e1e64f2b3e800ebca9e625.mp4?t=1760029137" type="video/mp4"></video></span><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/604cc8efec678aeda4d286a1482e5899.poster.avif?t=1760029137" width=610 height=342 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/604cc8efec678aeda4d286a1482e5899.webm?t=1760029137" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/604cc8efec678aeda4d286a1482e5899.mp4?t=1760029137" type="video/mp4"></video></span><br><br><strong>Get more with EA Play</strong> — EA Play members can expand their career possibilities with The Sims 4 Get to Work Expansion Pack.
+<h1>The Sims is on Discord!</h1><p></p><br><h1>About the Game</h1>Unleash your imagination and create a unique world of Sims that’s an expression of you. Download for free, and customize every detail from Sims to homes and much more. Choose how Sims look, act, and dress, then decide how they’ll live out each day. Design and build incredible homes for every family, then decorate with your favorite furnishings and décor. Travel to different neighborhoods where you can meet other Sims and learn about their lives. Discover beautiful locations with distinctive environments and go on spontaneous adventures. Manage the ups and downs of Sims’ everyday lives, and see what happens when you play out scenarios from your own real life. Tell your stories your way while developing relationships, pursuing careers and life aspirations, and immersing yourself in this extraordinary game, where the possibilities are endless.<br><br><strong>Download for free</strong> — The base game of The Sims™ 4 is free to download. Get a plethora of options for building homes, styling Sims, and customizing their personalities. Craft their life stories while exploring vibrant worlds and discovering more ways of being you.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/32632444436cc4e53f853e8e5f4010f9.poster.avif?t=1768493570" width=610 height=342 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/32632444436cc4e53f853e8e5f4010f9.webm?t=1768493570" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/32632444436cc4e53f853e8e5f4010f9.mp4?t=1768493570" type="video/mp4"></video></span><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/21214f9d3a64eb2ff80ba86d76ded647.poster.avif?t=1768493570" width=610 height=342 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/21214f9d3a64eb2ff80ba86d76ded647.webm?t=1768493570" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/21214f9d3a64eb2ff80ba86d76ded647.mp4?t=1768493570" type="video/mp4"></video></span><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e83e446ab7181b21cf6665757899d9e0.poster.avif?t=1768493570" width=610 height=342 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e83e446ab7181b21cf6665757899d9e0.webm?t=1768493570" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e83e446ab7181b21cf6665757899d9e0.mp4?t=1768493570" type="video/mp4"></video></span><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e1b83641d3e1e64f2b3e800ebca9e625.poster.avif?t=1768493570" width=610 height=342 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e1b83641d3e1e64f2b3e800ebca9e625.webm?t=1768493570" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e1b83641d3e1e64f2b3e800ebca9e625.mp4?t=1768493570" type="video/mp4"></video></span><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/604cc8efec678aeda4d286a1482e5899.poster.avif?t=1768493570" width=610 height=342 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/604cc8efec678aeda4d286a1482e5899.webm?t=1768493570" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/604cc8efec678aeda4d286a1482e5899.mp4?t=1768493570" type="video/mp4"></video></span><br><br><strong>Get more with EA Play</strong> — EA Play members can expand their career possibilities with The Sims 4 Get to Work Expansion Pack.
 
 </details>
 
@@ -3987,8 +4737,8 @@ Hydroneer is a mining sandbox game where you dig for gold and other resources to
 
 ---
 
-<a id="52-bloons-td-battles-2-"></a>
-### 52. Bloons TD Battles 2 🪟 🍏
+<a id="57-bloons-td-battles-2-"></a>
+### 57. Bloons TD Battles 2 🪟 🍏
 <img src="./generated/SteamMD/covers/1276390_header.jpg" alt="Bloons TD Battles 2" width="400px">
 
 - **Playtime:** 0 hours
@@ -4005,7 +4755,7 @@ Hydroneer is a mining sandbox game where you dig for gold and other resources to
 <details>
 <summary>Detailed description</summary>
 
-Battle through a series of challenging Arenas and prove that you have what it takes to enter the fabled Hall of Masters and seize your glory!<br><br>From the creators of Bloons TD 6 comes a brand new installment of the top-rated head-to-head tower defense game. Gather your Hero, choose your team of powerful Monkey Towers, and prepare to battle one on one against other players and relentless waves of Bloons!<h2 class="bb_tag" ><strong>Competitive Tower Defense!</strong></h2><ul class="bb_ul"><li> Outwit and overwhelm your opponent in intense head-to-head play<br></li><li> Balance the strength of your defenses while preparing a Bloon offensive that blitzes your opponent<br></li><li> Countless strategic combinations can lead you to victory</li></ul><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/ccb756ae13fc49da686025f3ec0e07ef.poster.avif?t=1761834086" width=616 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/ccb756ae13fc49da686025f3ec0e07ef.webm?t=1761834086" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/ccb756ae13fc49da686025f3ec0e07ef.mp4?t=1761834086" type="video/mp4"></video></span><h2 class="bb_tag" ><strong>Skill Based Gameplay!</strong></h2><ul class="bb_ul"><li> Match with players of similar rank as you work your way through 9 unique arenas<br></li><li> Reach Hall of Masters to battle the best on a dynamic elo-based leaderboard<br></li><li> Earn and display unique badges each season based on progress</li></ul><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/b53cc18e22e37a7ded93ffeec812041f.poster.avif?t=1761834086" width=616 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/b53cc18e22e37a7ded93ffeec812041f.webm?t=1761834086" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/b53cc18e22e37a7ded93ffeec812041f.mp4?t=1761834086" type="video/mp4"></video></span><h2 class="bb_tag" ><strong>Lock and Load!</strong></h2><ul class="bb_ul"><li> Select from familiar Heroes and brand new Alts with unique upgrades<br></li><li> 22 Monkey Towers with 15 unique upgrades each to customize your build<br></li><li> Brand new Bloon send system optimizes economy building and attacks</li></ul><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/d03cf30c55b9b5403f9aad44ff7c6cfb.poster.avif?t=1761834086" width=616 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/d03cf30c55b9b5403f9aad44ff7c6cfb.webm?t=1761834086" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/d03cf30c55b9b5403f9aad44ff7c6cfb.mp4?t=1761834086" type="video/mp4"></video></span><h2 class="bb_tag" ><strong>Build Your Bling!</strong></h2><ul class="bb_ul"><li> Win in style as you customise your loadout from hundreds of cosmetic items<br></li><li> Flex with unique animations, emotes, bloon skins, and more<br></li><li> New content added every season!</li></ul><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/0f0a2981d408fabc9828b6f97b4d9dad.poster.avif?t=1761834086" width=616 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/0f0a2981d408fabc9828b6f97b4d9dad.webm?t=1761834086" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/0f0a2981d408fabc9828b6f97b4d9dad.mp4?t=1761834086" type="video/mp4"></video></span><br><br>And of course tons of content and new feature updates are planned to make Bloons TD Battles 2 even more awesomer. What are you waiting for? It’s time to Battle!
+Battle through a series of challenging Arenas and prove that you have what it takes to enter the fabled Hall of Masters and seize your glory!<br><br>From the creators of Bloons TD 6 comes a brand new installment of the top-rated head-to-head tower defense game. Gather your Hero, choose your team of powerful Monkey Towers, and prepare to battle one on one against other players and relentless waves of Bloons!<h2 class="bb_tag" ><strong>Competitive Tower Defense!</strong></h2><ul class="bb_ul"><li> Outwit and overwhelm your opponent in intense head-to-head play<br></li><li> Balance the strength of your defenses while preparing a Bloon offensive that blitzes your opponent<br></li><li> Countless strategic combinations can lead you to victory</li></ul><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/ccb756ae13fc49da686025f3ec0e07ef.poster.avif?t=1769167633" width=616 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/ccb756ae13fc49da686025f3ec0e07ef.webm?t=1769167633" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/ccb756ae13fc49da686025f3ec0e07ef.mp4?t=1769167633" type="video/mp4"></video></span><h2 class="bb_tag" ><strong>Skill Based Gameplay!</strong></h2><ul class="bb_ul"><li> Match with players of similar rank as you work your way through 9 unique arenas<br></li><li> Reach Hall of Masters to battle the best on a dynamic elo-based leaderboard<br></li><li> Earn and display unique badges each season based on progress</li></ul><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/b53cc18e22e37a7ded93ffeec812041f.poster.avif?t=1769167633" width=616 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/b53cc18e22e37a7ded93ffeec812041f.webm?t=1769167633" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/b53cc18e22e37a7ded93ffeec812041f.mp4?t=1769167633" type="video/mp4"></video></span><h2 class="bb_tag" ><strong>Lock and Load!</strong></h2><ul class="bb_ul"><li> Select from familiar Heroes and brand new Alts with unique upgrades<br></li><li> 22 Monkey Towers with 15 unique upgrades each to customize your build<br></li><li> Brand new Bloon send system optimizes economy building and attacks</li></ul><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/d03cf30c55b9b5403f9aad44ff7c6cfb.poster.avif?t=1769167633" width=616 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/d03cf30c55b9b5403f9aad44ff7c6cfb.webm?t=1769167633" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/d03cf30c55b9b5403f9aad44ff7c6cfb.mp4?t=1769167633" type="video/mp4"></video></span><h2 class="bb_tag" ><strong>Build Your Bling!</strong></h2><ul class="bb_ul"><li> Win in style as you customise your loadout from hundreds of cosmetic items<br></li><li> Flex with unique animations, emotes, bloon skins, and more<br></li><li> New content added every season!</li></ul><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/0f0a2981d408fabc9828b6f97b4d9dad.poster.avif?t=1769167633" width=616 height=180 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/0f0a2981d408fabc9828b6f97b4d9dad.webm?t=1769167633" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276390/extras/0f0a2981d408fabc9828b6f97b4d9dad.mp4?t=1769167633" type="video/mp4"></video></span><br><br>And of course tons of content and new feature updates are planned to make Bloons TD Battles 2 even more awesomer. What are you waiting for? It’s time to Battle!
 
 </details>
 
@@ -4022,8 +4772,8 @@ Battle through a series of challenging Arenas and prove that you have what it ta
 
 ---
 
-<a id="53-tmodloader-"></a>
-### 53. tModLoader 🪟 🍏 🐧
+<a id="58-tmodloader-"></a>
+### 58. tModLoader 🪟 🍏 🐧
 <img src="./generated/SteamMD/covers/1281930_header.jpg" alt="tModLoader" width="400px">
 
 - **Playtime:** 1 hours
@@ -4071,8 +4821,8 @@ Dig, Fight, and Build your way through the world of player-created mods on Terra
 
 ---
 
-<a id="54-ampersat-"></a>
-### 54. Ampersat 🪟 🐧
+<a id="59-ampersat-"></a>
+### 59. Ampersat 🪟 🐧
 <img src="./generated/SteamMD/covers/1356040_header.jpg" alt="Ampersat" width="400px">
 
 - **Playtime:** 0 hours
@@ -4089,7 +4839,7 @@ Dig, Fight, and Build your way through the world of player-created mods on Terra
 <details>
 <summary>Detailed description</summary>
 
-Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sensibilities. A blend of influences from Gauntlet and Smash TV to Zelda and a dash of Angband, this is a handcrafted adventure with much appeal to fans of Roguelites. A labor of love from a solo developer, Ampersat distills some favorite childhood gaming experiences into a fresh, fun hybrid that sees you killing a lot of monsters, finding a lot of loot, freeing captured letters (um, what?) and growing from a world-weary warrior mage into a powerful smashing/blasting machine!<h2 class="bb_tag" >Main Features</h2><ul class="bb_ul"><li>More than 50 handcrafted levels, many with exploration and light puzzles<br></li><li>Optional endless procedural area<br></li><li>Original gameplay elements based around freeing and capturing letters<br></li><li>Flexible character progression with extensive skill tree<br></li><li>Hundreds of unique pieces of loot find, buy, sell and augment<br></li><li>Upgradeable town hub<br></li><li>Tackle stages in the order you choose<br></li><li>50 unique creature types with individual AI, 10 fiendish bosses <br></li><li>Drop-in local async co-op (and online using Steam Remote Play Together) - suitable for young players to team up with their parents</li></ul><br>You may notice the main character and enemies are ASCII letters - yes, this is an aesthetic throwback to the original Rogue games, and the blending of these with colorful 3D top-down environments was the idea that first spawned Ampersat. Likewise, Commodore 64 SID chip sound effects are used alongside real-world music for a distinctive experience. But just what is an &quot;ampersat?&quot; It's the leading contender for the official name of the @ symbol, of course!<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/257d3493b7566f4d5b2d19d5d15cd0c2.poster.avif?t=1758796413" width=640 height=360 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/257d3493b7566f4d5b2d19d5d15cd0c2.webm?t=1758796413" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/257d3493b7566f4d5b2d19d5d15cd0c2.mp4?t=1758796413" type="video/mp4"></video></span><h2 class="bb_tag" >Overview</h2><br>Gentlheim has been invaded by Lord Z, who has surrounded the village with 5 extraplanar towers and the dungeons beneath, filled with evil creatures. Even worse, he has stolen language itself from the townspeople! As the warrior mage Ampersat, you must venture deep into the dungeons and high above the land in the treacherous towers, defeat countless minions and restore language to Gentlheim so the townsfolk can communicate properly and help you defeat Lord Z himself. <br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/33638c09105ae304c3b2843fa824123a.poster.avif?t=1758796413" width=600 height=336 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/33638c09105ae304c3b2843fa824123a.webm?t=1758796413" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/33638c09105ae304c3b2843fa824123a.mp4?t=1758796413" type="video/mp4"></video></span><h2 class="bb_tag" >Gentlheim</h2><br>Gentlheim has shops to buy and sell goods; an Inn to heal up, level up, and stash gold to retrieve after death; and a deep Well leading to randomly generated procedural levels. There are various structures you can pay to upgrade and, as language returns to the village, townsfolk who may need something... Gentlheim hides a few surprises for the inquisitive gamer and provides a hub area to approach different stages in any order you like, or revisit levels you’ve already beaten.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/f9fcadb87862bfab0b5b996faa7a510f.poster.avif?t=1758796413" width=600 height=336 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/f9fcadb87862bfab0b5b996faa7a510f.webm?t=1758796413" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/f9fcadb87862bfab0b5b996faa7a510f.mp4?t=1758796413" type="video/mp4"></video></span><br><br>The Well is where the “roguish” aesthetics are turned up to 11, providing short, sharp, loot-gathering deep delves once you repair it. There’s an old rumor that something very special is buried at the bottom of the well… but no one has ever reached those depths.<h2 class="bb_tag" >Co-op</h2><br>Ampersat’s async co-op is true drop-in, drop-out at any time. The second player controls a fairy that hovers around Ampersat and also launches attacks. Will you trust them with your best spell? No? They might steal it anyway... While the fairy’s shots aren't as powerful and contribute to overheating, it has the huge advantage of being invulnerable. The perfect partner... if you can get along.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/827bbb48f618a98841085e362117e2ca.poster.avif?t=1758796413" width=598 height=336 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/827bbb48f618a98841085e362117e2ca.webm?t=1758796413" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/827bbb48f618a98841085e362117e2ca.mp4?t=1758796413" type="video/mp4"></video></span>
+Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sensibilities. A blend of influences from Gauntlet and Smash TV to Zelda and a dash of Angband, this is a handcrafted adventure with much appeal to fans of Roguelites. A labor of love from a solo developer, Ampersat distills some favorite childhood gaming experiences into a fresh, fun hybrid that sees you killing a lot of monsters, finding a lot of loot, freeing captured letters (um, what?) and growing from a world-weary warrior mage into a powerful smashing/blasting machine!<h2 class="bb_tag" >Main Features</h2><ul class="bb_ul"><li>More than 50 handcrafted levels, many with exploration and light puzzles<br></li><li>Optional endless procedural area<br></li><li>Original gameplay elements based around freeing and capturing letters<br></li><li>Flexible character progression with extensive skill tree<br></li><li>Hundreds of unique pieces of loot find, buy, sell and augment<br></li><li>Upgradeable town hub<br></li><li>Tackle stages in the order you choose<br></li><li>50 unique creature types with individual AI, 10 fiendish bosses <br></li><li>Drop-in local async co-op (and online using Steam Remote Play Together) - suitable for young players to team up with their parents</li></ul><br>You may notice the main character and enemies are ASCII letters - yes, this is an aesthetic throwback to the original Rogue games, and the blending of these with colorful 3D top-down environments was the idea that first spawned Ampersat. Likewise, Commodore 64 SID chip sound effects are used alongside real-world music for a distinctive experience. But just what is an &quot;ampersat?&quot; It's the leading contender for the official name of the @ symbol, of course!<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/257d3493b7566f4d5b2d19d5d15cd0c2.poster.avif?t=1766932973" width=640 height=360 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/257d3493b7566f4d5b2d19d5d15cd0c2.webm?t=1766932973" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/257d3493b7566f4d5b2d19d5d15cd0c2.mp4?t=1766932973" type="video/mp4"></video></span><h2 class="bb_tag" >Overview</h2><br>Gentlheim has been invaded by Lord Z, who has surrounded the village with 5 extraplanar towers and the dungeons beneath, filled with evil creatures. Even worse, he has stolen language itself from the townspeople! As the warrior mage Ampersat, you must venture deep into the dungeons and high above the land in the treacherous towers, defeat countless minions and restore language to Gentlheim so the townsfolk can communicate properly and help you defeat Lord Z himself. <br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/33638c09105ae304c3b2843fa824123a.poster.avif?t=1766932973" width=600 height=336 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/33638c09105ae304c3b2843fa824123a.webm?t=1766932973" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/33638c09105ae304c3b2843fa824123a.mp4?t=1766932973" type="video/mp4"></video></span><h2 class="bb_tag" >Gentlheim</h2><br>Gentlheim has shops to buy and sell goods; an Inn to heal up, level up, and stash gold to retrieve after death; and a deep Well leading to randomly generated procedural levels. There are various structures you can pay to upgrade and, as language returns to the village, townsfolk who may need something... Gentlheim hides a few surprises for the inquisitive gamer and provides a hub area to approach different stages in any order you like, or revisit levels you’ve already beaten.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/f9fcadb87862bfab0b5b996faa7a510f.poster.avif?t=1766932973" width=600 height=336 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/f9fcadb87862bfab0b5b996faa7a510f.webm?t=1766932973" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/f9fcadb87862bfab0b5b996faa7a510f.mp4?t=1766932973" type="video/mp4"></video></span><br><br>The Well is where the “roguish” aesthetics are turned up to 11, providing short, sharp, loot-gathering deep delves once you repair it. There’s an old rumor that something very special is buried at the bottom of the well… but no one has ever reached those depths.<h2 class="bb_tag" >Co-op</h2><br>Ampersat’s async co-op is true drop-in, drop-out at any time. The second player controls a fairy that hovers around Ampersat and also launches attacks. Will you trust them with your best spell? No? They might steal it anyway... While the fairy’s shots aren't as powerful and contribute to overheating, it has the huge advantage of being invulnerable. The perfect partner... if you can get along.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/827bbb48f618a98841085e362117e2ca.poster.avif?t=1766932973" width=598 height=336 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/827bbb48f618a98841085e362117e2ca.webm?t=1766932973" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356040/extras/827bbb48f618a98841085e362117e2ca.mp4?t=1766932973" type="video/mp4"></video></span>
 
 </details>
 
@@ -4151,8 +4901,8 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 ---
 
-<a id="55-field-of-glory-ii-medieval-"></a>
-### 55. Field of Glory II: Medieval 🪟
+<a id="60-field-of-glory-ii-medieval-"></a>
+### 60. Field of Glory II: Medieval 🪟
 <img src="./generated/SteamMD/covers/1368870_header.jpg" alt="Field of Glory II: Medieval" width="400px">
 
 - **Playtime:** 0 hours
@@ -4214,13 +4964,13 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 ---
 
-<a id="56-zeepkist-"></a>
-### 56. Zeepkist 🪟
+<a id="61-zeepkist-"></a>
+### 61. Zeepkist 🪟
 <img src="./generated/SteamMD/covers/1440670_header.jpg" alt="Zeepkist" width="400px">
 
-- **Playtime:** 29 hours
+- **Playtime:** 30 hours
 - **Price:** $19.99
-- **Price/hour:** 0.69 € / h
+- **Price/hour:** 0.67 € / h
 - **Creator:** [Steelpan Interactive](https://store.steampowered.com/search/?developer=Steelpan+Interactive)
 - **Developer:** Steelpan Interactive
 - **Publisher:** Steelpan Interactive
@@ -4321,8 +5071,103 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 ---
 
-<a id="57-just-act-natural-"></a>
-### 57. Just Act Natural 🪟 🍏
+<a id="62-initial-drift-online-"></a>
+### 62. Initial Drift Online 🪟
+<img src="./generated/SteamMD/covers/1456200_header.jpg" alt="Initial Drift Online" width="400px">
+
+- **Playtime:** 0 hours
+- **Price:** $4.99
+- **Price/hour:** -
+- **Creator:** [RewindApp](https://store.steampowered.com/search/?developer=RewindApp)
+- **Developer:** RewindApp
+- **Publisher:** RewindApp
+- **Genres:** Action, Indie, Massively Multiplayer, Racing, Simulation
+- **Achievements:** 0/36
+
+**Short description:** Drift over some of Japan's most legendary mountain passes, compete against your friends or players from around the world in epic battles, make deliveries, buy new cars and set records in the world rankings!
+
+<details>
+<summary>Detailed description</summary>
+
+<h1>Our games you might like</h1><p><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1456200/49b92abb5fb31df54070b1fcccf36253_avif" /></span></p><br><h1>About the Game</h1><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1456200/ce3aed82a371791ebcd1cb656b364b08_avif" /></span><br><br><strong>Drift over some of Japan's most legendary mountain passes, compete against your friends or players from around the world in epic battles, make deliveries, buy new cars and set records in the world rankings!</strong><br><br>Initial Drift Online is a fully multiplayer game that aims to be the first MMO of its kind. <br>No headache, just join a server and start playing straight away!<br><br>The game has a semi-open world composed of 3 legendary locations :<br><br><strong>-</strong> The road to Irohazaka<br><strong>-</strong> Mt. Haruna<br><strong>-</strong> Mt. Akagi<br><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1456200/6ecb761318d9f24db5a764f926926661_avif" /></span><br><br><ul class="bb_ul"><li> Earn money and experience by making deliveries!</li></ul><br><ul class="bb_ul"><li> Buy new cars at the Irohazaka dealership and customize them at the garage!</li></ul><br><ul class="bb_ul"><li> Compete against your friends or players from around the world in epic uphill and downhill battles!</li></ul><br><ul class="bb_ul"><li> Set records to try to be among the champions in the global ranking!</li></ul><br><ul class="bb_ul"><li> Two music playlists available: Eurobeat or Phonk. It's up to you to choose your style!</li></ul><br><ul class="bb_ul"><li> Chat with all the players on your continent by opening the chat!</li></ul><br><ul class="bb_ul"><li> A day / night cycle is present on each server and will radically change the atmosphere!</li></ul><br><ul class="bb_ul"><li> Several camera angles are available. First or third person view, it's up to you!</li></ul><br><ul class="bb_ul"><li> Realistic but dynamic physics for a gameplay as pleasant as possible!</li></ul><br><ul class="bb_ul"><li> Will you manage to reach level 1000 and become a Drift King?</li></ul><br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1456200/82294dd6a2114b2ace4b5d8edff8e334_avif" /></span><br><br>Initial Drift Online will provide the player a unique experience of the most advanced Japanese drift RP in a fully multiplayer world!<br><br><br><strong><i>What are you waiting for to join the race?</i></strong>
+
+</details>
+
+<details>
+<summary>Achievements Details</summary>
+
+<table>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/The_Beginning.jpg' width='32'></td><td>🟥</td><td>The Beginning</td><td>Reach level 1</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Touge_Racer.jpg' width='32'></td><td>🟥</td><td>Touge Racer</td><td>Reach level 10</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Tofu_Delivery_Man.jpg' width='32'></td><td>🟥</td><td>Tofu Delivery Man</td><td>Reach level 100</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Legend.jpg' width='32'></td><td>🟥</td><td>Legend</td><td>Reach level 500</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Drift_King.jpg' width='32'></td><td>🟥</td><td>Drift King</td><td>Reach level 1000</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/First_Win.jpg' width='32'></td><td>🟥</td><td>First Win</td><td>Win 1 Battle</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/A_dangerous_rival.jpg' width='32'></td><td>🟥</td><td>A dangerous rival</td><td>Win 10 Battle</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Unbeatable.jpg' width='32'></td><td>🟥</td><td>Unbeatable</td><td>Win 100 Battle</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/First_job_on_Haruna.jpg' width='32'></td><td>🟥</td><td>First job on Haruna</td><td>Make 1 delivery on Haruna</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Haruna_delivery_boy.jpg' width='32'></td><td>🟥</td><td>Haruna delivery boy</td><td>Make 10 delivery on Haruna</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Phantom_of_Haruna.jpg' width='32'></td><td>🟥</td><td>Phantom of Haruna</td><td>Make 100 delivery on Haruna</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/First_job_on_Akagi.jpg' width='32'></td><td>🟥</td><td>First job on Akagi</td><td>Make 1 delivery on Akagi</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Akagi_delivery_boy.jpg' width='32'></td><td>🟥</td><td>Akagi delivery boy</td><td>Make 10 delivery on Akagi</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Phantom_of_Akagi.jpg' width='32'></td><td>🟥</td><td>Phantom of Akagi</td><td>Make 100 delivery on Akagi</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/First_job_on_Irohazaka.jpg' width='32'></td><td>🟥</td><td>First job on Irohazaka</td><td>Make 1 delivery on Irohazaka</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Nikko_delivery_boy.jpg' width='32'></td><td>🟥</td><td>Nikko delivery boy</td><td>Make 10 delivery on Irohazaka</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Phantom_of_Nikko.jpg' width='32'></td><td>🟥</td><td>Phantom of Nikko</td><td>Make 100 delivery on Irohazaka</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/More_and_more_angle.jpg' width='32'></td><td>🟥</td><td>More and more angle</td><td>Drive 1h</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/You_are_a_street_racer.jpg' width='32'></td><td>🟥</td><td>You are a street racer</td><td>Drive 10h</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Touge_has_no_more_secrets.jpg' width='32'></td><td>🟥</td><td>Touge has no more secrets</td><td>Drive 50h</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Born_to_drift.jpg' width='32'></td><td>🟥</td><td>Born to drift</td><td>Drive 100h</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/The_Stars.jpg' width='32'></td><td>🟥</td><td>The Stars</td><td>Visit Haruna</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/The_Sun.jpg' width='32'></td><td>🟥</td><td>The Sun</td><td>Visit Akagi</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Technical_Contr___What__.jpg' width='32'></td><td>🟥</td><td>Technical Contr.. What ?</td><td>Go to the garage</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/High_Speed___.jpg' width='32'></td><td>🟥</td><td>High Speed...</td><td>Exceeds 100 kmh</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Deja_Vu.jpg' width='32'></td><td>🟥</td><td>Deja Vu</td><td>Exceeds 200 kmh</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Stage_2_.jpg' width='32'></td><td>🟥</td><td>Stage 2 </td><td>Earn 1.000¥</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/New_car.jpg' width='32'></td><td>🟥</td><td>New car</td><td>Earn 5.000¥</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Drift_pays.jpg' width='32'></td><td>🟥</td><td>Drift pays</td><td>Earn 10.000¥</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Tatsumi_s_best_friend.jpg' width='32'></td><td>🟥</td><td>Tatsumi's best friend</td><td>Earn 100.000¥</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Fast_Fun.jpg' width='32'></td><td>🟥</td><td>Fast&Fun</td><td>Refill your NOS bottle</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/First_job_on_Usui.jpg' width='32'></td><td>🟥</td><td>First job on Usui</td><td>Make 1 delivery on Usui</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Usui_delivery_boy.jpg' width='32'></td><td>🟥</td><td>Usui delivery boy</td><td>Make 10 delivery on Usui</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Phantom_of_Usui.jpg' width='32'></td><td>🟥</td><td>Phantom of Usui</td><td>Make 100 delivery on Usui</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/The_Impact.jpg' width='32'></td><td>🟥</td><td>The Impact</td><td>Visit Usui</td>
+<tr><td><img src='./generated/SteamMD/achievements/1456200/Spoiler.jpg' width='32'></td><td>🟥</td><td>Spoiler</td><td>Buy a spoiler in the tuning shop</td>
+
+</table>
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/1456200/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/6.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/7.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/8.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/9.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/10.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/11.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/12.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/13.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/14.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/15.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/16.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/17.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/18.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/19.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/20.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1456200/21.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+
+</details>
+
+---
+
+<a id="63-just-act-natural-"></a>
+### 63. Just Act Natural 🪟 🍏
 <img src="./generated/SteamMD/covers/1485080_header.jpg" alt="Just Act Natural" width="400px">
 
 - **Playtime:** 1 hours
@@ -4394,8 +5239,8 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 ---
 
-<a id="58-vroid-studio-"></a>
-### 58. VRoid Studio 🪟 🍏
+<a id="64-vroid-studio-"></a>
+### 64. VRoid Studio 🪟 🍏
 <img src="./generated/SteamMD/covers/1486350_header.jpg" alt="VRoid Studio" width="400px">
 
 - **Playtime:** 4 hours
@@ -4412,7 +5257,7 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 <details>
 <summary>Detailed description</summary>
 
-<span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1486350/88ffa6d898ab6bd5c1303cb68d4d9e24_avif" /></span><br>VRoid Studio is a 3D character maker that lets you use your imagination to easily create your own original characters. <br><br>By making your 2D characters able to move in a 3D space and usable in anime and game production, your creative range will greatly expand. The VRoid Project has started with the hope that many creators will have fun exploring the different possibilities of 3D and that this will lead to the creation of many marvelous works, resulting in an increase in the number of creators able to handle 3D.<h2 class="bb_tag" >■ The Strengths of VRoid Studio</h2><strong>・Easy-to-use, intuitive software</strong><br>Face features, body shape, outfits — everything is customizable in infinite ways. Even first-time users can fully enjoy the software by picking preset items and playing around with the parameters’ sliders.<br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1486350/fce138b293b618ca3a34f45ef60b7c7d_avif" /></span><br><strong>・As easy as drawing on paper</strong><br>Simply draw hair bundles with the pen tool and adjust the parameters to swiftly model your character's hairstyle, and add hair motion thanks to the intuitive bone settings.<br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1486350/652028ca7a3103fd549b370863cbeca9_avif" /></span><br><strong>・Edit 3D models in real-time</strong><br>Editing outfits, as well as details in the hair or eyes, has never been easier. Users can check in real-time how their edits are affecting the model directly on the texture, with the 3D preview. (You can draw on both the UV mapped textures and your 3D model directly!) This software supports digital pens and is pressure-sensitive. Furthermore, textures and designs can be arranged in different layers, making it easy for experienced designers to work with.<br><span class="bb_img_ctn"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486350/extras/Description_0３.png?t=1761804020" /></span><br><strong>・An abundance of items, ready to use!</strong><br>You can start creating right after download: with many ready-to-use preset items, you won’t need to create anything from scratch. There are hairstyles, make-up, outfits, and many more to pick and mix. Furthermore, these items can all be used in whatever arrangement you want! <br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1486350/d730ab968e7b2e010dd0a388a24772a1_avif" /></span><br><strong>・Your models are yours to use freely</strong><br>You can set your own terms of use for the data of every model, texture, item, etc you create on VRoid Studio, specifying if you give permission for commercial use, credits, etc.<br><br>* When using the data for models created by pixiv or third parties, please be sure to follow the terms of use and licensing conditions.<br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1486350/f70fa2d073f4242ec790636aebf37e35_avif" /></span>
+<span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1486350/88ffa6d898ab6bd5c1303cb68d4d9e24_avif" /></span><br>VRoid Studio is a 3D character maker that lets you use your imagination to easily create your own original characters. <br><br>By making your 2D characters able to move in a 3D space and usable in anime and game production, your creative range will greatly expand. The VRoid Project has started with the hope that many creators will have fun exploring the different possibilities of 3D and that this will lead to the creation of many marvelous works, resulting in an increase in the number of creators able to handle 3D.<h2 class="bb_tag" >■ The Strengths of VRoid Studio</h2><strong>・Easy-to-use, intuitive software</strong><br>Face features, body shape, outfits — everything is customizable in infinite ways. Even first-time users can fully enjoy the software by picking preset items and playing around with the parameters’ sliders.<br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1486350/fce138b293b618ca3a34f45ef60b7c7d_avif" /></span><br><strong>・As easy as drawing on paper</strong><br>Simply draw hair bundles with the pen tool and adjust the parameters to swiftly model your character's hairstyle, and add hair motion thanks to the intuitive bone settings.<br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1486350/652028ca7a3103fd549b370863cbeca9_avif" /></span><br><strong>・Edit 3D models in real-time</strong><br>Editing outfits, as well as details in the hair or eyes, has never been easier. Users can check in real-time how their edits are affecting the model directly on the texture, with the 3D preview. (You can draw on both the UV mapped textures and your 3D model directly!) This software supports digital pens and is pressure-sensitive. Furthermore, textures and designs can be arranged in different layers, making it easy for experienced designers to work with.<br><span class="bb_img_ctn"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486350/extras/Description_0３.png?t=1767476366" /></span><br><strong>・An abundance of items, ready to use!</strong><br>You can start creating right after download: with many ready-to-use preset items, you won’t need to create anything from scratch. There are hairstyles, make-up, outfits, and many more to pick and mix. Furthermore, these items can all be used in whatever arrangement you want! <br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1486350/d730ab968e7b2e010dd0a388a24772a1_avif" /></span><br><strong>・Your models are yours to use freely</strong><br>You can set your own terms of use for the data of every model, texture, item, etc you create on VRoid Studio, specifying if you give permission for commercial use, credits, etc.<br><br>* When using the data for models created by pixiv or third parties, please be sure to follow the terms of use and licensing conditions.<br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1486350/f70fa2d073f4242ec790636aebf37e35_avif" /></span>
 
 </details>
 
@@ -4429,18 +5274,105 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 ---
 
-<a id="59-rounds-"></a>
-### 59. ROUNDS 🪟 🍏
-<img src="./generated/SteamMD/covers/1557740_header.jpg" alt="ROUNDS" width="400px">
+<a id="65-toy-tinker-simulator-"></a>
+### 65. Toy Tinker Simulator 🪟
+<img src="./generated/SteamMD/covers/1510580_header.jpg" alt="Toy Tinker Simulator" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** $5.99
+- **Price:** $0.77
 - **Price/hour:** -
+- **Creator:** [Turquoise Revival Games](https://store.steampowered.com/search/?developer=Turquoise+Revival+Games)
+- **Developer:** Turquoise Revival Games
+- **Publisher:** GrabTheGames, WhisperGames
+- **Genres:** Indie, Simulation
+- **Achievements:** 0/24
+
+**Short description:** Have you ever wanted to be a toy tinker? This is a unique chance to become one! Repair toys and start your toy-museums to make everyone happy!
+
+<details>
+<summary>Detailed description</summary>
+
+<h2 class="bb_tag" ><strong><u>Repair toys</u></strong></h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/24cd14b64c2a7405e0550e3ae7e6001b.poster.avif?t=1766952026" width=620 height=140 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/24cd14b64c2a7405e0550e3ae7e6001b.webm?t=1766952026" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/24cd14b64c2a7405e0550e3ae7e6001b.mp4?t=1766952026" type="video/mp4"></video></span><br><ul class="bb_ul"><li>Disassemble/assemble toy parts and go through  the repair processes like cleaning, painting, sandblasting, coating, sanding, sewing, filling/stuffing etc</li></ul><ul class="bb_ul"><li>Repair as many toys as possible to earn more money and experience</li></ul><ul class="bb_ul"><li>Take before/after photos to see the progress</li></ul><h2 class="bb_tag" ><strong><u>Design your office and workshop</u></strong></h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/d45acbae8c978ccec26d13f9d0090624.poster.avif?t=1766952026" width=620 height=140 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/d45acbae8c978ccec26d13f9d0090624.webm?t=1766952026" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/d45acbae8c978ccec26d13f9d0090624.mp4?t=1766952026" type="video/mp4"></video></span><br><ul class="bb_ul"><li>Buy furniture, carpets, paintings, plants, flowers, etc and design your office</li></ul><ul class="bb_ul"><li>Buy new tools and equipment to increase your portfolio</li></ul><h2 class="bb_tag" ><strong><u>Start your toy-museums</u></strong></h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/b925b3c5a8f8292bd2b97538a7b00725.poster.avif?t=1766952026" width=620 height=140 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/b925b3c5a8f8292bd2b97538a7b00725.webm?t=1766952026" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/b925b3c5a8f8292bd2b97538a7b00725.mp4?t=1766952026" type="video/mp4"></video></span><br><ul class="bb_ul"><li>Buy and repair unique toys</li></ul><ul class="bb_ul"><li>Buy new buildings and design your toy-museums</li></ul><h2 class="bb_tag" ><strong><u>Play with master-toys</u></strong></h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/2aa995826c2dc4d0a0a40a144170d445.poster.avif?t=1766952026" width=620 height=140 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/2aa995826c2dc4d0a0a40a144170d445.webm?t=1766952026" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510580/extras/2aa995826c2dc4d0a0a40a144170d445.mp4?t=1766952026" type="video/mp4"></video></span><br><ul class="bb_ul"><li>Level up and become master</li></ul><ul class="bb_ul"><li>Play with master-toys after successful deliveries</li></ul>
+
+</details>
+
+<details>
+<summary>Achievements Details</summary>
+
+<table>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/3_TOYS.jpg' width='32'></td><td>🟥</td><td>3 TOYS</td><td>Repair 3 toys</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/5_TOYS.jpg' width='32'></td><td>🟥</td><td>5 TOYS</td><td>Repair 5 more toys</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/20_TOYS.jpg' width='32'></td><td>🟥</td><td>20 TOYS</td><td>Repair 20 more toys</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/100_TOYS.jpg' width='32'></td><td>🟥</td><td>100 TOYS</td><td>Repair 100 more toys</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/200_TOYS.jpg' width='32'></td><td>🟥</td><td>200 TOYS</td><td>Repair 200 more toys</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/250_TOYS.jpg' width='32'></td><td>🟥</td><td>250 TOYS</td><td>Repair 250 more toys</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/5_CARS.jpg' width='32'></td><td>🟥</td><td>5 CARS</td><td>Repair 5 cars</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/20_CARS.jpg' width='32'></td><td>🟥</td><td>20 CARS</td><td>Repair 20 more cars</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/50_CARS.jpg' width='32'></td><td>🟥</td><td>50 CARS</td><td>Repair 50 more cars</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/5_SHIPS.jpg' width='32'></td><td>🟥</td><td>5 SHIPS</td><td>Repair 5 ships</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/10_SHIPS.jpg' width='32'></td><td>🟥</td><td>10 SHIPS</td><td>Repair 10 more ships</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/20_SHIPS.jpg' width='32'></td><td>🟥</td><td>20 SHIPS</td><td>Repair 20 more ships</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/5_TRUCKS.jpg' width='32'></td><td>🟥</td><td>5 TRUCKS</td><td>Repair 5 trucks</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/10_TRUCKS.jpg' width='32'></td><td>🟥</td><td>10 TRUCKS</td><td>Repair 10 more trucks</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/20_TRUCKS.jpg' width='32'></td><td>🟥</td><td>20 TRUCKS</td><td>Repair 20 more trucks</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/5_PLUSHIES.jpg' width='32'></td><td>🟥</td><td>5 PLUSHIES</td><td>Repair 5 plushies</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/10_PLUSHIES.jpg' width='32'></td><td>🟥</td><td>10 PLUSHIES</td><td>Repair 10 more plushies</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/20_PLUSHIES.jpg' width='32'></td><td>🟥</td><td>20 PLUSHIES</td><td>Repair 20 more plushies</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/5_TRAINS.jpg' width='32'></td><td>🟥</td><td>5 TRAINS</td><td>Repair 5 trains</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/10_TRAINS.jpg' width='32'></td><td>🟥</td><td>10 TRAINS</td><td>Repair 10 more trains</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/20_TRAINS.jpg' width='32'></td><td>🟥</td><td>20 TRAINS</td><td>Repair 20 more trains</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/5_AIRPLANES.jpg' width='32'></td><td>🟥</td><td>5 AIRPLANES</td><td>Repair 5 airplanes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/10_AIRPLANES.jpg' width='32'></td><td>🟥</td><td>10 AIRPLANES</td><td>Repair 10 more airplanes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1510580/20_AIRPLANES.jpg' width='32'></td><td>🟥</td><td>20 AIRPLANES</td><td>Repair 20 more airplanes</td>
+
+</table>
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/1510580/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/6.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/7.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/8.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/9.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/10.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/11.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/12.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/13.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/14.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/15.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/16.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/17.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/18.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/19.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/20.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/21.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/22.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/23.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/24.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1510580/25.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+
+</details>
+
+---
+
+<a id="66-rounds-"></a>
+### 66. ROUNDS 🪟 🍏
+<img src="./generated/SteamMD/covers/1557740_header.jpg" alt="ROUNDS" width="400px">
+
+- **Playtime:** 7 hours
+- **Price:** $2.99
+- **Price/hour:** 0.43 € / h
 - **Creator:** [Landfall](https://store.steampowered.com/search/?developer=Landfall)
 - **Developer:** Landfall
 - **Publisher:** Landfall
 - **Genres:** Action, Indie
-- **Achievements:** 1/24
+- **Achievements:** 9/24
 
 **Short description:** Rounds is a 1v1 rogue-lite shooter where each round gets more intense. The losing player of each round unlocks clever upgrades to create a better build to counter their opponent.
 
@@ -4456,17 +5388,17 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 <table>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Ace.jpg' width='32'></td><td>🟥</td><td>Ace</td><td>Win 5-0</td>
-<tr><td><img src='./generated/SteamMD/achievements/1557740/Three_in_a_row_.jpg' width='32'></td><td>🟥</td><td>Three in a row!</td><td>Win 3 matches in a row</td>
+<tr><td><img src='./generated/SteamMD/achievements/1557740/Three_in_a_row_.jpg' width='32'></td><td>🟩</td><td>Three in a row!</td><td>Win 3 matches in a row</td>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Impenetrable.jpg' width='32'></td><td>🟥</td><td>Impenetrable</td><td>Block 10 times in 10 seconds</td>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Destroyer_of_worlds.jpg' width='32'></td><td>🟥</td><td>Destroyer of worlds</td><td>Deal 500 DMG with one bullet</td>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Beekeeper.jpg' width='32'></td><td>🟥</td><td>Beekeeper</td><td>Have 30 of your own bullets on screen at the same time</td>
-<tr><td><img src='./generated/SteamMD/achievements/1557740/Expensive_taste.jpg' width='32'></td><td>🟥</td><td>Expensive taste</td><td>Pick 3 or more rare cards in one match</td>
+<tr><td><img src='./generated/SteamMD/achievements/1557740/Expensive_taste.jpg' width='32'></td><td>🟩</td><td>Expensive taste</td><td>Pick 3 or more rare cards in one match</td>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Titan.jpg' width='32'></td><td>🟥</td><td>Titan</td><td>Reach 1000 HP</td>
-<tr><td><img src='./generated/SteamMD/achievements/1557740/Healer.jpg' width='32'></td><td>🟥</td><td>Healer</td><td>Heal 500 HP in one round</td>
+<tr><td><img src='./generated/SteamMD/achievements/1557740/Healer.jpg' width='32'></td><td>🟩</td><td>Healer</td><td>Heal 500 HP in one round</td>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Hypersonic.jpg' width='32'></td><td>🟥</td><td>Hypersonic</td><td>Fire a bullet with over 350% projectile speed</td>
-<tr><td><img src='./generated/SteamMD/achievements/1557740/Shieldmastery.jpg' width='32'></td><td>🟥</td><td>Shieldmastery</td><td>Have 4 cards that interact with your block</td>
-<tr><td><img src='./generated/SteamMD/achievements/1557740/Victory.jpg' width='32'></td><td>🟥</td><td>Victory</td><td>Win a match</td>
-<tr><td><img src='./generated/SteamMD/achievements/1557740/Accidental_Winner.jpg' width='32'></td><td>🟥</td><td>Accidental Winner</td><td>Win 10 rounds by your opponent falling out</td>
+<tr><td><img src='./generated/SteamMD/achievements/1557740/Shieldmastery.jpg' width='32'></td><td>🟩</td><td>Shieldmastery</td><td>Have 4 cards that interact with your block</td>
+<tr><td><img src='./generated/SteamMD/achievements/1557740/Victory.jpg' width='32'></td><td>🟩</td><td>Victory</td><td>Win a match</td>
+<tr><td><img src='./generated/SteamMD/achievements/1557740/Accidental_Winner.jpg' width='32'></td><td>🟩</td><td>Accidental Winner</td><td>Win 10 rounds by your opponent falling out</td>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Winner.jpg' width='32'></td><td>🟥</td><td>Winner</td><td>Win 20 matches</td>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Frosty.jpg' width='32'></td><td>🟥</td><td>Frosty</td><td>Use Frost Slam 20 times</td>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Champion.jpg' width='32'></td><td>🟥</td><td>Champion</td><td>Win 50 Matches</td>
@@ -4477,8 +5409,8 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Joker.jpg' width='32'></td><td>🟥</td><td>Joker</td><td>Lose 0-5</td>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Radient.jpg' width='32'></td><td>🟥</td><td>Radient</td><td>Use Radiance 3 times in a single match</td>
 <tr><td><img src='./generated/SteamMD/achievements/1557740/Phoenix.jpg' width='32'></td><td>🟥</td><td>Phoenix</td><td>Use Phoenix</td>
-<tr><td><img src='./generated/SteamMD/achievements/1557740/Shield_Up.jpg' width='32'></td><td>🟥</td><td>Shield Up</td><td>Trigger a block with Shields Up</td>
-<tr><td><img src='./generated/SteamMD/achievements/1557740/Sharp.jpg' width='32'></td><td>🟥</td><td>Sharp</td><td>Use Saw</td>
+<tr><td><img src='./generated/SteamMD/achievements/1557740/Shield_Up.jpg' width='32'></td><td>🟩</td><td>Shield Up</td><td>Trigger a block with Shields Up</td>
+<tr><td><img src='./generated/SteamMD/achievements/1557740/Sharp.jpg' width='32'></td><td>🟩</td><td>Sharp</td><td>Use Saw</td>
 
 </table>
 </details>
@@ -4499,8 +5431,8 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 ---
 
-<a id="60-goose-goose-duck-"></a>
-### 60. Goose Goose Duck 🪟 🍏
+<a id="67-goose-goose-duck-"></a>
+### 67. Goose Goose Duck 🪟 🍏
 <img src="./generated/SteamMD/covers/1568590_header.jpg" alt="Goose Goose Duck" width="400px">
 
 - **Playtime:** 40 hours
@@ -4588,12 +5520,12 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 ---
 
-<a id="61-hellslave-"></a>
-### 61. Hellslave 🪟
+<a id="68-hellslave-"></a>
+### 68. Hellslave 🪟
 <img src="./generated/SteamMD/covers/1608450_header.jpg" alt="Hellslave" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** $19.99
+- **Price:** $2.99
 - **Price/hour:** -
 - **Creator:** [Ars Goetia](https://store.steampowered.com/search/?developer=Ars+Goetia)
 - **Developer:** Ars Goetia
@@ -4684,8 +5616,8 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 ---
 
-<a id="62-muck-"></a>
-### 62. Muck 🪟 🍏 🐧
+<a id="69-muck-"></a>
+### 69. Muck 🪟 🍏 🐧
 <img src="./generated/SteamMD/covers/1625450_header.jpg" alt="Muck" width="400px">
 
 - **Playtime:** 6 hours
@@ -4779,12 +5711,12 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 ---
 
-<a id="63-hitman-world-of-assassination-"></a>
-### 63. HITMAN World of Assassination 🪟
+<a id="70-hitman-world-of-assassination-"></a>
+### 70. HITMAN World of Assassination 🪟
 <img src="./generated/SteamMD/covers/1659040_header.jpg" alt="HITMAN World of Assassination" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** $5.99
+- **Price:** $29.99
 - **Price/hour:** -
 - **Creator:** [IO Interactive A/S](https://store.steampowered.com/search/?developer=IO+Interactive+A/S)
 - **Developer:** IO Interactive A/S
@@ -4797,7 +5729,7 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 <details>
 <summary>Detailed description</summary>
 
-<h1>UPCOMING IOI TITLE</h1><p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1659040/1681bd24934fe1e213229fa79f6c0dab_avif" /></span></p></p><br><h1>Comparison Grid</h1><p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1659040/bd0d0eea1980458d8132c82172b27f93_avif" /></span></p></p><br><h1>World of Assassination Part One</h1><p><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1659040/b76005ecefdc97345435c05b05f9f7f9_avif" /></span><br>Enter the world of the ultimate assassin.<br><br>BECOME AGENT 47<br>Suit up for a spy-thriller adventure where all your deadly skills are put to the test.<br><br>FREEDOM OF APPROACH<br>Your deadliest weapon is creativity. Unlock new gear and up your game on highly replayable missions.<br><br>WORLD OF ASSASSINATION<br>Travel a living, breathing world, filled with intriguing characters and lethal opportunities.<br><br>HITMAN World of Assassination Part One features:<br> - 6 Iconic HITMAN locations: Paris, Sapienza, Marrakesh, Bangkok, Colorado and Hokkaido<br> - HITMAN GOTY Edition content: Patient Zero Bonus campaign, 3 Themed Escalation Contracts with Outfits and Weapon rewards<br><br>This does not give access to the Freelancer and VR game modes. An option to upgrade to the full World of Assassination is available.</p><br><h1>World of Assassination</h1><p><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1659040/7a2f748780eaba698bb9673be9d7f41a_avif" /></span><br>Enter the world of the ultimate assassin.<br><br>BECOME AGENT 47<br>Suit up for a spy-thriller adventure where all your deadly abilities are put to the test across more than 20 locations.<br><br>FREEDOM OF APPROACH<br>Your deadliest weapon is creativity. Unlock new gear and up your game on highly replayable missions.<br><br>WORLD OF ASSASSINATION<br>Travel a living, breathing world, filled with intriguing characters and lethal opportunities.<br><br>HITMAN FREELANCER<br>A new way to play on your own terms, that combines rogue-like elements and deep strategic planning with a persistent and infinitely replayable gameplay experience.<br><br>HITMAN World of Assassination brings together the best of HITMAN, HITMAN 2 and HITMAN 3 including the main campaign, contracts mode, escalations, elusive target arcades and featured live content.</p><br><h1>About the Game</h1><p class="bb_paragraph" ><u><strong>WORLD OF ASSASSINATION</strong></u></p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Enter the world of the ultimate assassin. HITMAN World of Assassination brings together the best of HITMAN, HITMAN 2 and HITMAN 3 including the main campaign, contracts mode, escalations, elusive target arcades and featured live content.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>BECOME AGENT 47</strong></p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/222804d2b33ccd93f542a3c24ae94122.poster.avif?t=1762360488" width=1170 height=206 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/222804d2b33ccd93f542a3c24ae94122.webm?t=1762360488" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/222804d2b33ccd93f542a3c24ae94122.mp4?t=1762360488" type="video/mp4"></video></span></p><p class="bb_paragraph" >Suit up for a spy-thriller adventure where all your deadly abilities are put to the test across more than 20 locations.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>FREEDOM OF APPROACH</strong></p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/f27703283e56942762bd2a2d3cdb8943.poster.avif?t=1762360488" width=1170 height=206 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/f27703283e56942762bd2a2d3cdb8943.webm?t=1762360488" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/f27703283e56942762bd2a2d3cdb8943.mp4?t=1762360488" type="video/mp4"></video></span></p><p class="bb_paragraph" >Your deadliest weapon is creativity. Unlock new gear and up your game on highly replayable missions.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>WORLD OF ASSASSINATION</strong></p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/cbc625496b4532cdf659c160704e818d.poster.avif?t=1762360488" width=1170 height=206 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/cbc625496b4532cdf659c160704e818d.webm?t=1762360488" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/cbc625496b4532cdf659c160704e818d.mp4?t=1762360488" type="video/mp4"></video></span></p><p class="bb_paragraph" >Travel a living, breathing world, filled with intriguing characters and lethal opportunities.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>HITMAN FREELANCER</strong></p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/bdb6ab6b234d2028aa23ed57daba11ec.poster.avif?t=1762360488" width=1170 height=206 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/bdb6ab6b234d2028aa23ed57daba11ec.webm?t=1762360488" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/bdb6ab6b234d2028aa23ed57daba11ec.mp4?t=1762360488" type="video/mp4"></video></span></p><p class="bb_paragraph" >A new way to play on your own terms, that combines rogue-like elements and deep strategic planning with a persistent and infinitely replayable gameplay experience.</p>
+<h1>UPCOMING IOI TITLE</h1><p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1659040/1681bd24934fe1e213229fa79f6c0dab_avif" /></span></p><p class="bb_paragraph" >Pre-order 007 First Light and elevate your espionage adventure with a free Deluxe Edition upgrade! Earn your number with outfits inspired by 007 memorabilia, go all gold blazing with the Gleaming Pack including 4 gadget skins, and unlock a new weapon skin, Agent’s Mark.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Pre-Order 007 First Light and receive the Deluxe Edition Upgrade and 24 hour early access for free:</p><p class="bb_paragraph" ><strong>4 outfits:</strong></p><ul class="bb_ul"><li><p class="bb_paragraph" >Day of the Dead</p></li><li><p class="bb_paragraph" >Desert Explorer</p></li><li><p class="bb_paragraph" >Silent Anchor</p></li><li><p class="bb_paragraph" >Gentleman Operator</p><p class="bb_paragraph" ></p></li></ul><p class="bb_paragraph" ><strong>Weapon skin:</strong></p><ul class="bb_ul"><li><p class="bb_paragraph" >Agent’s Mark</p></li></ul><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>Gleaming Pack, including 4 gadget skins:</strong></p><ul class="bb_ul"><li><p class="bb_paragraph" >Gleaming Lighter</p></li><li><p class="bb_paragraph" >Gleaming Earphones</p></li><li><p class="bb_paragraph" >Gleaming Dart Gun</p></li><li><p class="bb_paragraph" >Gleaming Pen</p></li></ul></p><br><h1>Comparison Grid</h1><p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1659040/bd0d0eea1980458d8132c82172b27f93_avif" /></span></p></p><br><h1>World of Assassination Part One</h1><p><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1659040/b76005ecefdc97345435c05b05f9f7f9_avif" /></span><br>Enter the world of the ultimate assassin.<br><br>BECOME AGENT 47<br>Suit up for a spy-thriller adventure where all your deadly skills are put to the test.<br><br>FREEDOM OF APPROACH<br>Your deadliest weapon is creativity. Unlock new gear and up your game on highly replayable missions.<br><br>WORLD OF ASSASSINATION<br>Travel a living, breathing world, filled with intriguing characters and lethal opportunities.<br><br>HITMAN World of Assassination Part One features:<br> - 6 Iconic HITMAN locations: Paris, Sapienza, Marrakesh, Bangkok, Colorado and Hokkaido<br> - HITMAN GOTY Edition content: Patient Zero Bonus campaign, 3 Themed Escalation Contracts with Outfits and Weapon rewards<br><br>This does not give access to the Freelancer and VR game modes. An option to upgrade to the full World of Assassination is available.</p><br><h1>About the Game</h1><p class="bb_paragraph" ><u><strong>WORLD OF ASSASSINATION</strong></u></p><p class="bb_paragraph" ></p><p class="bb_paragraph" >Enter the world of the ultimate assassin. HITMAN World of Assassination brings together the best of HITMAN, HITMAN 2 and HITMAN 3 including the main campaign, contracts mode, escalations, elusive target arcades and featured live content.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>BECOME AGENT 47</strong></p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/222804d2b33ccd93f542a3c24ae94122.poster.avif?t=1767643206" width=1170 height=206 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/222804d2b33ccd93f542a3c24ae94122.webm?t=1767643206" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/222804d2b33ccd93f542a3c24ae94122.mp4?t=1767643206" type="video/mp4"></video></span></p><p class="bb_paragraph" >Suit up for a spy-thriller adventure where all your deadly abilities are put to the test across more than 20 locations.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>FREEDOM OF APPROACH</strong></p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/f27703283e56942762bd2a2d3cdb8943.poster.avif?t=1767643206" width=1170 height=206 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/f27703283e56942762bd2a2d3cdb8943.webm?t=1767643206" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/f27703283e56942762bd2a2d3cdb8943.mp4?t=1767643206" type="video/mp4"></video></span></p><p class="bb_paragraph" >Your deadliest weapon is creativity. Unlock new gear and up your game on highly replayable missions.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>WORLD OF ASSASSINATION</strong></p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/cbc625496b4532cdf659c160704e818d.poster.avif?t=1767643206" width=1170 height=206 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/cbc625496b4532cdf659c160704e818d.webm?t=1767643206" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/cbc625496b4532cdf659c160704e818d.mp4?t=1767643206" type="video/mp4"></video></span></p><p class="bb_paragraph" >Travel a living, breathing world, filled with intriguing characters and lethal opportunities.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>HITMAN FREELANCER</strong></p><p class="bb_paragraph" ></p><p class="bb_paragraph" style="text-align: center"><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/bdb6ab6b234d2028aa23ed57daba11ec.poster.avif?t=1767643206" width=1170 height=206 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/bdb6ab6b234d2028aa23ed57daba11ec.webm?t=1767643206" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/extras/bdb6ab6b234d2028aa23ed57daba11ec.mp4?t=1767643206" type="video/mp4"></video></span></p><p class="bb_paragraph" >A new way to play on your own terms, that combines rogue-like elements and deep strategic planning with a persistent and infinitely replayable gameplay experience.</p>
 
 </details>
 
@@ -4907,8 +5839,8 @@ Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sens
 
 ---
 
-<a id="64-retro-gadgets-"></a>
-### 64. Retro Gadgets 🪟
+<a id="71-retro-gadgets-"></a>
+### 71. Retro Gadgets 🪟
 <img src="./generated/SteamMD/covers/1730260_header.jpg" alt="Retro Gadgets" width="400px">
 
 - **Playtime:** 8 hours
@@ -4947,8 +5879,8 @@ You look up from your cosy little workbench. It's dark out, what time is it? It 
 
 ---
 
-<a id="65-crab-game-"></a>
-### 65. Crab Game 🪟 🍏 🐧
+<a id="72-crab-game-"></a>
+### 72. Crab Game 🪟 🍏 🐧
 <img src="./generated/SteamMD/covers/1782210_header.jpg" alt="Crab Game" width="400px">
 
 - **Playtime:** 0 hours
@@ -4993,8 +5925,8 @@ Crab Game is a First-Person Multiplayer game where you fight for the ultimate ca
 
 ---
 
-<a id="66-aperture-desk-job-"></a>
-### 66. Aperture Desk Job 🪟 🐧
+<a id="73-aperture-desk-job-"></a>
+### 73. Aperture Desk Job 🪟 🐧
 <img src="./generated/SteamMD/covers/1902490_header.jpg" alt="Aperture Desk Job" width="400px">
 
 - **Playtime:** 0 hours
@@ -5034,8 +5966,82 @@ Aperture Desk Job reimagines the been-there-done-that genre of walking simulator
 
 ---
 
-<a id="67-the-looker-"></a>
-### 67. The Looker 🪟 🍏
+<a id="74-onearmed-cook-"></a>
+### 74. One-armed cook 🪟
+<img src="./generated/SteamMD/covers/1977530_header.jpg" alt="One-armed cook" width="400px">
+
+- **Playtime:** 0 hours
+- **Price:** Free or unknown
+- **Price/hour:** -
+- **Creator:** [Duhndal](https://store.steampowered.com/search/?developer=Duhndal)
+- **Developer:** Duhndal
+- **Publisher:** Duhndal
+- **Genres:** Casual, Simulation, Free To Play
+- **Achievements:** 0/22
+
+**Short description:** One-armed cook is a chaotic co-op cooking game for up to 4 people. Work as a team or cook on your own, set your own pace, and don't let the stress of a full restaurant catch up to you. The goofy physics-based aspect of the game gives this cooking game a new twist.
+
+<details>
+<summary>Detailed description</summary>
+
+<strong>Experience the challenge of cooking, but now with only one arm!</strong> Grab a friend and you'll have two arms in total.<br><br>One-armed cook is a chaotic co-op cooking game for up to 4 people. Work as a team or cook on your own, set your own pace, and don't let the stress of a full restaurant catch up to you. The goofy physics-based aspect of the game gives one-armed cook a new twist.<h2 class="bb_tag" >Take orders from customers</h2><strong>With many different dishes</strong> for the customers to order<br>you will never run out of something to do.<br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1977530/99c199ddf693a8230c47ecb07579a7f7_avif" /></span><h2 class="bb_tag" >Prepare and cook your food</h2><strong>Simple and intuitive recipes</strong> make the experience much more fluent But should you ever be in doubt, you can always check the recipe book<br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1977530/578e64b053687e249d2030610f3a8899_avif" /></span><br><br><strong>Mess around</strong>. have fun with friends and create chaos with the physics<br><span class="bb_img_ctn"><img src="./generated/SteamMD/descriptions/1977530/8c37e8c87b8f717069883b8fcc8a5192_avif" /></span>
+
+</details>
+
+<details>
+<summary>Achievements Details</summary>
+
+<table>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Master_Chef.jpg' width='32'></td><td>🟥</td><td>Master Chef</td><td>Serve 50 perfect dishes to customers</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Kitchen_Wizard.jpg' width='32'></td><td>🟥</td><td>Kitchen Wizard</td><td>Serve 100 perfect dishes to customers</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Perfection_Prodigy.jpg' width='32'></td><td>🟥</td><td>Perfection Prodigy</td><td>Serve 200 perfect dishes to customers</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Fire_Fighter.jpg' width='32'></td><td>🟥</td><td>Fire Fighter</td><td>Put out 25 fires</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Blaze_Buster.jpg' width='32'></td><td>🟥</td><td>Blaze Buster</td><td>Put out 50 fires</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Inferno_Inspector.jpg' width='32'></td><td>🟥</td><td>Inferno Inspector</td><td>Put out 75 fires</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Grill_Novice.jpg' width='32'></td><td>🟥</td><td>Grill Novice</td><td>Cook 100 ingredients</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Oven_Ace.jpg' width='32'></td><td>🟥</td><td>Oven Ace</td><td>Cook 200 ingredients</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Grill_Master.jpg' width='32'></td><td>🟥</td><td>Grill Master</td><td>Cook 500 ingredients</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Dishwasher_Apprentice.jpg' width='32'></td><td>🟥</td><td>Dishwasher Apprentice</td><td>Wash 25 dishes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Dishwashing_Dynamo.jpg' width='32'></td><td>🟥</td><td>Dishwashing Dynamo</td><td>Wash 50 dishes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Scrubber_Supreme.jpg' width='32'></td><td>🟥</td><td>Scrubber Supreme</td><td>Wash 100 dishes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Sous_Chef_Struggler.jpg' width='32'></td><td>🟥</td><td>Sous Chef Struggler</td><td>Serve 10 bad dishes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Kitchen_Klutz.jpg' width='32'></td><td>🟥</td><td>Kitchen Klutz</td><td>Serve 20 bad dishes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Culinary_Catastrophe.jpg' width='32'></td><td>🟥</td><td>Culinary Catastrophe</td><td>Serve 50 bad dishes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Kitchen_Conqueror.jpg' width='32'></td><td>🟥</td><td>Kitchen Conqueror</td><td>Win 10 games in normal mode</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Sous_Chef_Supreme.jpg' width='32'></td><td>🟥</td><td>Sous Chef Supreme</td><td>Win 20 games in normal mode</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Culinary_Champion.jpg' width='32'></td><td>🟥</td><td>Culinary Champion</td><td>Win 50 games in normal mode</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Flavor_Explorer.jpg' width='32'></td><td>🟥</td><td>Flavor Explorer</td><td>Use 100 ingredients in dishes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Ingredients_Innovator.jpg' width='32'></td><td>🟥</td><td>Ingredients Innovator</td><td>Use 200 ingredients in dishes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/Culinary_Creator.jpg' width='32'></td><td>🟥</td><td>Culinary Creator</td><td>Use 500 ingredients in dishes</td>
+<tr><td><img src='./generated/SteamMD/achievements/1977530/This_isn_t_what_i_ordered_.jpg' width='32'></td><td>🟥</td><td>This isn't what i ordered!</td><td></td>
+
+</table>
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/1977530/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/6.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/7.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/8.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/9.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/10.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/11.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/12.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/13.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/1977530/14.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+
+</details>
+
+---
+
+<a id="75-the-looker-"></a>
+### 75. The Looker 🪟 🍏
 <img src="./generated/SteamMD/covers/1985690_header.jpg" alt="The Looker" width="400px">
 
 - **Playtime:** 0 hours
@@ -5089,12 +6095,12 @@ Explore several charmed locations on a mysterious island replete with over 55 cr
 
 ---
 
-<a id="68-barro-gt-"></a>
-### 68. Barro GT 🪟
+<a id="76-barro-gt-"></a>
+### 76. Barro GT 🪟
 <img src="./generated/SteamMD/covers/1990740_header.jpg" alt="Barro GT" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** $4.99
+- **Price:** $0.49
 - **Price/hour:** -
 - **Creator:** [SC Jogos](https://store.steampowered.com/search/?developer=SC+Jogos)
 - **Developer:** SC Jogos
@@ -5154,8 +6160,8 @@ Explore several charmed locations on a mysterious island replete with over 55 cr
 
 ---
 
-<a id="69-steam-engine-simulator-"></a>
-### 69. Steam Engine Simulator 🪟
+<a id="77-steam-engine-simulator-"></a>
+### 77. Steam Engine Simulator 🪟
 <img src="./generated/SteamMD/covers/2381620_header.jpg" alt="Steam Engine Simulator" width="400px">
 
 - **Playtime:** 17 hours
@@ -5215,8 +6221,8 @@ On January 21, 2023, AngeTheGreat released a video called &quot;Simulating a Ste
 
 ---
 
-<a id="70-bopl-battle-demo-"></a>
-### 70. Bopl Battle Demo 🪟
+<a id="78-bopl-battle-demo-"></a>
+### 78. Bopl Battle Demo 🪟
 <img src="./generated/SteamMD/covers/2494960_header.jpg" alt="Bopl Battle Demo" width="400px">
 
 - **Playtime:** 2 hours
@@ -5239,8 +6245,49 @@ On January 21, 2023, AngeTheGreat released a video called &quot;Simulating a Ste
 
 ---
 
-<a id="71-revolution-idle-"></a>
-### 71. Revolution Idle 🪟
+<a id="79-battle-simulator-counter-stickman-"></a>
+### 79. Battle Simulator: Counter Stickman 🪟 🍏
+<img src="./generated/SteamMD/covers/2623090_header.jpg" alt="Battle Simulator: Counter Stickman" width="400px">
+
+- **Playtime:** 0 hours
+- **Price:** $0.59
+- **Price/hour:** -
+- **Creator:** [Yurii Nikshych](https://store.steampowered.com/search/?developer=Yurii+Nikshych)
+- **Developer:** Yurii Nikshych
+- **Publisher:** GrabTheGames
+- **Genres:** Indie, Simulation, Strategy
+- **Achievements:** 0/0
+
+**Short description:** The stickmen must strike at the terror enemy stickmen in this Battle Simulator
+
+<details>
+<summary>Detailed description</summary>
+
+The stickmen terror forces must be stopped with a tactical strike! You are the battle commander of the counter terrorist stickman (CTS) forces.<br />  <br />  ▶battle simulator - style gameplay<br />  ▶3D stickmen, levels and gun models<br />  ▶Help win the stickman war.. on terror!<br />  ▶Accurate stickman tactics
+
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/2623090/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/2623090/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/2623090/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/2623090/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/2623090/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/2623090/6.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/2623090/7.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/2623090/8.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/2623090/9.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/2623090/10.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/2623090/11.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+
+</details>
+
+---
+
+<a id="80-revolution-idle-"></a>
+### 80. Revolution Idle 🪟
 <img src="./generated/SteamMD/covers/2763740_header.jpg" alt="Revolution Idle" width="400px">
 
 - **Playtime:** 0 hours
@@ -5250,7 +6297,7 @@ On January 21, 2023, AngeTheGreat released a video called &quot;Simulating a Ste
 - **Developer:** Oni Gaming, Nu Games
 - **Publisher:** Oni Gaming
 - **Genres:** Casual, Indie, Simulation, Free To Play
-- **Achievements:** 6/320
+- **Achievements:** 6/425
 
 **Short description:** Join an experience where each revolution takes you further into the unknown! Revolution Idle challenges you to multiply your accumulators to reach unimaginable heights. Will you manage to reach infinity?
 
@@ -5542,11 +6589,11 @@ On January 21, 2023, AngeTheGreat released a video called &quot;Simulating a Ste
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Just_as_eagerly_awaited_as_August_14__2025.jpg' width='32'></td><td>🟥</td><td>Just as eagerly awaited as August 14, 2025</td><td>Try automerge for the first time</td>
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Feel_real_progress_on_merging.jpg' width='32'></td><td>🟥</td><td>Feel real progress on merging</td><td>Upgrade Refine Node 1 to Level 2+</td>
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Refine_Tree_Stump.jpg' width='32'></td><td>🟥</td><td>Refine Tree Stump</td><td>Have at least 1 Level in first 8 Refine Nodes</td>
-<tr><td><img src='./generated/SteamMD/achievements/2763740/Infinitely_attacking_prestiger.jpg' width='32'></td><td>🟥</td><td>Infinitely attacking prestiger</td><td>Get 1,08e308 Attacks Mult. Gain from Attacks Prestige</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Infinitely_attacking_prestiger.jpg' width='32'></td><td>🟥</td><td>Infinitely attacking prestiger</td><td>Get 1.08e308 Attacks Mult. Gain from Attacks Prestige</td>
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Merging_Level_Grinder.jpg' width='32'></td><td>🟥</td><td>Merging Level Grinder</td><td>Buy Relic 28</td>
 <tr><td><img src='./generated/SteamMD/achievements/2763740/MINERAL_100_.jpg' width='32'></td><td>🟥</td><td>MINERAL 100!</td><td>Merge a Level 100+ Mineral</td>
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Magnetic_Attraction.jpg' width='32'></td><td>🟥</td><td>Magnetic Attraction</td><td>Have 10+ Magnets</td>
-<tr><td><img src='./generated/SteamMD/achievements/2763740/Precious_Infinity.jpg' width='32'></td><td>🟥</td><td>Precious Infinity</td><td>Have 1,08e308+ Value Points</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Precious_Infinity.jpg' width='32'></td><td>🟥</td><td>Precious Infinity</td><td>Have 1.08e308+ Value Points</td>
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Deep_Refinement.jpg' width='32'></td><td>🟥</td><td>Deep Refinement</td><td>Buy Refine Node 21</td>
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Magnet_Collector.jpg' width='32'></td><td>🟥</td><td>Magnet Collector</td><td>Have 1,000+ Magnets</td>
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Halfway_There.jpg' width='32'></td><td>🟥</td><td>Halfway There</td><td>Reach Merge Level 50+</td>
@@ -5585,6 +6632,111 @@ On January 21, 2023, AngeTheGreat released a video called &quot;Simulating a Ste
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Relic_Pioneer.jpg' width='32'></td><td>🟥</td><td>Relic Pioneer</td><td>Have 1+ Level in Relic 35</td>
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Immortal_Fortune.jpg' width='32'></td><td>🟥</td><td>Immortal Fortune</td><td>Get a Zodiac with Rarity Immortal+200 or better</td>
 <tr><td><img src='./generated/SteamMD/achievements/2763740/Base_Evolution.jpg' width='32'></td><td>🟥</td><td>Base Evolution</td><td>Reach Base Level 2+ for any of Special Minerals in SMP</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Elementary__Watson_.jpg' width='32'></td><td>🟥</td><td>Elementary, Watson!</td><td>Buy Refine Node 55</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Starting_Off_A_Little_Spark.jpg' width='32'></td><td>🟥</td><td>Starting Off A Little Spark</td><td>Get 1+ Fire</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Lighting_Matches.jpg' width='32'></td><td>🟥</td><td>Lighting Matches</td><td>Get 100+ Fire</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Required_For_Planting_Flowers.jpg' width='32'></td><td>🟥</td><td>Required For Planting Flowers</td><td>Get 2+ Earth</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Digging_Deeper.jpg' width='32'></td><td>🟥</td><td>Digging Deeper</td><td>Get 400+ Earth</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Polishing_an_Infinity.jpg' width='32'></td><td>🟥</td><td>Polishing an Infinity</td><td>Reach 1.08e308+ Polish Points</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Inhale__Exhale.jpg' width='32'></td><td>🟥</td><td>Inhale, Exhale</td><td>Get 3+ Wind</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Feeling_A_Little_Air.jpg' width='32'></td><td>🟥</td><td>Feeling A Little Air</td><td>Get 1,000+ Wind</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_Drop_In_The_Ocean.jpg' width='32'></td><td>🟥</td><td>A Drop In The Ocean</td><td>Get 5+ Water</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_Cup_Of_Water.jpg' width='32'></td><td>🟥</td><td>A Cup Of Water</td><td>Get 10,000+ Water</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Rarity_Plus_Goes_Way_Too_Fast.jpg' width='32'></td><td>🟥</td><td>Rarity Plus Goes Way Too Fast</td><td>Get a Zodiac with Immortal+300+ Rarity</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/WERY_FUNNY_MEME.jpg' width='32'></td><td>🟥</td><td>WERY FUNNY MEME</td><td>Buy Relic 36</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/I_m_Tired_Of_Waiting_For_Attack_Level.jpg' width='32'></td><td>🟥</td><td>I'm Tired Of Waiting For Attack Level</td><td>Buy Refine Node 56</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/The_Four_Elements.jpg' width='32'></td><td>🟥</td><td>The Four Elements</td><td>Have 1e6+ of each element</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_Gap_Between_Front_Teeth.jpg' width='32'></td><td>🟥</td><td>A Gap Between Front Teeth</td><td>Sacrifice Palate Expander (Relic 14)</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Out_Of_The_Context.jpg' width='32'></td><td>🟥</td><td>Out Of The Context</td><td>Buy Relic 37</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Too_Many_Twos.jpg' width='32'></td><td>🟥</td><td>Too Many Twos</td><td>Reach 2.22e22 RfP</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Elements_Mastery.jpg' width='32'></td><td>🟥</td><td>Elements Mastery</td><td>Have 1e9+ of all elements</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Boosting_Elements.jpg' width='32'></td><td>🟥</td><td>Boosting Elements</td><td>Buy 2+ of RN 60</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Russian_Oldskool_Meme.jpg' width='32'></td><td>🟥</td><td>Russian Oldskool Meme</td><td>Spawn Lv.228 Mineral</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/With_a_new_node____it_s_not_hard.jpg' width='32'></td><td>🟥</td><td>With a new node... it's not hard</td><td>Reach 256 Merge Level</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Here_comes_new_rarities.jpg' width='32'></td><td>🟥</td><td>Here comes new rarities</td><td>Merge 3 zodiacs with Immortal+1,000 rarity</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/4K.jpg' width='32'></td><td>🟥</td><td>4K</td><td>Reach 4,000 Attack Level</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Rarity_Plus_For_New_Rarity.jpg' width='32'></td><td>🟥</td><td>Rarity Plus For New Rarity</td><td>Get an Ethereal+1 Zodiac (through Unity)</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Mineral_Scaling.jpg' width='32'></td><td>🟥</td><td>Mineral Scaling</td><td>Have a Mineral with Level 250+</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Merge_Level_goes_brrr.jpg' width='32'></td><td>🟥</td><td>Merge Level goes brrr</td><td>Reach 300+ Merge Level</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Windy_Node.jpg' width='32'></td><td>🟥</td><td>Windy Node</td><td>Buy Refine Node 62</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Rarity_Plus_Plus.jpg' width='32'></td><td>🟥</td><td>Rarity Plus Plus</td><td>Get an Ethereal+2 Zodiac (through Unity)</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Fire_Master.jpg' width='32'></td><td>🟥</td><td>Fire Master</td><td>Buy Fire Node 6</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Special_Mineral_Specialist.jpg' width='32'></td><td>🟥</td><td>Special Mineral Specialist</td><td>Reach Lv.3 of SMP for any special mineral</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Devil_s_Node.jpg' width='32'></td><td>🟥</td><td>Devil's Node</td><td>Buy Refine Node 66</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Tulips_Land.jpg' width='32'></td><td>🟥</td><td>Tulips Land</td><td>Buy Relic 39</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/No_More_Debuffs.jpg' width='32'></td><td>🟥</td><td>No More Debuffs</td><td>Reach x1 Element Gen. Mult</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Hurricane.jpg' width='32'></td><td>🟥</td><td>Hurricane</td><td>Buy Wind Node 6</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Elemental_Warlock.jpg' width='32'></td><td>🟥</td><td>Elemental Warlock</td><td>Have 1e50+ of all elements</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Scaling_Of_Special_Minerals.jpg' width='32'></td><td>🟥</td><td>Scaling Of Special Minerals</td><td>Have 7,500+ SM spawned factor</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Hurricane_Launcher.jpg' width='32'></td><td>🟥</td><td>Hurricane Launcher</td><td>Have 1e100+ Wind</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Ultrarare.jpg' width='32'></td><td>🟥</td><td>Ultrarare</td><td>Get Ethereal+25 zodiac or better (through Unity)</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Shot_Of_The_Destiny.jpg' width='32'></td><td>🟥</td><td>Shot Of The Destiny</td><td>Buy Relic 40</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Not_this_joke_again.jpg' width='32'></td><td>🟥</td><td>Not this joke again</td><td>Buy RN 69</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Gem_Of_Dark_Magic.jpg' width='32'></td><td>🟥</td><td>Gem Of Dark Magic</td><td>Spawn Black gem for the first time</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Ready_for_the_prediction_.jpg' width='32'></td><td>🟥</td><td>Ready for the prediction?</td><td>Have 1+ Tarot Draws</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Cards_shows_the_fate.jpg' width='32'></td><td>🟥</td><td>Cards shows the fate</td><td>Draw 2 Tarot Cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Dive_like_Scrooge.jpg' width='32'></td><td>🟥</td><td>Dive like Scrooge</td><td>Reach 1e100,000 Gold</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_good_gift.jpg' width='32'></td><td>🟥</td><td>A good gift</td><td>Draw 4 Tarot Cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_weapon_against_the_special_mineral_cost_scaling.jpg' width='32'></td><td>🟥</td><td>A weapon against the special mineral cost scaling</td><td>Use Chariot for the first time</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Don_t_always_destroy_your_black_gems.jpg' width='32'></td><td>🟥</td><td>Don't always destroy your black gems</td><td>Get Lv.2 for black gem SMP</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Hopeless_and_depressed.jpg' width='32'></td><td>🟥</td><td>Hopeless and depressed</td><td>Get FIVE OF CUPS card</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/New_Frontier.jpg' width='32'></td><td>🟥</td><td>New Frontier</td><td>Reach 1e50+ RfP</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_pack_of_cards.jpg' width='32'></td><td>🟥</td><td>A pack of cards</td><td>Get 20 tarot cards (total level)</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/There_is_a_difference_to_the_prev__ach_.jpg' width='32'></td><td>🟥</td><td>There is a difference to the prev. ach.</td><td>Get 20 different tarot cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Charriot_s_powers.jpg' width='32'></td><td>🟥</td><td>Charriot's powers</td><td>Have 0 SMS Factor and have Lv.5 Black Gem on the grid at the same time</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Moar_Skills.jpg' width='32'></td><td>🟥</td><td>Moar Skills</td><td>Get any another arcan card</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Waterfall_on_the_edge_of_the_Earth.jpg' width='32'></td><td>🟥</td><td>Waterfall on the edge of the Earth</td><td>Reach 1e100+ Water</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Never_tell_personal_things_on_Discord.jpg' width='32'></td><td>🟥</td><td>Never tell personal things on Discord</td><td>Get 7 of Swords card</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_card_for_each_day_in_November.jpg' width='32'></td><td>🟥</td><td>A card for each day in November</td><td>Have 30 different Tarot Cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Card_s_effect_goes_brrr.jpg' width='32'></td><td>🟥</td><td>Card's effect goes brrr</td><td>Have 5+ cards (levels) of a certain card</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/More_Skills.jpg' width='32'></td><td>🟥</td><td>More Skills</td><td>Have 2+ cards (levels) of any arcan card</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_Pack_Of_Cards.jpg' width='32'></td><td>🟥</td><td>A Pack Of Cards</td><td>Have 50 Total Cards Levels</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Better_Chances_-_More_Cards.jpg' width='32'></td><td>🟥</td><td>Better Chances - More Cards</td><td>Buy Relic 42 for the first time</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Feels_like_a_MMORPG.jpg' width='32'></td><td>🟥</td><td>Feels like a MMORPG</td><td>Have 6+ different arcan cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Try_double_buff_.jpg' width='32'></td><td>🟥</td><td>Try double buff!</td><td>Make 2 arcans be active at the same time</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/But_what_about_trying_tripple_.jpg' width='32'></td><td>🟥</td><td>But what about trying tripple?</td><td>Make 3 arcans be active at the same time</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/It_s_time_to_say_goodbye_to_the_past.jpg' width='32'></td><td>🟥</td><td>It's time to say goodbye to the past</td><td>Get Special Minerals Grid be completely occupied at 9x9 size</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Way_too_FAIR.jpg' width='32'></td><td>🟥</td><td>Way too FAIR</td><td>Make SMS Factor &gt; 10,000</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Earth_Population_as_a_cap.jpg' width='32'></td><td>🟥</td><td>Earth Population as a cap</td><td>Reach 8,15e9 ascension for common revolutions</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_skill_for_every_situation.jpg' width='32'></td><td>🟥</td><td>A skill for every situation</td><td>Have 10+ different arcan cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/From_Ace_to_Ten.jpg' width='32'></td><td>🟥</td><td>From Ace to Ten</td><td>Have 10 different cards for each suit (Swords, Wands, Pentacles, Cups)</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Doubling_the_effect.jpg' width='32'></td><td>🟥</td><td>Doubling the effect</td><td>Have 10+ cards (levels) of a certain card</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Tarot_Upgrades___.jpg' width='32'></td><td>🟥</td><td>Tarot Upgrades???</td><td>Have 1M+ swords, clubs, pentacles and cups resources</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Tarot_Bulks.jpg' width='32'></td><td>🟥</td><td>Tarot Bulks</td><td>Get Black Gem SMP Level 3+</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Cooldowns_go_brrr.jpg' width='32'></td><td>🟥</td><td>Cooldowns go brrr</td><td>Buy First Upgrade for all suits in Tarot Upgrades</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Ultraethereal.jpg' width='32'></td><td>🟥</td><td>Ultraethereal</td><td>Get an Ethereal+50 Zodiac through Unity</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/7K_Club.jpg' width='32'></td><td>🟥</td><td>7K Club</td><td>Reach Atk Lv 7,000+</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Unlucky_with_the_wheel.jpg' width='32'></td><td>🟥</td><td>Unlucky with the wheel</td><td>Get negative tarot draws</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Lucky_Gambler.jpg' width='32'></td><td>🟥</td><td>Lucky Gambler</td><td>Win the Wheel Of Fortune for 3 times in a row</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Super_Tarot_64.jpg' width='32'></td><td>🟥</td><td>Super Tarot 64</td><td>Have 64+ Different Cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/The_Whole_Set.jpg' width='32'></td><td>🟥</td><td>The Whole Set</td><td>Have all 22 arcans</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Are_you_ready_to_unpack_all_these_cards_.jpg' width='32'></td><td>🟥</td><td>Are you ready to unpack all these cards?</td><td>Have 12+ lvl Black Gem</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/The_deck_has_been_assembled_.jpg' width='32'></td><td>🟥</td><td>The deck has been assembled!</td><td>Have all different 78 cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Self-Explaining_Mineral_Achievement.jpg' width='32'></td><td>🟥</td><td>Self-Explaining Mineral Achievement</td><td>Have Mineral with Level 401</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Will_be_there_new_rarities_after_plus_x10_.jpg' width='32'></td><td>🟥</td><td>Will be there new rarities after plus x10?</td><td>Get Ethereal+100+ zodiac through Unity</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_tower_of_cards.jpg' width='32'></td><td>🟥</td><td>A tower of cards</td><td>Have 1,000+ tarot cards (levels)</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Closer_to_the_millionth_exponent.jpg' width='32'></td><td>🟥</td><td>Closer to the millionth exponent</td><td>Reach 1e700,000 gold</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Tarot_Upgrades_are_awesome_.jpg' width='32'></td><td>🟥</td><td>Tarot Upgrades are awesome!</td><td>Buy Second Upgrade for all suits in Tarot Upgrades</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Still_Growing_My_Tree.jpg' width='32'></td><td>🟥</td><td>Still Growing My Tree</td><td>Buy Refine Node 73</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/A_castle_of_cards.jpg' width='32'></td><td>🟥</td><td>A castle of cards</td><td>Have 5,000+ tarot cards (levels)</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Open_them_all_.jpg' width='32'></td><td>🟥</td><td>Open them all!</td><td>Have 10,000+ tarot cards (levels) and 78 unique tarot cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Tarot_currencies_have_their_own_purpose.jpg' width='32'></td><td>🟥</td><td>Tarot currencies have their own purpose</td><td>Buy Third Upgrade for all suits in Tarot Upgrades</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Golden_Exponential_Millionaire.jpg' width='32'></td><td>🟥</td><td>Golden Exponential Millionaire</td><td>Reach 1e1,000,000 gold</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Gem_Levelling_Master.jpg' width='32'></td><td>🟥</td><td>Gem Levelling Master</td><td>Have SMP Any gem Lv.5+</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Mineral_for_500_bucks.jpg' width='32'></td><td>🟥</td><td>Mineral for 500 bucks</td><td>Have Mineral with Lv.500+</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Seventh_Element.jpg' width='32'></td><td>🟥</td><td>Seventh Element</td><td>Buy Element Node 7 for all elements</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/My_PP_is_enormous_.jpg' width='32'></td><td>🟥</td><td>My PP is enormous!</td><td>Reach 1e100,000+ PP</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/New_Rarity_in_next_update.jpg' width='32'></td><td>🟥</td><td>New Rarity in next update</td><td>Get a Zodiac with Ethereal+1000 rarity through Unity</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/High_hopes_and_ambitions.jpg' width='32'></td><td>🟥</td><td>High hopes and ambitions</td><td>Buy Relic 45</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/So_many_tarot_cards_.jpg' width='32'></td><td>🟥</td><td>So many tarot cards!</td><td>Have 1,000+ cards (levels) of each of 78 cards</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Max_Level_for_the_special_minerals.jpg' width='32'></td><td>🟥</td><td>Max Level for the special minerals</td><td>Get Lv.20 Special Mineral</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Refining_for_the_hundredth_time.jpg' width='32'></td><td>🟥</td><td>Refining for the hundredth time</td><td>Reach 1e100+ RfP</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/This_is_how_life_was_created.jpg' width='32'></td><td>🟥</td><td>This is how life was created</td><td>Have 1e1,000+ of all elements</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Level_3_is_everywhere_.jpg' width='32'></td><td>🟥</td><td>Level 3 is everywhere!</td><td>Get Lv.3 for all tarot suits upgrade-3</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Tarot_Update_s_Last_Refine_Node.jpg' width='32'></td><td>🟥</td><td>Tarot Update's Last Refine Node</td><td>Buy RN 80</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Card_Millionaire.jpg' width='32'></td><td>🟥</td><td>Card Millionaire</td><td>Have 1e6 total cards (levels)</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Golden_Hell.jpg' width='32'></td><td>🟥</td><td>Golden Hell</td><td>Reach 1e6,666,666 Gold</td>
+<tr><td><img src='./generated/SteamMD/achievements/2763740/Can_forget_about_element_tree_now.jpg' width='32'></td><td>🟥</td><td>Can forget about element tree now</td><td>Buy last node in all elements trees</td>
 
 </table>
 </details>
@@ -5605,8 +6757,8 @@ On January 21, 2023, AngeTheGreat released a video called &quot;Simulating a Ste
 
 ---
 
-<a id="72-banana-"></a>
-### 72. Banana 🪟 🐧
+<a id="81-banana-"></a>
+### 81. Banana 🪟 🐧
 <img src="./generated/SteamMD/covers/2923300_header.jpg" alt="Banana" width="400px">
 
 - **Playtime:** 0 hours
@@ -5731,12 +6883,12 @@ On January 21, 2023, AngeTheGreat released a video called &quot;Simulating a Ste
 
 ---
 
-<a id="73-kitchen-wars-"></a>
-### 73. Kitchen Wars 🪟
+<a id="82-kitchen-wars-"></a>
+### 82. Kitchen Wars 🪟
 <img src="./generated/SteamMD/covers/2955840_header.jpg" alt="Kitchen Wars" width="400px">
 
 - **Playtime:** 0 hours
-- **Price:** HK$ 19.50
+- **Price:** $2.99
 - **Price/hour:** -
 - **Creator:** [Silent Owl](https://store.steampowered.com/search/?developer=Silent+Owl)
 - **Developer:** Silent Owl
@@ -5808,8 +6960,110 @@ On January 21, 2023, AngeTheGreat released a video called &quot;Simulating a Ste
 
 ---
 
-<a id="74-trainfort-playtest-"></a>
-### 74. Trainfort Playtest 🪟
+<a id="83-peak-"></a>
+### 83. PEAK 🪟
+<img src="./generated/SteamMD/covers/3527290_header.jpg" alt="PEAK" width="400px">
+
+- **Playtime:** 4 hours
+- **Price:** $7.99
+- **Price/hour:** 2.00 € / h
+- **Creator:** [Team PEAK](https://store.steampowered.com/search/?developer=Team+PEAK)
+- **Developer:** Team PEAK
+- **Publisher:** Aggro Crab, Landfall
+- **Genres:** Action, Adventure, Indie
+- **Achievements:** 9/54
+
+**Short description:** PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?
+
+<details>
+<summary>Detailed description</summary>
+
+<p class="bb_paragraph" >PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?</p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/e82d11d9221b2a65adeb68d8cdbc3bd2.poster.avif?t=1764003551" width=600 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/e82d11d9221b2a65adeb68d8cdbc3bd2.webm?t=1764003551" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/e82d11d9221b2a65adeb68d8cdbc3bd2.mp4?t=1764003551" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>WORK TOGETHER</strong></p><p class="bb_paragraph" >Need a Hand? You’ll need to rely on your friends to have any hope of scaling the mountain, which changes every single day. Help each other up ledges, or place ropes and climbing spikes to make the way easier for those who come after.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/846e9fa10908c6ffe7ce91c6c9e7a937.poster.avif?t=1764003551" width=600 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/846e9fa10908c6ffe7ce91c6c9e7a937.webm?t=1764003551" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/846e9fa10908c6ffe7ce91c6c9e7a937.mp4?t=1764003551" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>CLIMB</strong></p><p class="bb_paragraph" >The Mountain Takes no Prisoners! Climb through 4 biomes on your way to the PEAK, each with their own life-threatening obstacles. You’ll need to scavenge for questionable food to survive, and manage your injuries carefully - every setback limits your stamina, making it harder to climb.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/5693882416756ce57898b4b2f774245d.poster.avif?t=1764003551" width=600 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/5693882416756ce57898b4b2f774245d.webm?t=1764003551" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/5693882416756ce57898b4b2f774245d.mp4?t=1764003551" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>SURVIVE</strong></p><p class="bb_paragraph" >Prepare For the Worst: Discover a variety of helpful survival items, from energy drinks to climbing spikes to the mysterious Anti-Rope. You’ve got no hope of making it to the PEAK unless you press every advantage given to you.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/d727ff6feeb578b5f07bf160882ed15f.poster.avif?t=1764003551" width=600 height=172 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/d727ff6feeb578b5f07bf160882ed15f.webm?t=1764003551" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/d727ff6feeb578b5f07bf160882ed15f.mp4?t=1764003551" type="video/mp4"></video></span></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>A NEW ISLAND EACH DAY</strong></p><p class="bb_paragraph" >The game's map rotates out every 24 hours! Try out the new layout each day, or give the same island multiple attempts in a day until you conquer it.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/237f4cb42de69c582fbb73ba5f8cf462.poster.avif?t=1764003551" width=600 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/237f4cb42de69c582fbb73ba5f8cf462.webm?t=1764003551" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/237f4cb42de69c582fbb73ba5f8cf462.mp4?t=1764003551" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>EARN BADGES</strong></p><p class="bb_paragraph" >A Well-Seasoned Scout: Show off your survival prowess with dozens of badges to earn and cosmetics to unlock.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/270bbff7baa4cfb700c04a6c09085cd1.poster.avif?t=1764003551" width=600 height=170 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/270bbff7baa4cfb700c04a6c09085cd1.webm?t=1764003551" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/270bbff7baa4cfb700c04a6c09085cd1.mp4?t=1764003551" type="video/mp4"></video></span></p><p class="bb_paragraph" ><strong>CLIMBING IS BETTER WITH FRIENDS</strong></p><p class="bb_paragraph" >Multiplayer in PEAK is friends-only - invite up to three other scouts through Steam to climb together, or face the mountain alone if you're <i>really</i> brave!</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/738321f1bc4d3b1d1dddb55463c6e2eb.poster.avif?t=1764003551" width=600 height=172 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/738321f1bc4d3b1d1dddb55463c6e2eb.webm?t=1764003551" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/extras/738321f1bc4d3b1d1dddb55463c6e2eb.mp4?t=1764003551" type="video/mp4"></video></span></p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><strong>FEATURES</strong></p><ul class="bb_ul"><li><p class="bb_paragraph" >Climb with a total of 4 friends</p></li></ul><ul class="bb_ul"><li><p class="bb_paragraph" >Communicate through proximity chat </p></li></ul><ul class="bb_ul"><li><p class="bb_paragraph" >4 different biomes to ascend through</p></li><li><p class="bb_paragraph" >A bunch of questionable foods</p></li><li><p class="bb_paragraph" >Lots of different climbing items</p></li><li><p class="bb_paragraph" >Campfires and marshmallows</p></li><li><p class="bb_paragraph" >Character customization</p></li><li><p class="bb_paragraph" >Online co-op and offline single player</p></li><li><p class="bb_paragraph" >Ghosts</p></li></ul><p class="bb_paragraph" > </p>
+
+</details>
+
+<details>
+<summary>Achievements Details</summary>
+
+<table>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Peak_Badge.jpg' width='32'></td><td>🟥</td><td>Peak Badge</td><td>Reach the PEAK.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Cooking_Badge.jpg' width='32'></td><td>🟥</td><td>Cooking Badge</td><td>Cook 20 meals at campfires.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Knot_Tying_Badge.jpg' width='32'></td><td>🟥</td><td>Knot Tying Badge</td><td>Place 100m of rope in a single expedition.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Beachcomber_Badge.jpg' width='32'></td><td>🟩</td><td>Beachcomber Badge</td><td>Climb past the SHORE.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Participation_Badge.jpg' width='32'></td><td>🟩</td><td>Participation Badge</td><td>Have a friend escape the island without you.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Trailblazer_Badge.jpg' width='32'></td><td>🟩</td><td>Trailblazer Badge</td><td>Climb past the TROPICS.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Happy_Camper_Badge.jpg' width='32'></td><td>🟩</td><td>Happy Camper Badge</td><td>Receive 5 Morale Boosts from campfires.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Alpinist_Badge.jpg' width='32'></td><td>🟥</td><td>Alpinist Badge</td><td>Climb past the ALPINE.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Volcanology_Badge.jpg' width='32'></td><td>🟩</td><td>Volcanology Badge</td><td>Climb past the CALDERA.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Bouldering_Badge.jpg' width='32'></td><td>🟥</td><td>Bouldering Badge</td><td>Place 10 pitons.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Toxicology_Badge.jpg' width='32'></td><td>🟥</td><td>Toxicology Badge</td><td>Restore 200 total poison by using items.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Foraging_Badge.jpg' width='32'></td><td>🟥</td><td>Foraging Badge</td><td>Eat 5 different berries in a single expedition.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Esoterica_Badge.jpg' width='32'></td><td>🟩</td><td>Esoterica Badge</td><td>Obtain a mystical item.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Lone_Wolf_Badge.jpg' width='32'></td><td>🟥</td><td>Lone Wolf Badge</td><td>Escape the island in a solo expedition.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Clutch_Badge.jpg' width='32'></td><td>🟥</td><td>Clutch Badge</td><td>Resurrect 3 scouts in a single expedition.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Balloon_Badge.jpg' width='32'></td><td>🟥</td><td>Balloon Badge</td><td>Escape the island without taking fall damage.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Leave_No_Trace_Badge.jpg' width='32'></td><td>🟥</td><td>Leave No Trace Badge</td><td>Escape the island without placing anything on the mountain.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Speed_Climber_Badge.jpg' width='32'></td><td>🟥</td><td>Speed Climber Badge</td><td>Escape the island in under an hour.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Bing_Bong_Badge.jpg' width='32'></td><td>🟩</td><td>Bing Bong Badge</td><td>Help Bing Bong escape the island.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Naturalist_Badge.jpg' width='32'></td><td>🟥</td><td>Naturalist Badge</td><td>Escape the island without eating any packaged food.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Gourmand_Badge.jpg' width='32'></td><td>🟥</td><td>Gourmand Badge</td><td>Escape the island after cooking and eating a coconut half, a honeycomb, a yellow winterberry, and an egg.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Mycology_Badge.jpg' width='32'></td><td>🟥</td><td>Mycology Badge</td><td>Eat four different non-toxic mushrooms in a single expedition.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/First_Aid_Badge.jpg' width='32'></td><td>🟥</td><td>First Aid Badge</td><td>Heal your friends for 100 points of injury in a single expedition.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Survivalist_Badge.jpg' width='32'></td><td>🟥</td><td>Survivalist Badge</td><td>Escape the island without ever losing consciousness.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Animal_Serenading_Badge.jpg' width='32'></td><td>🟥</td><td>Animal Serenading Badge</td><td>Play the bugle for a capybara.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Arborist_Badge.jpg' width='32'></td><td>🟥</td><td>Arborist Badge</td><td>Reach the top of a really big tree.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Mentorship_Badge.jpg' width='32'></td><td>🟥</td><td>Mentorship Badge</td><td>Have a 1-on-1 with the Scoutmaster.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Emergency_Preparedness_Badge.jpg' width='32'></td><td>🟥</td><td>Emergency Preparedness Badge</td><td>Heal an unconscious friend with an item to save them from death.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/High_Altitude_Badge.jpg' width='32'></td><td>🟥</td><td>High Altitude Badge</td><td>Climb 5000m total.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Plunderer_Badge.jpg' width='32'></td><td>🟥</td><td>Plunderer Badge</td><td>Open 15 luggages in a single expedition.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Bookworm_Badge.jpg' width='32'></td><td>🟥</td><td>Bookworm Badge</td><td>Read all of Scoutmaster Myres's journal entries.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Endurance_Badge.jpg' width='32'></td><td>🟥</td><td>Endurance Badge</td><td>Climb 50m upwards without touching the ground.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Nomad_Badge.jpg' width='32'></td><td>🟩</td><td>Nomad Badge</td><td>Climb past the MESA.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Ultimate_Badge.jpg' width='32'></td><td>🟥</td><td>Ultimate Badge</td><td>Catch a Flying Disc from 100m away.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Cool_Cucumber_Badge.jpg' width='32'></td><td>🟥</td><td>Cool Cucumber Badge</td><td>Climb past the MESA without ever having more than 10% Heat.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Needlepoint_Badge.jpg' width='32'></td><td>🟥</td><td>Needlepoint Badge</td><td>Have a lot of cactuses stuck to you.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Aeronautics_Badge.jpg' width='32'></td><td>🟥</td><td>Aeronautics Badge</td><td>Achieve flight.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/24_Karat_Badge.jpg' width='32'></td><td>🟥</td><td>24 Karat Badge</td><td>Offer The Kiln a worthy sacrifice.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Resourcefulness_Badge.jpg' width='32'></td><td>🟥</td><td>Resourcefulness Badge</td><td>Give in to your hunger.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Daredevil_Badge.jpg' width='32'></td><td>🟥</td><td>Daredevil Badge</td><td>Shoot across the MESA canyon in a Scout Cannon.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Megaentomology_Badge.jpg' width='32'></td><td>🟥</td><td>Megaentomology Badge</td><td>Survive an Antlion attack.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Astronomy_Badge.jpg' width='32'></td><td>🟥</td><td>Astronomy Badge</td><td>Look a little too closely at the blazing sun.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Bundled_Up_Badge.jpg' width='32'></td><td>🟥</td><td>Bundled Up Badge</td><td>Climb past the ALPINE without ever having more than 20% Cold.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Forestry_Badge.jpg' width='32'></td><td>🟥</td><td>Forestry Badge</td><td>Climb past the ROOTS.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Tread_Lightly_Badge.jpg' width='32'></td><td>🟥</td><td>Tread Lightly Badge</td><td>Climb past the ROOTS without ever having more than 25% spores.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Web_Security_Badge.jpg' width='32'></td><td>🟥</td><td>Web Security Badge</td><td>Escape a spider's web and survive.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Undead_Encounter_Badge.jpg' width='32'></td><td>🟥</td><td>Undead Encounter Badge</td><td>Cure yourself from a zombie bite.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Advanced_Mycology_Badge.jpg' width='32'></td><td>🟥</td><td>Advanced Mycology Badge</td><td>Try all 5 types of Shroomberry in a single expedition.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Disaster_Response_Badge.jpg' width='32'></td><td>🟥</td><td>Disaster Response Badge</td><td>Pull an unconscious friend 30m with the Rescue Claw.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Calcium_Intake_Badge.jpg' width='32'></td><td>🟩</td><td>Calcium Intake Badge</td><td>Block 100 total damage with the Fortified Milk.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Competitive_Eating_Badge.jpg' width='32'></td><td>🟥</td><td>Competitive Eating Badge</td><td>Eat 3 Hot Dogs in 5 seconds or less.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Applied_Esoterica_Badge.jpg' width='32'></td><td>🟥</td><td>Applied Esoterica Badge</td><td>Resurrect a friend using unholy means.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Mycoacrobatics_Badge.jpg' width='32'></td><td>🟥</td><td>Mycoacrobatics Badge</td><td>Bounce up 40m off a mushroom.</td>
+<tr><td><img src='./generated/SteamMD/achievements/3527290/Cryptogastronomy_Badge.jpg' width='32'></td><td>🟥</td><td>Cryptogastronomy Badge</td><td>Cook and eat a Mandrake.</td>
+
+</table>
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/3527290/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/3527290/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/3527290/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/3527290/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/3527290/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/3527290/6.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/3527290/7.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/3527290/8.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/3527290/9.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/3527290/10.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+
+</details>
+
+---
+
+<a id="84-trainfort-playtest-"></a>
+### 84. Trainfort Playtest 🪟
 <img src="./generated/SteamMD/covers/3563280_header.jpg" alt="Trainfort Playtest" width="400px">
 
 - **Playtime:** 0 hours
@@ -5826,6 +7080,41 @@ On January 21, 2023, AngeTheGreat released a video called &quot;Simulating a Ste
 <summary>Detailed description</summary>
 
 
+
+</details>
+
+---
+
+<a id="85-reanimal-demo-"></a>
+### 85. REANIMAL Demo 🪟
+<img src="./generated/SteamMD/covers/4019420_header.jpg" alt="REANIMAL Demo" width="400px">
+
+- **Playtime:** 0 hours
+- **Price:** Free or unknown
+- **Price/hour:** -
+- **Creator:** [Tarsier Studios](https://store.steampowered.com/search/?developer=Tarsier+Studios)
+- **Developer:** Tarsier Studios
+- **Publisher:** THQ Nordic, Amplifier Studios
+- **Genres:** Adventure
+- **Achievements:** 0/0
+
+**Short description:** Welcome to the hellish world of REANIMAL. In this exclusive playable demo of the game’s opening chapters, you will venture into the abandoned Mill in search of one of your missing friends, and learn quickly that co-operation is the only means of survival.
+
+<details>
+<summary>Detailed description</summary>
+
+<p class="bb_paragraph" >Welcome to the hellish world of REANIMAL. In this exclusive playable demo of the game’s opening chapters, you will venture into the abandoned Mill in search of one of your missing friends, and learn quickly that co-operation is the only means of survival.</p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/extras/e02b41fc552787d1b1809335ad375ad3.poster.avif?t=1763560017" width=616 height=230 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/extras/e02b41fc552787d1b1809335ad375ad3.webm?t=1763560017" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/extras/e02b41fc552787d1b1809335ad375ad3.mp4?t=1763560017" type="video/mp4"></video></span></p><p class="bb_paragraph" >Taking place at the very beginning of the game, you will learn how The Boy &amp; The Girl meet and, more importantly, get a hint of why they might be here. At the same time, you will get your first taste of riding the boat around this dark &amp; unforgiving place.</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/extras/2da1a5ee183cc58fc9a8a87032885aec.poster.avif?t=1763560017" width=616 height=230 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/extras/2da1a5ee183cc58fc9a8a87032885aec.webm?t=1763560017" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/extras/2da1a5ee183cc58fc9a8a87032885aec.mp4?t=1763560017" type="video/mp4"></video></span></p><p class="bb_paragraph" >As you find your way through the fog to the shores of The Mill, your search for Hood will introduce you to the many obstacles that block your path, including an encounter with her disfigured captor, known only as Sniffer.</p><p class="bb_paragraph" >Luckily, in this demo you will not have to defeat him - we’re saving that delight for the full game!</p><p class="bb_paragraph" ></p><p class="bb_paragraph" ><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/extras/2adccdcdf1ea59d4168bdf493171c26e.poster.avif?t=1763560017" width=616 height=230 ><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/extras/2adccdcdf1ea59d4168bdf493171c26e.webm?t=1763560017" type="video/webm; codecs=vp9"><source src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/extras/2adccdcdf1ea59d4168bdf493171c26e.mp4?t=1763560017" type="video/mp4"></video></span></p><h2 class="bb_tag" >Features</h2><ul class="bb_ul"><li><p class="bb_paragraph" >Immerse yourself in a brand-new world created by Tarsier Studios, filled with mystery and unspeakable horror</p></li><li><p class="bb_paragraph" >Meet the two main playable characters, The Boy &amp; The Girl, as they search for the first of their missing friends</p></li><li><p class="bb_paragraph" >Explore the Mill &amp; The Trainyard, and the first fragments of the mysterious story that lies beneath it all</p></li><li><p class="bb_paragraph" >Experience a first taste of Tarsier Studios' unique brand of co-op horror, where you must learn to work together to survive, whether riding by boat or exploring on foot.</p></li></ul>
+
+</details>
+
+<details>
+<summary>Screenshots</summary>
+
+<img src="./generated/SteamMD/screenshots/4019420/1.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/4019420/2.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/4019420/3.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/4019420/4.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
+<img src="./generated/SteamMD/screenshots/4019420/5.jpg" alt="Screenshot" width="400px" style="margin:5px 0;">  
 
 </details>
 
