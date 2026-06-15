@@ -87,7 +87,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >upptime</text>
+      >seminararbeit</text>
     </g>
       </g>
     
@@ -98,29 +98,16 @@
         >
           
     
-  <g data-testid="badge" class="badge" transform="translate(320, -18)">
-    <rect stroke="#aa00ff" stroke-width="1" width="70" height="20" x="-12" y="-14" ry="10" rx="10"></rect>
-    <text
-      x="23" y="-5"
-      alignment-baseline="central"
-      dominant-baseline="central"
-      text-anchor="middle"
-      fill="#aa00ff"
-    >
-      Template
-    </text>
-  </g>
-
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">&#11014;️ GitHub Actions uptime monitor &#38; status page</tspan><tspan dy="1.2em" x="25">by @AnandChowdhary</tspan>
+      <tspan dy="1.2em" x="25">Seminararbeit 2026</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#083fa1" />
-      <text data-testid="lang-name" class="gray" x="15">Markdown</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#e34c26" />
+      <text data-testid="lang-name" class="gray" x="15">HTML</text>
     </g>
     </g>
     </g>
