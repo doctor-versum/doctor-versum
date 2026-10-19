@@ -57,28 +57,34 @@ My favourite video games of all time are:
 <details open>
   <summary><strong>💻 Computers & Monitors</strong></summary>
   <ul>
-    <li><strong>👾 Primary PC</strong>
+    <li><strong>👾 Prinary PC</string>
+      <ul>
+        <li>🔧 AMD Ryzen 7 7800X3D</li>
+        <li>🎮 PowerColor AMD Radeon RX 6900 XT Red Devil Ultimate</li>
+        <li>🧠 2x16GB Corsair Vengeance DDR6-6000 (non-RGB)</li>
+      </ul>
+    <li><strong>💽 Home Server</strong>
       <ul>
         <li>🔧 Intel Core i5 6400</li>
-        <li>🎮 GeForce GTX 750 Ti</li>
+        <li>🖼️ Intel HD Graphics 530 (CPUs iGPU)</li>
         <li>🧠 2x16GB Crucial DDR4 RAM</li>
       </ul>
     </li>
     <li><strong>💻 Primary laptop</strong>: Lenovo Ideapad 3
       <ul>
-        <li>🔧 Intel Core i5</li>
-        <li>🎨 Intel Iris Xe Graphics</li>
+        <li>🔧 Intel Core i5 1135G7</li>
+        <li>🎨 Intel Iris Xe Graphics (CPUs iGPU)</li>
         <li>🧠 8 GB RAM</li>
       </ul>
     </li>
     <li><strong>🧪 Lab rat</strong>: Lenovo B580
       <ul>
-        <li>🔧 Intel Pentium</li>
-        <li>🎮 AMD Radeon Graphics</li>
+        <li>🔧 Intel Pentium T4500</li>
+        <li>🎮 Intel GMA 4500M (Chipsets iGPU)</li>
         <li>🧠 4 GB RAM</li>
       </ul>
     </li>
-    <li><strong>📺 Monitor</strong>: ThinkVision (portrait orientation)</li>
+    <li><strong>📺 Monitor</strong>: ThinkVision T24d-10</li>
   </ul>
 </details>
 <details>
