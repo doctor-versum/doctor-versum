@@ -61,7 +61,7 @@ My favourite video games of all time are:
       <ul>
         <li>🔧 AMD Ryzen 7 7800X3D</li>
         <li>🎮 PowerColor AMD Radeon RX 6900 XT Red Devil Ultimate</li>
-        <li>🧠 2x16GB Corsair Vengeance DDR6-6000 (non-RGB)</li>
+        <li>🧠 2x16GB Corsair Vengeance DDR5-6000 (non-RGB)</li>
       </ul>
     <li><strong>💽 Home Server</strong>
       <ul>
