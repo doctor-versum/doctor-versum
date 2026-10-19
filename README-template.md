@@ -74,7 +74,7 @@ My favourite video games of all time are:
       <ul>
         <li>🔧 Intel Core i5 1135G7</li>
         <li>🎨 Intel Iris Xe Graphics (CPUs iGPU)</li>
-        <li>🧠 8 GB RAM</li>
+        <li>🧠 8 GB RAM (NOT enough for windows 11!)</li>
       </ul>
     </li>
     <li><strong>🧪 Lab rat</strong>: Lenovo B580
@@ -91,6 +91,7 @@ My favourite video games of all time are:
   <summary><strong>🖱️ Peripherals</strong></summary>
   <ul>
     <li><strong>🖱️ Mouse</strong>: Cheap mouse (don’t remember the model)</li>
+    <li><strong>⌨️ Keyboard</strong>: Even cheaper Keyboard</li>
     <li><strong>🔈 Speakers</strong>: Teufel Kombo 11</li>
     <li><strong>🎤 Microphone</strong>: DJI Mic Mini (2 transmitters)</li>
     <li><strong>🎆 Launchpad</strong>: Novation Launchpad Mini MK3</li>
