@@ -57,36 +57,47 @@ My favourite video games of all time are:
 <details open>
   <summary><strong>💻 Computers & Monitors</strong></summary>
   <ul>
-    <li><strong>👾 Primary PC</strong>
+    <li><strong>👾 Prinary PC</string>
+      <ul>
+        <li>🔧 AMD Ryzen 7 7800X3D</li>
+        <li>🎮 PowerColor AMD Radeon RX 6900 XT Red Devil Ultimate</li>
+        <li>🧠 2x16GB Corsair Vengeance DDR5-6000 (non-RGB)</li>
+      </ul>
+    <li><strong>💽 Home Server</strong>
       <ul>
         <li>🔧 Intel Core i5 6400</li>
-        <li>🎮 GeForce GTX 750 Ti</li>
+        <li>🖼️ Intel HD Graphics 530 (CPUs iGPU)</li>
         <li>🧠 2x16GB Crucial DDR4 RAM</li>
       </ul>
     </li>
     <li><strong>💻 Primary laptop</strong>: Lenovo Ideapad 3
       <ul>
-        <li>🔧 Intel Core i5</li>
-        <li>🎨 Intel Iris Xe Graphics</li>
-        <li>🧠 8 GB RAM</li>
+        <li>🔧 Intel Core i5 1135G7</li>
+        <li>🎨 Intel Iris Xe Graphics (CPUs iGPU)</li>
+        <li>🧠 8 GB RAM (NOT enough for windows 11!)</li>
       </ul>
     </li>
     <li><strong>🧪 Lab rat</strong>: Lenovo B580
       <ul>
-        <li>🔧 Intel Pentium</li>
-        <li>🎮 AMD Radeon Graphics</li>
+        <li>🔧 Intel Pentium T4500</li>
+        <li>🎮 Intel GMA 4500M (Chipsets iGPU)</li>
         <li>🧠 4 GB RAM</li>
       </ul>
     </li>
-    <li><strong>📺 Monitor</strong>: ThinkVision (portrait orientation)</li>
+    <li><strong>📺 Monitor</strong>: ThinkVision T24d-10</li>
   </ul>
 </details>
 <details>
   <summary><strong>🖱️ Peripherals</strong></summary>
   <ul>
     <li><strong>🖱️ Mouse</strong>: Cheap mouse (don’t remember the model)</li>
-    <li><strong>🔈 Speakers</strong>: Teufel Kombo 11</li>
+    <li><strong>⌨️ Keyboard</strong>: Even cheaper Keyboard</li>
+    <li><strong>🔈 Speakers</strong>: Teufel Kombo 11 + 2x Teufel VT-11</li>
+    <li><strong>🔈 Speakers</string>: Lepy LP-V3S + 2x Canton Art 17179</li>
     <li><strong>🎤 Microphone</strong>: DJI Mic Mini (2 transmitters)</li>
+    <li><strong>🎤 Microphone</strong>: Sony Singstar mic for PS2</li>
+    <li><strong>🎛️ Audio Interface</strong>: Behringer UMC204HD</li>
+    <li><strong>🎚️ mixer</strong>: KORG nanoKONTROL Studio (via midiMixer and elgato WaveLink:3)</li>
     <li><strong>🎆 Launchpad</strong>: Novation Launchpad Mini MK3</li>
   </ul>
 </details>
@@ -95,8 +106,10 @@ My favourite video games of all time are:
   <ul>
     <li><strong>📱 Phone</strong>: Pixel 6 Pro</li>
     <li><strong>🖥️ Tablet</strong>: iPad 10th Gen (for school)</li>
-    <li><strong>🖥️ Tablet</strong>: Samsung Galaxy Tab A7</li>
+    <li><strong>🖥️ Tablet</strong>: Samsung Galaxy Tab S10+</li>
+    <li><strong>🖥️ Tablet</strong>: Samsung Galaxy Tab A7 (as secondary screen)</li>
     <li><strong>🥽 VR</strong>: Meta Quest 3</li>
+    <li><strong>🧭 VR Router</strong>: Kevin 🍌</li>
   </ul>
 </details>
 
