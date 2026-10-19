@@ -92,8 +92,12 @@ My favourite video games of all time are:
   <ul>
     <li><strong>🖱️ Mouse</strong>: Cheap mouse (don’t remember the model)</li>
     <li><strong>⌨️ Keyboard</strong>: Even cheaper Keyboard</li>
-    <li><strong>🔈 Speakers</strong>: Teufel Kombo 11</li>
+    <li><strong>🔈 Speakers</strong>: Teufel Kombo 11 + 2x Teufel VT-11</li>
+    <li><strong>🔈 Speakers</string>: Lepy LP-V3S + 2x Canton Art 17179</li>
     <li><strong>🎤 Microphone</strong>: DJI Mic Mini (2 transmitters)</li>
+    <li><strong>🎤 Microphone</strong>: Sony Singstar mic for PS2</li>
+    <li><strong>🎛️ Audio Interface</strong>: Behringer UMC204HD</li>
+    <li><strong>🎚️ mixer</strong>: KORG nanoKONTROL Studio (via midiMixer and elgato WaveLink:3)</li>
     <li><strong>🎆 Launchpad</strong>: Novation Launchpad Mini MK3</li>
   </ul>
 </details>
@@ -102,8 +106,10 @@ My favourite video games of all time are:
   <ul>
     <li><strong>📱 Phone</strong>: Pixel 6 Pro</li>
     <li><strong>🖥️ Tablet</strong>: iPad 10th Gen (for school)</li>
-    <li><strong>🖥️ Tablet</strong>: Samsung Galaxy Tab A7</li>
+    <li><strong>🖥️ Tablet</strong>: Samsung Galaxy Tab S10+</li>
+    <li><strong>🖥️ Tablet</strong>: Samsung Galaxy Tab A7 (as secondary screen)</li>
     <li><strong>🥽 VR</strong>: Meta Quest 3</li>
+    <li><strong>🧭 VR Router</strong>: Kevin 🍌</li>
   </ul>
 </details>
 
